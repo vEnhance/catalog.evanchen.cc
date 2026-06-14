@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block title %}{{ section.title }} &middot; OTIS Unit Catalog{% endblock title %}
+
+{% block content %}
+<article class="section subj-{{ section.extra.subject }}">
+  <h1>{{ section.title }}</h1>
+  <p class="section-count">{{ section.pages | length }} units</p>
+
+  <ul class="unit-list">
+    {% for page in section.pages %}
+    <li class="unit-entry">
+      <a class="unit-entry-thumb" href="{{ page.permalink }}">
+        <img loading="lazy"
+             src="https://web.evanchen.cc/otis/thumb/{{ page.slug }}.webp"
+             alt="{{ page.title }} artwork">
+      </a>
+      <div class="unit-entry-body">
+        <div class="unit-entry-name"><a href="{{ page.permalink }}">{{ page.title }}</a></div>
+        <p class="unit-entry-meta">
+          Art by {{ page.extra.artist_name }} &middot; <code>{{ page.slug }}</code>
+        </p>
+        {% if page.extra.description %}
+        <p class="unit-entry-desc">{{ page.extra.description }}</p>
+        {% endif %}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</article>
+{% endblock content %}

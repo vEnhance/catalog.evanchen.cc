@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %}All Units &middot; OTIS Unit Catalog{% endblock title %}
+
+{% block content %}
+<article class="all-units">
+  <h1>{{ page.title }}</h1>
+
+  {% set sections = ["A", "C", "F", "G", "H", "K", "M", "N"] %}
+  {% for letter in sections %}
+    {% set sec = get_section(path=letter ~ "/_index.md") %}
+    <h2 id="{{ letter }}">{{ sec.title }} <span class="group-count">({{ sec.pages | length }})</span></h2>
+
+    <table class="unit-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th>Name</th>
+          <th>Art credits</th>
+          <th>Slug</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for unit in sec.pages %}
+        <tr>
+          <td class="unit-thumb-cell">
+            <a href="{{ unit.permalink }}">
+              <img loading="lazy" class="unit-thumb"
+                   src="https://web.evanchen.cc/otis/thumb/{{ unit.slug }}.webp"
+                   alt="{{ unit.title }} artwork">
+            </a>
+          </td>
+          <td><a href="{{ unit.permalink }}">{{ unit.title }}</a></td>
+          <td>{{ unit.extra.artist_name }}</td>
+          <td><code>{{ unit.slug }}</code></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% endfor %}
+</article>
+{% endblock content %}

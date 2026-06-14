@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ config.title | default(value="OTIS Unit Catalog") }}{% endblock title %}</title>
+  <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+  <script defer
+          src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+  <script defer
+          src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      function renderAll() {
+        // Article bodies: importer-wrapped .math spans/divs hold raw TeX (with
+        // markdown-active characters HTML-encoded; textContent decodes them).
+        document.querySelectorAll(".math").forEach(function (el) {
+          try {
+            katex.render(el.textContent, el, {
+              displayMode: el.classList.contains("math-display"),
+              throwOnError: false,
+            });
+          } catch (e) { /* leave raw on failure */ }
+        });
+        // Plain-text fields (descriptions / quotes) carry raw $...$ delimiters,
+        // so use the auto-render extension to typeset those in place.
+        if (window.renderMathInElement) {
+          document.querySelectorAll(".unit-quote, .unit-entry-desc").forEach(function (el) {
+            renderMathInElement(el, {
+              delimiters: [
+                { left: "$$", right: "$$", display: true },
+                { left: "$", right: "$", display: false },
+              ],
+              throwOnError: false,
+            });
+          });
+        }
+      }
+      if (window.katex && window.renderMathInElement) { renderAll(); }
+      else { window.addEventListener("load", renderAll); }
+    });
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="site-title" href="{{ get_url(path='@/_index.md') }}">catalog.evanchen.cc</a>
+      <nav class="site-nav">
+        <a href="{{ get_url(path='@/_index.md') }}">Home</a>
+        <a href="{{ get_url(path='@/all.md') }}">All Units</a>
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle" type="button" aria-haspopup="true">Subjects &#9662;</button>
+          <ul class="nav-dropdown-menu">
+            {% set sections = ["A", "C", "F", "G", "H", "K", "M", "N"] %}
+            {% for letter in sections %}
+              {% set sec = get_section(path=letter ~ "/_index.md", metadata_only=true) %}
+              <li><a href="{{ get_url(path='@/' ~ letter ~ '/_index.md') }}">{{ letter }} &mdash; {{ sec.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </header>
+  <main class="site-main">
+    {% block content %}{% endblock content %}
+  </main>
+  <footer class="site-footer">
+    <p>OTIS Unit Catalog &middot; suggest edits via pull request on GitHub.</p>
+  </footer>
+</body>
+</html>
