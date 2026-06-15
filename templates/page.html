@@ -3,8 +3,8 @@
     {{ page.title }} · OTIS Unit Wiki
 {% endblock title %}
 {% block content %}
-    {% set dump = load_data(path="dump.json") %}
-    {% set u = dump.unit_groups | filter(attribute="slug", value=page.slug) | first %}
+    {% set units = load_data(path="units.json") %}
+    {% set u = units.unit_groups | filter(attribute="slug", value=page.slug) | first %}
     <article class="unit subj-{{ page.extra.subject }}">
         <div class="unit-head">
             <h1 class="unit-title">{{ page.title }}</h1>

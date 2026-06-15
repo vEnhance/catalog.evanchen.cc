@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block title %}{{ section.title }} · OTIS Unit Wiki{% endblock title %}
 {% block content %}
-    {% set dump = load_data(path="dump.json") %}
+    {% set units = load_data(path="units.json") %}
     <article class="section subj-{{ section.extra.subject }}">
         <h1>{{ section.title }}</h1>
         {% set hidden_count = section.pages | filter(attribute="extra.hidden", value=true) | length %}
@@ -10,7 +10,7 @@
         <ul class="unit-list">
             {% for page in section.pages %}
                 {% if not page.extra.hidden %}
-                    {% set u = dump.unit_groups | filter(attribute="slug", value=page.slug) | first %}
+                    {% set u = units.unit_groups | filter(attribute="slug", value=page.slug) | first %}
                     <li class="unit-entry">
                         <a class="unit-entry-thumb" href="{{ page.permalink }}">
                             <img loading="lazy"
