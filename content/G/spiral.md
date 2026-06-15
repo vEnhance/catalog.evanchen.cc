@@ -31,19 +31,18 @@ But it is a good practice set of problems to brush up on geo if you are rusty.
 
 ## Content
 
-Say you have a quadrilateral <span class="math math-inline">ABCD</span>.
+Say you have a quadrilateral $ABCD$.
 If you intersect opposite sides, you get two more points,
-<span class="math math-inline">P=\overline{AB}\cap\overline{CD}</span> and <span
-class="math math-inline">Q=\overline{BC}\cap\overline{DA}</span>.
+$P=\overline{AB}\cap\overline{CD}$ and $Q=\overline{BC}\cap\overline{DA}$.
 You can think of these as the intersection of the diagonals of the
-self-intersecting quadrilaterals <span class="math math-inline">ACBD</span> and
-<span class="math math-inline">ADBC</span>.
-It turns out that 4 circumcircles in this diagram concur at a point <span class="math math-inline">M</span>,
+self-intersecting quadrilaterals $ACBD$ and
+$ADBC$.
+It turns out that 4 circumcircles in this diagram concur at a point $M$,
 called the Miquel point. This point has a plethora of many different properties,
 the most basic of which is that it is the center of the spiral similarity that
-sends <span class="math math-inline">\overline{AD}\mapsto\overline{BC}</span>.
-If <span class="math math-inline">ABCD</span> is cyclic,
-<span class="math math-inline">M</span> has even more nice properties.
+sends $\overline{AD}\mapsto\overline{BC}$.
+If $ABCD$ is cyclic,
+$M$ has even more nice properties.
 
 [image:5 align:left size:medium]
     Diagram from EGMO

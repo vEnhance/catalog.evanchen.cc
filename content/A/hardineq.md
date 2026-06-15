@@ -32,8 +32,7 @@ Here is the set of standard tools at your disposal:
 
 - Cauchy / Hölder (efficient counters to roots of any order);
 
-- Jensen / Karamata / tangent line trick / <span class="math
-  math-inline">n-1</span> EV (functional approaches);
+- Jensen / Karamata / tangent line trick / $n-1$ EV (functional approaches);
 
 - Isolated fudging (comparing terms of a sum with like expressions, so that summing gives the conclusion);
 

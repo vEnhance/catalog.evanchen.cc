@@ -42,7 +42,7 @@ because angles and ratios of segments will be the same no matter which circle on
 One last thing to stress is the importance and underratedness of force-overlaid inversion,
 which is only briefly mentioned in EGMO but will do most of the work for you in many of these problems.
 If you want to show that two lines are reflections over the angle bisector of
-<span class="math math-inline">\triangle{ABC}</span>, then force-overlaid inversion is probably the way to go.
+$\triangle{ABC}$, then force-overlaid inversion is probably the way to go.
 
 Also, inversion preserves angles, so don't be afraid to spam a lot of angle chasing!
 
@@ -54,7 +54,7 @@ Some quick things to note:
 ## Notable Problems
 
 All of these problems have extremely short and slick solutions,
-and by matching points <span class="math math-inline">\&</span> clines with their inverses,
+and by matching points & clines with their inverses,
 the problem slowly comes together.
 
 * [IMO 2015 P3](https://aops.com/community/p5079655) A classic example of

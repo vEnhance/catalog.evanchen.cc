@@ -49,8 +49,8 @@ This usually lends itself into inductive or algorithmic arguments.
 The RUST (Repeat Until STuck) principle (Greedy) is more useful than it might seem.
 You can also make small optimizations to the problem that make life easier but
 wouldn't change whether the problem would hold or not (such as deleting unnecessary edges in a graph,
-or combining two <div class="math math-display">\frac{1}{2n}</div> coins into a
-<div class="math math-display">\frac{1}{n}</div> coin).
+or combining two $$\frac{1}{2n}$$ coins into a
+$$\frac{1}{n}$$ coin).
 Smoothing in inequalities contexts fits well into this philosophy.
 
 Fair warning: The walkthroughs are for the most part considerably easier than the problems.

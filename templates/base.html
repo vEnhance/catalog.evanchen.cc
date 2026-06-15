@@ -20,20 +20,12 @@
         <script>
     document.addEventListener("DOMContentLoaded", function () {
       function renderAll() {
-        // Article bodies: importer-wrapped .math spans/divs hold raw TeX (with
-        // markdown-active characters HTML-encoded; textContent decodes them).
-        document.querySelectorAll(".math").forEach(function (el) {
-          try {
-            katex.render(el.textContent, el, {
-              displayMode: el.classList.contains("math-display"),
-              throwOnError: false,
-            });
-          } catch (e) { /* leave raw on failure */ }
-        });
-        // Plain-text fields (descriptions / quotes) carry raw $...$ delimiters,
-        // so use the auto-render extension to typeset those in place.
+        // Everything carries raw $...$ / $$...$$ delimiters: article bodies
+        // (.unit-body), plain-text fields (descriptions / quotes), and info
+        // pages. The auto-render extension typesets them all in place; it
+        // skips <code>/<pre> by default, so code spans are left untouched.
         if (window.renderMathInElement) {
-          document.querySelectorAll(".unit-quote, .unit-entry-desc, .info-page").forEach(function (el) {
+          document.querySelectorAll(".unit-body, .unit-quote, .unit-entry-desc, .info-page").forEach(function (el) {
             renderMathInElement(el, {
               delimiters: [
                 { left: "$$", right: "$$", display: true },

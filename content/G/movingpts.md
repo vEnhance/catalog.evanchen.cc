@@ -19,23 +19,18 @@ maps. This lecture was contributed by Anant Mudgal.'''
 ## Philosophy
 
 The idea of the unit (very generally) is the following:
-We first rewrite the problem in terms of a few fixed points and a point <span
-class="math math-inline">Q</span> moving over a path <span class="math math-inline">\mathcal{P}</span>.
-We show that if we move <span class="math math-inline">Q</span> over this path
-<span class="math math-inline">\mathcal{P}</span> and the problem is true for
-<span class="math math-inline">k</span> cases of <span class="math math-inline">Q</span>,
-then it is true for all <span class="math math-inline">Q</span> on <span
-class="math math-inline">\mathcal{P}</span>.
-We then find <span class="math math-inline">k</span> cases of <span class="math
-math-inline">Q</span> for which we can solve the problem and finish.
+We first rewrite the problem in terms of a few fixed points and a point $Q$ moving over a path $\mathcal{P}$.
+We show that if we move $Q$ over this path
+$\mathcal{P}$ and the problem is true for
+$k$ cases of $Q$,
+then it is true for all $Q$ on $\mathcal{P}$.
+We then find $k$ cases of $Q$ for which we can solve the problem and finish.
 
 For example take [2010 IMO 2](https://aops.com/community/p1935927), one of the first problems in the unit.
-We fix <span class="math math-inline">A,B,C,I,D</span> and move <span
-class="math math-inline">E</span> over the path <span class="math math-inline">(ABC)</span>,
-and define <span class="math math-inline">F,G</span> based on <span class="math math-inline">E</span>.
-Moving Points allows us to show that we only need to solve 2010 IMO 2 for <span
-class="math math-inline">3</span> cases of <span class="math math-inline">E</span>,
-which is easy to do (<span class="math math-inline">E\equiv B,D,C</span> for example).
+We fix $A,B,C,I,D$ and move $E$ over the path $(ABC)$,
+and define $F,G$ based on $E$.
+Moving Points allows us to show that we only need to solve 2010 IMO 2 for $3$ cases of $E$,
+which is easy to do ($E\equiv B,D,C$ for example).
 
 ## An extended warning
 

@@ -59,9 +59,8 @@ and the idea of convex hull.
 * [IMO 2013/2](https://aops.com/community/p5720110):
   This is a combinatorics problem pretending to be geometry.
 
-* **(Fagnano's problem)** Among triangles inscribed in an acute triangle <span
-  class="math math-inline">ABC</span>, which one does have have the smallest perimeter?
+* **(Fagnano's problem)** Among triangles inscribed in an acute triangle $ABC$, which one does have have the smallest perimeter?
 
-* **(Fermat point)** Among points <span class="math math-inline">P</span> inside
-  a triangle <span class="math math-inline">ABC</span>,
-  which one minimizes the sum <span class="math math-inline">PA+PB+PC</span>?
+* **(Fermat point)** Among points $P$ inside
+  a triangle $ABC$,
+  which one minimizes the sum $PA+PB+PC$?

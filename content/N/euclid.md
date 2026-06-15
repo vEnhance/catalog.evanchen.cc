@@ -24,19 +24,18 @@ Eulidean algorithm, remainder bounding and adjacent ideas are the topic of this 
 
 ## Philosophy
 
-Suppose we are dealing with a divisibility <span class="math math-inline">A \mid B</span>.
+Suppose we are dealing with a divisibility $A \mid B$.
 Then, we can do the following things:
 
-1. Subtract a multiple of <span class="math math-inline">A</span> from <span
-   class="math math-inline">B</span>, and divisibility still holds
-2. Throw out factors of <span class="math math-inline">B</span> that are coprime
-   with <span class="math math-inline">A</span>, and divisibility still holds.
+1. Subtract a multiple of $A$ from $B$, and divisibility still holds
+2. Throw out factors of $B$ that are coprime
+   with $A$, and divisibility still holds.
 3. If we end up with a situation where |RHS|<|LHS|, deduce that |RHS|=0.
 
 In many number theory problems, this technique is useful.
 Evan calls it "remainder bounding",
-because we want to take the remainder of <span class="math math-inline">B</span>
-mod <span class="math math-inline">A</span> and compare it with <span class="math math-inline">A</span>.
+because we want to take the remainder of $B$
+mod $A$ and compare it with $A$.
 
 This unit is a collection of problems where this technique is useful.
 

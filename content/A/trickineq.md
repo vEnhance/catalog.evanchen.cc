@@ -40,18 +40,17 @@ working through [Olympiad Inequalities](https://web.evanchen.cc/handouts/Ineq/en
 ## Philosophy
 
 You've tried AM-GM, Cauchy, Holder,
-and the <span class="math math-inline">\frac{x}{y}\frac{y}{z}\frac{z}{x}</span> substitution.
+and the $\frac{x}{y}\frac{y}{z}\frac{z}{x}$ substitution.
 You've tried Jensen, Karamata, and Tangent line trick.
 You have even tried (gasp!) n-1 EV and outright calculus bash. Yet the problem is STILL so elusive!
 Is there some elusive condition?
-Is there a dumb equality case that is not <span class="math math-inline">x&#95;1=x&#95;2=...=x&#95;n</span>?
+Is there a dumb equality case that is not $x_1=x_2=...=x_n$?
 Well, that's what the problems in this unit are all about.
 The standard techniques still work, but a clever use for them needs to be found.
 Usually, some substitutions and algebraic manipulation of the inequalities are
 necessary before standard techniques finish.
 Other times, standard inequalities need to applied in strange,
-nonhomogenous manners (prove <span class="math
-math-inline">(x^3+2)(y^3+2)(z^3+2) \geq (x+y+z)^3</span> for me on positive reals please).
+nonhomogenous manners (prove $(x^3+2)(y^3+2)(z^3+2) \geq (x+y+z)^3$ for me on positive reals please).
 Discovering unconventional equality cases is of paramount importance in this unit,
 as these will also guide you towards the correct applications of standard techniques.
 

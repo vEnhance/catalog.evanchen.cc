@@ -19,13 +19,11 @@ theory.'''
 
 ## Unit Overview
 
-The main idea in this unit is to take the order modulo a prime <span class="math math-inline">p</span>,
-defined as the least <span class="math math-inline">m</span> such that <span
-class="math math-inline">a^m \equiv 1 \pmod p</span>.
+The main idea in this unit is to take the order modulo a prime $p$,
+defined as the least $m$ such that $a^m \equiv 1 \pmod p$.
 Another important concept is using the fact that there exists a primitive root
-modulo <span class="math math-inline">p</span>,
-which is a value <span class="math math-inline">a</span> such that <span
-class="math math-inline">\text{ord}&#95;p(a)=p-1</span>.
+modulo $p$,
+which is a value $a$ such that $\text{ord}_p(a)=p-1$.
 You are also introduced to [Fermat's Christmas
 Theorem](https://en.wikipedia.org/wiki/Fermat%27s_theorem_on_sums_of_two_squares) which is prevalent in many of
 the practice problems.

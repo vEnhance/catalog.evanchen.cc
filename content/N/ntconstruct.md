@@ -33,8 +33,7 @@ When doing this unit, it's is alright to feel "wasteful", such as using only ver
 but this is alright since there are an infinite number of integers.
 Additionally, it is important that you pick your constraints well,
 as it can be difficult to prove there are an infinite number of integers that follow that certain constraint.
-For example, if you choose your constraint to be numbers such in the form <span
-class="math math-inline">n^2+1</span> that are prime,
+For example, if you choose your constraint to be numbers such in the form $n^2+1$ that are prime,
 you have the extra task of proving there are an infinite number of numbers like that.
 
 ## Strategies
@@ -45,21 +44,16 @@ but there are a few more things to consider when making a construction, for exam
 - Choosing larger numbers with many factors
 - Using CRT which allows you to add modular constraints
 - Using theorems such as:
-  - Bertrand: there always exists at least one prime number <span class="math
-    math-inline">p</span> with <span class="math math-inline">n<p<2n-2</span>)
-  - Dirichlet: there are an infinite number of prime numbers in the form <span
-    class="math math-inline">an+b</span>, where <span class="math math-inline">\gcd(a,b)=1</span>
-  - Zsigmondy's: there exists a prime number <span class="math
-    math-inline">p</span> that divides <span class="math
-    math-inline">a^n-b^n</span> but not <span class="math
-    math-inline">a^k-b^k</span> for <span class="math math-inline">k\leq n</span>,
-    with a few exceptions (<span class="math math-inline">n=1</span>,
-    <span class="math math-inline">n=2</span> and <span class="math math-inline">a+b=2^k</span>,
-    <span class="math math-inline">n=6</span> and <span class="math math-inline">a=2, b=1</span>)
-  - Kobayashi: if <span class="math math-inline">M</span> is a infinite set of
+  - Bertrand: there always exists at least one prime number $p$ with $n<p<2n-2$)
+  - Dirichlet: there are an infinite number of prime numbers in the form $an+b$, where $\gcd(a,b)=1$
+  - Zsigmondy's: there exists a prime number $p$ that divides $a^n-b^n$ but not $a^k-b^k$ for $k\leq n$,
+    with a few exceptions ($n=1$,
+    $n=2$ and $a+b=2^k$,
+    $n=6$ and $a=2, b=1$)
+  - Kobayashi: if $M$ is a infinite set of
     positive integers such that the prime divisors of the numbers are finite,
-    then the set <span class="math math-inline">M+a</span>,
-    where <span class="math math-inline">a</span> is a fixed integer has an
+    then the set $M+a$,
+    where $a$ is a fixed integer has an
     infinite set of primes dividing numbers in the set.
 
 ## Difficulty

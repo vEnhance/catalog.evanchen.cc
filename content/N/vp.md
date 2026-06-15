@@ -15,45 +15,42 @@ description = '''
 The use of $\nu_p$ in handling olympiad problems.'''
 +++
 
-In **Prime Exponents**, the main focus is <span class="math math-inline">\nu&#95;p</span>.
+In **Prime Exponents**, the main focus is $\nu_p$.
 Lifting the Exponent and Legendre are also discussed. These tools are a big part of simplifying the problem.
-Additionally, one will learn the properties and how to apply <span class="math math-inline">\nu&#95;p</span>.
+Additionally, one will learn the properties and how to apply $\nu_p$.
 
-If you don't know what <span class="math math-inline">\nu&#95;p</span> is,
-<span class="math math-inline">\nu&#95;p(a)</span> is the exponent of the
-largest power of <span class="math math-inline">p</span> that divides <span
-class="math math-inline">a</span>. For example, <span class="math math-inline">\nu&#95;5(250) = 3</span>.
-This definition naturally extends to rationals using the property <span
-class="math math-inline">\nu&#95;p(a/b) = \nu&#95;p(a) - \nu&#95;p(b)</span>.
+If you don't know what $\nu_p$ is,
+$\nu_p(a)$ is the exponent of the
+largest power of $p$ that divides $a$. For example, $\nu_5(250) = 3$.
+This definition naturally extends to rationals using the property $\nu_p(a/b) = \nu_p(a) - \nu_p(b)$.
 
 ## Philosophy
 
-The main focus is learning how to use and manipulate <span class="math math-inline">\nu&#95;p</span>.
+The main focus is learning how to use and manipulate $\nu_p$.
 This unit covers properties like:
 
-1. <span class="math math-inline">\nu&#95;p(ab) = \nu&#95;p(a) + \nu&#95;p(b)</span>
-2. <span class="math math-inline">\nu&#95;p(a/b) = \nu&#95;p(a) - \nu&#95;p(b)</span>
-3. <span class="math math-inline">\nu&#95;p(\gcd(a,b)) = \min(\nu&#95;p(a), \nu&#95;p(b))</span>
-4. <span class="math math-inline">\nu&#95;p(\operatorname{lcm}(a,b)) = \max(\nu&#95;p(a), \nu&#95;p(b))</span>
-5. <span class="math math-inline">\nu&#95;p(a+b) \ge \min(\nu&#95;p(a), \nu&#95;p(b))</span>
+1. $\nu_p(ab) = \nu_p(a) + \nu_p(b)$
+2. $\nu_p(a/b) = \nu_p(a) - \nu_p(b)$
+3. $\nu_p(\gcd(a,b)) = \min(\nu_p(a), \nu_p(b))$
+4. $\nu_p(\operatorname{lcm}(a,b)) = \max(\nu_p(a), \nu_p(b))$
+5. $\nu_p(a+b) \ge \min(\nu_p(a), \nu_p(b))$
 
 In many problems, one can look at a single prime and prove something which is true for all primes.
 For example, there may be an equation that needs to be proven.
 Instead of looking at the whole picture,
-one can take <span class="math math-inline">\nu&#95;p</span> of both sides.
+one can take $\nu_p$ of both sides.
 Now it can be much easier to prove both sides are equal.
 Since a general prime was looked at, equality will hold for all primes.
 
-Another case where <span class="math math-inline">\nu&#95;p</span> is very
-helpful are problems involving <span class="math math-inline">\gcd</span> or
-<span class="math math-inline">\operatorname{lcm}</span>,
-since properties <span class="math math-inline">3</span> and <span class="math
-math-inline">4</span> can be used.
+Another case where $\nu_p$ is very
+helpful are problems involving $\gcd$ or
+$\operatorname{lcm}$,
+since properties $3$ and $4$ can be used.
 
 ## Notable Problems:
 
 Some problems in this unit have weird conditions and expressions but they really
-show how much <span class="math math-inline">\nu&#95;p</span> can make them more manageable.
+show how much $\nu_p$ can make them more manageable.
 
 * [BAMO 2018/4](https://aops.com/community/p13026024): required problem and an instructive example
 * [TSTST 2019/7](https://aops.com/community/p12608512): good example that has a strange FE

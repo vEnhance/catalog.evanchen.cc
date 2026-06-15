@@ -30,33 +30,29 @@ Some of them are:
 
 1. Orders: You should be comfortable with understanding and using orders to solve problems from this unit.
 2. Fermat's Christmas theorem: which numbers can be written as a sum of two squares,
-   which primes divide <span class="math math-inline">x^2+1</span> etc...
+   which primes divide $x^2+1$ etc...
 3. [LTE (lifting the exponent lemma)](https://en.wikipedia.org/wiki/Lifting-the-exponent_lemma):
    Life is hard without LTE these days.
 
 There are also some quotable theorems that can be useful in problems from this unit:
 
 1. [Zsigmondy's theorem](https://en.wikipedia.org/wiki/Zsigmondy%27s_theorem): With some exceptions,
-   for coprime <span class="math math-inline">a,b</span> and for any positive
-   integer <span class="math math-inline">n</span>,
-   <span class="math math-inline">a^n-b^n</span> has a prime factor that any of
-   the numbers <span class="math math-inline">a^k-b^k, 0<k<n</span> doesn't have.
+   for coprime $a,b$ and for any positive
+   integer $n$,
+   $a^n-b^n$ has a prime factor that any of
+   the numbers $a^k-b^k, 0<k<n$ doesn't have.
 2. [Mihailescu theorem](https://en.wikipedia.org/wiki/Catalan%27s_conjecture):
-   The only consecutive perfect powers are <span class="math
-   math-inline">8</span> and <span class="math math-inline">9</span>.
+   The only consecutive perfect powers are $8$ and $9$.
 3. [Bertrand postulate](https://en.wikipedia.org/wiki/Bertrand%27s_postulate):
-   There is a prime between <span class="math math-inline">n</span> and <span
-   class="math math-inline">2n</span>
+   There is a prime between $n$ and $2n$
 4. [Dirichlet's theorem](https://en.wikipedia.org/wiki/Dirichlet%27s_theorem_on_arithmetic_progressions):
-   An arithmetic sequence <span class="math math-inline">a+(n-1)d</span>
-   contains infinitely many primes if <span class="math math-inline">a</span>
-   and <span class="math math-inline">d</span> are coprime.
+   An arithmetic sequence $a+(n-1)d$
+   contains infinitely many primes if $a$
+   and $d$ are coprime.
 5. [Kobayashi's theorem](https://artofproblemsolving.com/community/c262118h1547311):
-   If the prime set of an infinite set <span class="math math-inline">M
-   \subseteq \mathbb{Z}^+</span> is finite,
-   then the prime set of <span class="math math-inline">M+a</span> (elements of
-   <span class="math math-inline">M</span> plus <span class="math
-   math-inline">a</span>) is infinite for any nonzero integer <span class="math math-inline">a</span>.
+   If the prime set of an infinite set $M    \subseteq \mathbb{Z}^+$ is finite,
+   then the prime set of $M+a$ (elements of
+   $M$ plus $a$) is infinite for any nonzero integer $a$.
 
 ## Why you should do this unit
 

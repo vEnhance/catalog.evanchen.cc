@@ -26,21 +26,20 @@ There is a class of problems where this technique is useful, and this unit is a 
 
 ## Philosophy
 
-Suppose we have a function <span class="math math-inline">f</span> from a set
-<span class="math math-inline">S</span> to itself.
+Suppose we have a function $f$ from a set
+$S$ to itself.
 From high school math classes, you know that to analyze functions it is useful to look at their graphs.
 When the function is defined on objects that are not numbers (and thus cannot be plotted on a number line),
 we still can consider its "graph".
 
-Imagine all the elements of <span class="math math-inline">S</span> on a plane (even if the set is infinite).
-Then, for every element <span class="math math-inline">x \in S</span> imagine
-drawing an **arrow** from <span class="math math-inline">x</span> to <span
-class="math math-inline">f(x)</span>.
+Imagine all the elements of $S$ on a plane (even if the set is infinite).
+Then, for every element $x \in S$ imagine
+drawing an **arrow** from $x$ to $f(x)$.
 This way, we get a picture of a bunch of points connected by a bunch of arrows.
 Exactly this picture is useful to consider when solving this class of problems.
 For some cases, this picture will be "nice".
-For example, if <span class="math math-inline">f</span> is a permutation of
-<span class="math math-inline">S</span>, then the picture is just a union of directed cycles.
+For example, if $f$ is a permutation of
+$S$, then the picture is just a union of directed cycles.
 Sometimes, when considering the "picture" it is possible to prove statements
 like "this picture consists of only cycles" or "this picture consists of rays and cycles only".
 Proving such statements are often the key steps when solving problems from this unit.

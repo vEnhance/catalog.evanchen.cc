@@ -23,11 +23,10 @@ number theory.'''
 It usually involves problems which are nominally number theoretic equalities,
 but for which you'll have to resort to some inequalities.
 
-A lot of the times the inequalities are a bit dumb (like <span class="math
-math-inline">n \ge 1</span> or <span class="math math-inline">m \mid n \implies m \le n</span>).
+A lot of the times the inequalities are a bit dumb (like $n \ge 1$ or $m \mid n \implies m \le n$).
 You also will see a lot of really useful and common techniques such as taking a
-really big prime <span class="math math-inline">p</span>,
-bounding between <span class="math math-inline">2</span> squares,
+really big prime $p$,
+bounding between $2$ squares,
 proving that a certain function grows faster than other function, taking the maximal element,
 proving that a sequence of positive integers is decreasing so eventually it must be constant.
 

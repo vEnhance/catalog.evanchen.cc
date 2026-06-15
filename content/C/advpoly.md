@@ -51,17 +51,12 @@ and possibly gain a few points on an olympiad :eyes:
 
 Here is the statement of combinatorial nullstellensatz:
 
-Let <span class="math math-inline">f(x&#95;1,\ldots ,x&#95;n)</span> be a
-polynomial over a field <span class="math math-inline">\mathbb{F}</span>.
-Suppose that the coefficient of the monomial <span class="math
-math-inline">x&#95;1^{k&#95;1}\cdots x&#95;n^{k&#95;n}</span> in <span
-class="math math-inline">f</span> is nonzero and <span class="math
-math-inline">k&#95;1+\cdots +k&#95;n</span> is the total degree of <span class="math math-inline">f</span>.
-If <span class="math math-inline">A&#95;1,\ldots ,A&#95;n</span> are finite
-subsets of <span class="math math-inline">\mathbb{F}</span> with <span
-class="math math-inline">|A&#95;i|>k&#95;i</span> for <span class="math math-inline">i=1,\ldots ,n</span>,
-then there are <span class="math math-inline">a&#95;1\in A&#95;1,\ldots
-,a&#95;n\in A&#95;n</span> such that <span class="math math-inline">f(a&#95;1,\ldots ,a&#95;n)\neq0</span>.
+Let $f(x_1,\ldots ,x_n)$ be a
+polynomial over a field $\mathbb{F}$.
+Suppose that the coefficient of the monomial $x_1^{k_1}\cdots x_n^{k_n}$ in $f$ is nonzero and $k_1+\cdots +k_n$ is the total degree of $f$.
+If $A_1,\ldots ,A_n$ are finite
+subsets of $\mathbb{F}$ with $|A_i|>k_i$ for $i=1,\ldots ,n$,
+then there are $a_1\in A_1,\ldots ,a_n\in A_n$ such that $f(a_1,\ldots ,a_n)\neq0$.
 
 To learn more about this, you can read [this wikipedia
 page](https://en.wikipedia.org/wiki/Restricted_sumset),

@@ -27,27 +27,25 @@ Equality is one of the only unit groups that has units in all three of B/D/Z lev
 
 Nominally, a "find minimum" problem can usually be thought of as two halves:
 
-1. Proving that <span class="math math-inline">f(x) \ge \lambda</span> for all
-   <span class="math math-inline">x</span>, for some constant <span class="math math-inline">\lambda</span>,
+1. Proving that $f(x) \ge \lambda$ for all
+   $x$, for some constant $\lambda$,
    and
-2. Finding an example of <span class="math math-inline">x&#95;0</span> such that
-   <span class="math math-inline">f(x&#95;0) = \lambda</span>.
+2. Finding an example of $x_0$ such that
+   $f(x_0) = \lambda$.
 
 Equality pushes the philosophy that these two halves are not really separated.
-It advocates trying to predict the value of <span class="math math-inline">x&#95;0</span>,
-placing less importance on the value of <span class="math math-inline">\lambda</span>,
-and trying to use the predicted <span class="math math-inline">x&#95;0</span> to
+It advocates trying to predict the value of $x_0$,
+placing less importance on the value of $\lambda$,
+and trying to use the predicted $x_0$ to
 guide the estimates in the proof.
-One can discard any approach which does not preserve the equality case <span
-class="math math-inline">x&#95;0</span>; conversely,
+One can discard any approach which does not preserve the equality case $x_0$; conversely,
 one should pay attention to any estimates that do preserve equality case at
-<span class="math math-inline">x&#95;0</span> even if they might seem silly.
+$x_0$ even if they might seem silly.
 
 Mentioned in particular is the so-called *Sharpness Principle*:
-if one succeeds in carrying out the first step in such a way that <span
-class="math math-inline">x&#95;0</span> has equality preserved in every estimate,
+if one succeeds in carrying out the first step in such a way that $x_0$ has equality preserved in every estimate,
 then the second step will follow automatically.
-Thus one often need not take <span class="math math-inline">\lambda</span>
+Thus one often need not take $\lambda$
 itself into consideration when finding a proof.
 
 ## Notable problems

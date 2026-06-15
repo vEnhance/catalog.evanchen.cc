@@ -45,8 +45,8 @@ However, this unit will teach you how to turn problems that _aren't_ purely
 projective into problems that _are_ purely projective. There's two steps to this method:
 
 1. First, translate as many "Euclidean conditions" into "projective conditions" as possible (e.g.
-   parallel <span class="math math-inline">\mapsto</span> concurrent or
-   concyclic <span class="math math-inline">\mapsto</span> coconic).
+   parallel $\mapsto$ concurrent or
+   concyclic $\mapsto$ coconic).
 2. Use projective machinery, like Pascal, Pappus, Brocard, projection, homography,
    or even DDIT to finish off the purely projective problem.
 
