@@ -49,9 +49,9 @@
       <a class="site-title" href="{{ get_url(path='@/_index.md') }}">catalog.evanchen.cc</a>
       <nav class="site-nav">
         <a href="{{ get_url(path='@/_index.md') }}">Home</a>
-        <a href="{{ get_url(path='@/all.md') }}">All Units</a>
-        <div class="nav-dropdown">
-          <button class="nav-dropdown-toggle" type="button" aria-haspopup="true">Subjects &#9662;</button>
+        <a href="{{ get_url(path='@/gallery.md') }}">Gallery</a>
+        <details class="nav-dropdown">
+          <summary class="nav-dropdown-toggle">Subjects &#9662;</summary>
           <ul class="nav-dropdown-menu">
             {% set sections = ["A", "C", "F", "G", "H", "K", "M", "N"] %}
             {% for letter in sections %}
@@ -59,7 +59,7 @@
               <li><a href="{{ get_url(path='@/' ~ letter ~ '/_index.md') }}">{{ letter }} &mdash; {{ sec.title }}</a></li>
             {% endfor %}
           </ul>
-        </div>
+        </details>
       </nav>
     </div>
   </header>
@@ -67,7 +67,8 @@
     {% block content %}{% endblock content %}
   </main>
   <footer class="site-footer">
-    <p>OTIS Unit Catalog &middot; suggest edits via pull request on GitHub.</p>
+    <p>OTIS Unit Catalog &middot;
+      <a href="{{ config.extra.github_repo }}">suggest edits via pull request on GitHub</a>.</p>
   </footer>
 </body>
 </html>

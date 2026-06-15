@@ -11,8 +11,8 @@
     {% for page in section.pages %}
     <li class="unit-entry">
       <a class="unit-entry-thumb" href="{{ page.permalink }}">
-        <img loading="lazy"
-             src="https://web.evanchen.cc/otis/thumb/{{ page.slug }}.webp"
+        <img loading="lazy" width="226" height="226"
+             src="{{ config.extra.gallery_base }}/thumb-md/{{ page.slug }}.webp"
              alt="{{ page.title }} artwork">
       </a>
       <div class="unit-entry-body">

@@ -1,23 +1,20 @@
 {% extends "base.html" %}
-
 {% block content %}
-<article class="home">
-  <h1>{{ section.title }}</h1>
-  {{ section.content | safe }}
-  <p>A Fandom-style catalog of every OTIS unit. Pick a subject to browse.</p>
-
-  <ul class="subject-grid">
-    {% set sections = ["A", "C", "F", "G", "H", "K", "M", "N"] %}
-    {% for letter in sections %}
-      {% set sec = get_section(path=letter ~ "/_index.md") %}
-      <li class="subject-card subj-{{ letter }}">
-        <a href="{{ sec.permalink }}">
-          <span class="subject-letter">{{ letter }}</span>
-          <span class="subject-name">{{ sec.title }}</span>
-          <span class="subject-count">{{ sec.pages | length }} units</span>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</article>
+    <article class="home">
+        <h1>{{ section.title }}</h1>
+        {{ section.content | safe }}
+        <ul class="subject-grid">
+            {% set sections = ["A", "C", "F", "G", "H", "K", "M", "N"] %}
+            {% for letter in sections %}
+                {% set sec = get_section(path=letter ~ "/_index.md") %}
+                <li class="subject-card subj-{{ letter }}">
+                    <a href="{{ sec.permalink }}">
+                        <span class="subject-letter">{{ letter }}</span>
+                        <span class="subject-name">{{ sec.title }}</span>
+                        <span class="subject-count">{{ sec.pages | length }} units</span>
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+    </article>
 {% endblock content %}

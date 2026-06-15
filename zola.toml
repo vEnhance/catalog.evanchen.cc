@@ -16,4 +16,10 @@ build_search_index = true
 theme = "catppuccin-mocha"
 
 [extra]
-# Put all your custom variables here
+# Source repository (used for "edit on GitHub" links / pull requests)
+github_repo = "https://github.com/vEnhance/catalog.evanchen.cc"
+github_branch = "main"
+
+# Artwork host. Images live at <base>/{webp,thumb-md,thumb-sm}/<slug>.webp
+# (full size / 226x226 / 104x104).
+gallery_base = "https://gallery.evanchen.cc"
