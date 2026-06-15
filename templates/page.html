@@ -1,44 +1,82 @@
 {% extends "base.html" %}
-
-{% block title %}{{ page.title }} &middot; OTIS Unit Wiki{% endblock title %}
-
+{% block title %}
+    {{ page.title }} · OTIS Unit Wiki
+{% endblock title %}
 {% block content %}
-<article class="unit subj-{{ page.extra.subject }}">
-  <div class="unit-head">
-    <h1 class="unit-title">{{ page.title }}</h1>
-    <p class="edit-link">
-      <a href="{{ config.extra.github_repo }}/edit/{{ config.extra.github_branch }}/content/{{ page.relative_path }}"
-         rel="nofollow">&#9998; Edit this page on GitHub</a>
-    </p>
-  </div>
-
-  {% if page.extra.description %}
-  <blockquote class="unit-quote">{{ page.extra.description }}</blockquote>
-  {% endif %}
-
-  <aside class="infobox">
-    <h2 class="infobox-title">{{ page.title }}</h2>
-    <a class="infobox-image-link"
-       href="{{ config.extra.gallery_base }}/webp/{{ page.slug }}.webp">
-      <img class="infobox-image"
-           src="{{ config.extra.gallery_base }}/thumb-md/{{ page.slug }}.webp"
-           alt="{{ page.title }} artwork">
-    </a>
-    <table class="infobox-data">
-      <tr><th>Name</th><td>{{ page.title }}</td></tr>
-      <tr><th>Art credits</th><td>{{ page.extra.artist_name }}</td></tr>
-      <tr><th>Classification</th><td>{{ page.extra.classification }}</td></tr>
-      <tr><th>Slug</th><td><code>{{ page.slug }}</code></td></tr>
-      {% if page.extra.versions %}<tr><th>Versions</th><td>{{ page.extra.versions | join(sep=", ") }}</td></tr>{% endif %}
-      {% if page.extra.num_students is defined %}<tr><th>Participants</th><td>{{ page.extra.num_students }}</td></tr>{% endif %}
-      {% if page.extra.num_submissions is defined %}<tr><th>Submissions</th><td>{{ page.extra.num_submissions }}</td></tr>{% endif %}
-      {% if page.extra.num_clubs is defined %}<tr><th>&clubs; earned</th><td>{{ page.extra.num_clubs }}</td></tr>{% endif %}
-      {% if page.extra.num_hearts is defined %}<tr><th>&hearts; earned</th><td>{{ page.extra.num_hearts }}</td></tr>{% endif %}
-    </table>
-  </aside>
-
-  <div class="unit-body">
-    {{ page.content | safe }}
-  </div>
-</article>
+    <article class="unit subj-{{ page.extra.subject }}">
+        <div class="unit-head">
+            <h1 class="unit-title">{{ page.title }}</h1>
+            <p class="edit-link">
+                <a href="{{ config.extra.github_repo }}/edit/{{ config.extra.github_branch }}/content/{{ page.relative_path }}"
+                   rel="nofollow">✎ Edit this page on GitHub</a>
+            </p>
+        </div>
+        {% if page.extra.description %}
+            <blockquote class="unit-quote">
+                {{ page.extra.description }}
+            </blockquote>
+        {% endif %}
+        <aside class="infobox">
+            <h2 class="infobox-title">{{ page.title }}</h2>
+            <a class="infobox-image-link"
+               href="{{ config.extra.gallery_base }}/webp/{{ page.slug }}.webp">
+                <img class="infobox-image"
+                     width="226"
+                     height="226"
+                     src="{{ config.extra.gallery_base }}/thumb-md/{{ page.slug }}.webp"
+                     alt="{{ page.title }} artwork">
+            </a>
+            <table class="infobox-data">
+                <tr>
+                    <th>Name</th>
+                    <td>{{ page.title }}</td>
+                </tr>
+                <tr>
+                    <th>Art credits</th>
+                    <td>{{ page.extra.artist_name }}</td>
+                </tr>
+                <tr>
+                    <th>Classification</th>
+                    <td>{{ page.extra.classification }}</td>
+                </tr>
+                <tr>
+                    <th>Slug</th>
+                    <td>
+                        <code>{{ page.slug }}</code>
+                    </td>
+                </tr>
+                {% if page.extra.versions %}
+                    <tr>
+                        <th>Versions</th>
+                        <td>{{ page.extra.versions | join(sep=", ") }}</td>
+                    </tr>
+                {% endif %}
+                {% if page.extra.num_students is defined %}
+                    <tr>
+                        <th>Participants</th>
+                        <td>{{ page.extra.num_students }}</td>
+                    </tr>
+                {% endif %}
+                {% if page.extra.num_submissions is defined %}
+                    <tr>
+                        <th>Submissions</th>
+                        <td>{{ page.extra.num_submissions }}</td>
+                    </tr>
+                {% endif %}
+                {% if page.extra.num_clubs is defined %}
+                    <tr>
+                        <th>♣ earned</th>
+                        <td>{{ page.extra.num_clubs }}</td>
+                    </tr>
+                {% endif %}
+                {% if page.extra.num_hearts is defined %}
+                    <tr>
+                        <th>♥ earned</th>
+                        <td>{{ page.extra.num_hearts }}</td>
+                    </tr>
+                {% endif %}
+            </table>
+        </aside>
+        <div class="unit-body">{{ page.content | safe }}</div>
+    </article>
 {% endblock content %}

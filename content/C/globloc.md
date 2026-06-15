@@ -20,7 +20,7 @@ To global or to local, 'tis the question.
 units with two radically different ideas. It is fairly difficult, probably in the middle-to-hard part of Z.
 It is a very large unit with a good number of problems, so expect to spend some time on it.
 It is also very fundamental; try to do as much of the problem set as you can,
-rather than targetting the required number of clubs.
+rather than targeting the required number of clubs.
 
 ## Should I do this unit?
 
@@ -48,7 +48,7 @@ Local: This is the opposite, where you look at small parts of the problem and ma
 This usually lends itself into inductive or algorithmic arguments.
 The RUST (Repeat Until STuck) principle (Greedy) is more useful than it might seem.
 You can also make small optimizations to the problem that make life easier but
-would't change whether the problem would hold or not (such as deleting unnecessary edges in a graph,
+wouldn't change whether the problem would hold or not (such as deleting unnecessary edges in a graph,
 or combining two <div class="math math-display">\frac{1}{2n}</div> coins into a
 <div class="math math-display">\frac{1}{n}</div> coin).
 Smoothing in inequalities contexts fits well into this philosophy.

@@ -11,9 +11,7 @@
       "num_students": 325,
       "num_clubs": 1388,
       "num_hearts": 734.0,
-      "versions": [
-        "ZCW"
-      ]
+      "versions": ["ZCW"]
     },
     {
       "name": "AIME Geo",
@@ -25,10 +23,7 @@
       "num_students": 1087,
       "num_clubs": 17358,
       "num_hearts": 5783.50822,
-      "versions": [
-        "BGX",
-        "DGX"
-      ]
+      "versions": ["BGX", "DGX"]
     },
     {
       "name": "Alg Manip",
@@ -40,10 +35,7 @@
       "num_students": 1452,
       "num_clubs": 24213,
       "num_hearts": 9056.89617,
-      "versions": [
-        "BAY",
-        "DAY"
-      ]
+      "versions": ["BAY", "DAY"]
     },
     {
       "name": "Analysis",
@@ -55,10 +47,7 @@
       "num_students": 801,
       "num_clubs": 3528,
       "num_hearts": 1952.25,
-      "versions": [
-        "DAY",
-        "ZAY"
-      ]
+      "versions": ["DAY", "ZAY"]
     },
     {
       "name": "Analytic NT",
@@ -70,9 +59,7 @@
       "num_students": 263,
       "num_clubs": 1532,
       "num_hearts": 1093.4,
-      "versions": [
-        "ZNW"
-      ]
+      "versions": ["ZNW"]
     },
     {
       "name": "Anti Problems",
@@ -84,11 +71,7 @@
       "num_students": 550,
       "num_clubs": 3265,
       "num_hearts": 1650.0000009999999,
-      "versions": [
-        "DMW",
-        "DMX",
-        "DMY"
-      ]
+      "versions": ["DMW", "DMX", "DMY"]
     },
     {
       "name": "Arrows",
@@ -100,10 +83,7 @@
       "num_students": 836,
       "num_clubs": 5754,
       "num_hearts": 2562.165,
-      "versions": [
-        "DCW",
-        "ZCW"
-      ]
+      "versions": ["DCW", "ZCW"]
     },
     {
       "name": "Art School",
@@ -115,10 +95,7 @@
       "num_students": 1008,
       "num_clubs": 13522,
       "num_hearts": 6482.9439999999995,
-      "versions": [
-        "DGX",
-        "ZGY"
-      ]
+      "versions": ["DGX", "ZGY"]
     },
     {
       "name": "Bary",
@@ -130,11 +107,7 @@
       "num_students": 1134,
       "num_clubs": 6440,
       "num_hearts": 2761.6666600000003,
-      "versions": [
-        "BGW",
-        "DGW",
-        "DGX"
-      ]
+      "versions": ["BGW", "DGW", "DGX"]
     },
     {
       "name": "C8 Summit",
@@ -146,9 +119,7 @@
       "num_students": 304,
       "num_clubs": 1620,
       "num_hearts": 694.0,
-      "versions": [
-        "ZCW"
-      ]
+      "versions": ["ZCW"]
     },
     {
       "name": "Classical Geo",
@@ -160,10 +131,7 @@
       "num_students": 1141,
       "num_clubs": 11968,
       "num_hearts": 5423.34925653,
-      "versions": [
-        "DGX",
-        "ZGX"
-      ]
+      "versions": ["DGX", "ZGX"]
     },
     {
       "name": "Collinia Colosseum (Lv 75)",
@@ -175,11 +143,7 @@
       "num_students": 207,
       "num_clubs": 4196,
       "num_hearts": 600.2143434343434,
-      "versions": [
-        "BKV",
-        "DKV",
-        "ZKV"
-      ]
+      "versions": ["BKV", "DKV", "ZKV"]
     },
     {
       "name": "Complex Nums",
@@ -191,11 +155,7 @@
       "num_students": 1800,
       "num_clubs": 11943,
       "num_hearts": 5909.74007,
-      "versions": [
-        "BGW",
-        "DGW",
-        "DGX"
-      ]
+      "versions": ["BGW", "DGW", "DGX"]
     },
     {
       "name": "Computational Combo",
@@ -207,10 +167,7 @@
       "num_students": 692,
       "num_clubs": 10406,
       "num_hearts": 3164.4342000000006,
-      "versions": [
-        "BCW",
-        "DCW"
-      ]
+      "versions": ["BCW", "DCW"]
     },
     {
       "name": "Config Geo",
@@ -222,10 +179,7 @@
       "num_students": 918,
       "num_clubs": 11548,
       "num_hearts": 5235.363329999999,
-      "versions": [
-        "DGY",
-        "ZGY"
-      ]
+      "versions": ["DGY", "ZGY"]
     },
     {
       "name": "Constructor",
@@ -237,9 +191,7 @@
       "num_students": 43,
       "num_clubs": 163,
       "num_hearts": 48.0,
-      "versions": [
-        "DGX"
-      ]
+      "versions": ["DGX"]
     },
     {
       "name": "Courage",
@@ -251,10 +203,7 @@
       "num_students": 588,
       "num_clubs": 7358,
       "num_hearts": 2135.682,
-      "versions": [
-        "DMW",
-        "ZMW"
-      ]
+      "versions": ["DMW", "ZMW"]
     },
     {
       "name": "Cyclotomic",
@@ -266,9 +215,7 @@
       "num_students": 975,
       "num_clubs": 20560,
       "num_hearts": 6429.126926789,
-      "versions": [
-        "BAY"
-      ]
+      "versions": ["BAY"]
     },
     {
       "name": "Duluth",
@@ -280,9 +227,7 @@
       "num_students": 112,
       "num_clubs": 30,
       "num_hearts": 3.0,
-      "versions": [
-        "ZMY"
-      ]
+      "versions": ["ZMY"]
     },
     {
       "name": "Dummy Unit",
@@ -294,9 +239,7 @@
       "num_students": 735,
       "num_clubs": 437,
       "num_hearts": 309.1509926459232,
-      "versions": [
-        "BMW"
-      ]
+      "versions": ["BMW"]
     },
     {
       "name": "Elem Geo",
@@ -308,12 +251,7 @@
       "num_students": 1823,
       "num_clubs": 45290,
       "num_hearts": 19495.282728574,
-      "versions": [
-        "BGW",
-        "DGW",
-        "BGY",
-        "DGY"
-      ]
+      "versions": ["BGW", "DGW", "BGY", "DGY"]
     },
     {
       "name": "Entry Combo",
@@ -325,10 +263,7 @@
       "num_students": 1504,
       "num_clubs": 40053,
       "num_hearts": 17792.78709,
-      "versions": [
-        "BCX",
-        "BCY"
-      ]
+      "versions": ["BCX", "BCY"]
     },
     {
       "name": "Equality",
@@ -340,11 +275,7 @@
       "num_students": 2262,
       "num_clubs": 25670,
       "num_hearts": 12242.07630301294,
-      "versions": [
-        "BCW",
-        "DCW",
-        "ZCW"
-      ]
+      "versions": ["BCW", "DCW", "ZCW"]
     },
     {
       "name": "Euclid Alg",
@@ -356,9 +287,7 @@
       "num_students": 994,
       "num_clubs": 12120,
       "num_hearts": 5894.78,
-      "versions": [
-        "DNY"
-      ]
+      "versions": ["DNY"]
     },
     {
       "name": "Expected Value",
@@ -370,9 +299,7 @@
       "num_students": 1177,
       "num_clubs": 15692,
       "num_hearts": 5405.8233,
-      "versions": [
-        "BCW"
-      ]
+      "versions": ["BCW"]
     },
     {
       "name": "Expon NT",
@@ -384,9 +311,7 @@
       "num_students": 1488,
       "num_clubs": 21065,
       "num_hearts": 8982.003999999997,
-      "versions": [
-        "DNW"
-      ]
+      "versions": ["DNW"]
     },
     {
       "name": "Extremal Graph",
@@ -398,10 +323,7 @@
       "num_students": 580,
       "num_clubs": 2498,
       "num_hearts": 877.934,
-      "versions": [
-        "DCX",
-        "ZCX"
-      ]
+      "versions": ["DCX", "ZCX"]
     },
     {
       "name": "Forest of Wandering (Lv 35)",
@@ -413,11 +335,7 @@
       "num_students": 807,
       "num_clubs": 5815,
       "num_hearts": 1334.587004,
-      "versions": [
-        "BKV",
-        "DKV",
-        "ZKV"
-      ]
+      "versions": ["BKV", "DKV", "ZKV"]
     },
     {
       "name": "Formulas",
@@ -429,10 +347,7 @@
       "num_students": 609,
       "num_clubs": 2613,
       "num_hearts": 1239.833333,
-      "versions": [
-        "DAW",
-        "ZAW"
-      ]
+      "versions": ["DAW", "ZAW"]
     },
     {
       "name": "Free",
@@ -444,10 +359,7 @@
       "num_students": 1204,
       "num_clubs": 8751,
       "num_hearts": 4188.259999999999,
-      "versions": [
-        "DCW",
-        "ZCX"
-      ]
+      "versions": ["DCW", "ZCX"]
     },
     {
       "name": "Func Eqn",
@@ -459,13 +371,7 @@
       "num_students": 2300,
       "num_clubs": 46579,
       "num_hearts": 20923.884786789018,
-      "versions": [
-        "BFW",
-        "DFW",
-        "ZFW",
-        "DFX",
-        "ZFX"
-      ]
+      "versions": ["BFW", "DFW", "ZFW", "DFX", "ZFX"]
     },
     {
       "name": "G6 Summit",
@@ -477,9 +383,7 @@
       "num_students": 342,
       "num_clubs": 1777,
       "num_hearts": 752.0,
-      "versions": [
-        "ZGY"
-      ]
+      "versions": ["ZGY"]
     },
     {
       "name": "Gen Func",
@@ -491,9 +395,7 @@
       "num_students": 997,
       "num_clubs": 8859,
       "num_hearts": 3564.754321321,
-      "versions": [
-        "BAX"
-      ]
+      "versions": ["BAX"]
     },
     {
       "name": "Global",
@@ -505,11 +407,7 @@
       "num_students": 1912,
       "num_clubs": 33523,
       "num_hearts": 14184.94923,
-      "versions": [
-        "BCW",
-        "DCW",
-        "DCX"
-      ]
+      "versions": ["BCW", "DCW", "DCX"]
     },
     {
       "name": "Global and Local",
@@ -521,10 +419,7 @@
       "num_students": 521,
       "num_clubs": 8761,
       "num_hearts": 3829.8500000000004,
-      "versions": [
-        "ZCW",
-        "ZCX"
-      ]
+      "versions": ["ZCW", "ZCX"]
     },
     {
       "name": "Graph Theory",
@@ -536,11 +431,7 @@
       "num_students": 1559,
       "num_clubs": 16305,
       "num_hearts": 6306.393333,
-      "versions": [
-        "BCX",
-        "DCX",
-        "ZCX"
-      ]
+      "versions": ["BCX", "DCX", "ZCX"]
     },
     {
       "name": "Grids",
@@ -552,9 +443,7 @@
       "num_students": 443,
       "num_clubs": 2908,
       "num_hearts": 1345.5,
-      "versions": [
-        "ZCY"
-      ]
+      "versions": ["ZCY"]
     },
     {
       "name": "Grinding",
@@ -566,10 +455,7 @@
       "num_students": 350,
       "num_clubs": 1386,
       "num_hearts": 656.02,
-      "versions": [
-        "DMY",
-        "ZMY"
-      ]
+      "versions": ["DMY", "ZMY"]
     },
     {
       "name": "Groups, Rings, and Fields",
@@ -581,9 +467,7 @@
       "num_students": 198,
       "num_clubs": 235,
       "num_hearts": 150.0,
-      "versions": [
-        "DHW"
-      ]
+      "versions": ["DHW"]
     },
     {
       "name": "Hall",
@@ -595,10 +479,7 @@
       "num_students": 425,
       "num_clubs": 5410,
       "num_hearts": 2210.2721039999997,
-      "versions": [
-        "BCW",
-        "DCW"
-      ]
+      "versions": ["BCW", "DCW"]
     },
     {
       "name": "Hard Ineq",
@@ -610,10 +491,7 @@
       "num_students": 281,
       "num_clubs": 1773,
       "num_hearts": 938.0,
-      "versions": [
-        "ZAW",
-        "ZAY"
-      ]
+      "versions": ["ZAW", "ZAY"]
     },
     {
       "name": "Harmonic",
@@ -625,10 +503,7 @@
       "num_students": 1487,
       "num_clubs": 35447,
       "num_hearts": 14802.85333,
-      "versions": [
-        "DGW",
-        "DGX"
-      ]
+      "versions": ["DGW", "DGX"]
     },
     {
       "name": "Heavy NT",
@@ -640,9 +515,7 @@
       "num_students": 1208,
       "num_clubs": 10106,
       "num_hearts": 4529.2907,
-      "versions": [
-        "DNW"
-      ]
+      "versions": ["DNW"]
     },
     {
       "name": "Hill of Memories (Lv 47)",
@@ -654,11 +527,7 @@
       "num_students": 571,
       "num_clubs": 4293,
       "num_hearts": 1006.754,
-      "versions": [
-        "BKV",
-        "DKV",
-        "ZKV"
-      ]
+      "versions": ["BKV", "DKV", "ZKV"]
     },
     {
       "name": "Homography",
@@ -670,10 +539,7 @@
       "num_students": 716,
       "num_clubs": 10051,
       "num_hearts": 4578.29007,
-      "versions": [
-        "DGY",
-        "ZGY"
-      ]
+      "versions": ["DGY", "ZGY"]
     },
     {
       "name": "Hybrid Geo",
@@ -685,10 +551,7 @@
       "num_students": 444,
       "num_clubs": 2685,
       "num_hearts": 1254.56,
-      "versions": [
-        "DGX",
-        "ZGX"
-      ]
+      "versions": ["DGX", "ZGX"]
     },
     {
       "name": "Hyperbola",
@@ -700,9 +563,7 @@
       "num_students": 235,
       "num_clubs": 1346,
       "num_hearts": 683.1,
-      "versions": [
-        "ZGX"
-      ]
+      "versions": ["ZGX"]
     },
     {
       "name": "Induction & Recursion I",
@@ -714,9 +575,7 @@
       "num_students": 1086,
       "num_clubs": 10551,
       "num_hearts": 4330.733232999999,
-      "versions": [
-        "BCX"
-      ]
+      "versions": ["BCX"]
     },
     {
       "name": "Induction & Recursion II",
@@ -728,9 +587,7 @@
       "num_students": 646,
       "num_clubs": 5759,
       "num_hearts": 2339.0,
-      "versions": [
-        "DCY"
-      ]
+      "versions": ["DCY"]
     },
     {
       "name": "Ineq Basic",
@@ -742,9 +599,7 @@
       "num_students": 1140,
       "num_clubs": 22850,
       "num_hearts": 7613.016669999999,
-      "versions": [
-        "BAW"
-      ]
+      "versions": ["BAW"]
     },
     {
       "name": "Ineq Func",
@@ -756,9 +611,7 @@
       "num_students": 831,
       "num_clubs": 5644,
       "num_hearts": 1933.56007,
-      "versions": [
-        "BAW"
-      ]
+      "versions": ["BAW"]
     },
     {
       "name": "Ineq Standard",
@@ -770,9 +623,7 @@
       "num_students": 990,
       "num_clubs": 12803,
       "num_hearts": 4679.9692595,
-      "versions": [
-        "DAX"
-      ]
+      "versions": ["DAX"]
     },
     {
       "name": "Insect Land (Lv 61)",
@@ -784,11 +635,7 @@
       "num_students": 353,
       "num_clubs": 4697,
       "num_hearts": 807.5190069935898,
-      "versions": [
-        "BKV",
-        "DKV",
-        "ZKV"
-      ]
+      "versions": ["BKV", "DKV", "ZKV"]
     },
     {
       "name": "Int Polynom",
@@ -800,10 +647,7 @@
       "num_students": 901,
       "num_clubs": 5214,
       "num_hearts": 2320.7000000000003,
-      "versions": [
-        "DNY",
-        "ZNY"
-      ]
+      "versions": ["DNY", "ZNY"]
     },
     {
       "name": "Integration Bee",
@@ -815,9 +659,7 @@
       "num_students": 269,
       "num_clubs": 3774,
       "num_hearts": 1185.14281828,
-      "versions": [
-        "DAX"
-      ]
+      "versions": ["DAX"]
     },
     {
       "name": "Intermediate Mix",
@@ -829,10 +671,7 @@
       "num_students": 281,
       "num_clubs": 2249,
       "num_hearts": 1126.5,
-      "versions": [
-        "DCW",
-        "DCX"
-      ]
+      "versions": ["DCW", "DCX"]
     },
     {
       "name": "Inversion and Spiral",
@@ -844,9 +683,7 @@
       "num_students": 488,
       "num_clubs": 4087,
       "num_hearts": 1746.3867,
-      "versions": [
-        "ZGY"
-      ]
+      "versions": ["ZGY"]
     },
     {
       "name": "Invert",
@@ -858,9 +695,7 @@
       "num_students": 857,
       "num_clubs": 9301,
       "num_hearts": 3920.48667,
-      "versions": [
-        "DGW"
-      ]
+      "versions": ["DGW"]
     },
     {
       "name": "IOI",
@@ -872,10 +707,7 @@
       "num_students": 538,
       "num_clubs": 4047,
       "num_hearts": 1798.0,
-      "versions": [
-        "DCY",
-        "ZCY"
-      ]
+      "versions": ["DCY", "ZCY"]
     },
     {
       "name": "Irreducible",
@@ -887,9 +719,7 @@
       "num_students": 553,
       "num_clubs": 2880,
       "num_hearts": 1052.0,
-      "versions": [
-        "DAX"
-      ]
+      "versions": ["DAX"]
     },
     {
       "name": "Linear Algebra",
@@ -901,10 +731,7 @@
       "num_students": 639,
       "num_clubs": 3617,
       "num_hearts": 1706.0,
-      "versions": [
-        "DCY",
-        "ZCY"
-      ]
+      "versions": ["DCY", "ZCY"]
     },
     {
       "name": "Linear Power",
@@ -916,9 +743,7 @@
       "num_students": 186,
       "num_clubs": 1124,
       "num_hearts": 412.25,
-      "versions": [
-        "ZGY"
-      ]
+      "versions": ["ZGY"]
     },
     {
       "name": "Local",
@@ -930,10 +755,7 @@
       "num_students": 1325,
       "num_clubs": 15075,
       "num_hearts": 7245.2,
-      "versions": [
-        "DCW",
-        "DCX"
-      ]
+      "versions": ["DCW", "DCX"]
     },
     {
       "name": "Misc NT",
@@ -945,9 +767,7 @@
       "num_students": 460,
       "num_clubs": 4796,
       "num_hearts": 1773.138,
-      "versions": [
-        "DNX"
-      ]
+      "versions": ["DNX"]
     },
     {
       "name": "Mod Arith 1: Proofs",
@@ -959,9 +779,7 @@
       "num_students": 252,
       "num_clubs": 5192,
       "num_hearts": 1873.6,
-      "versions": [
-        "BNX"
-      ]
+      "versions": ["BNX"]
     },
     {
       "name": "Mod Arith 2: Computation",
@@ -973,9 +791,7 @@
       "num_students": 1216,
       "num_clubs": 25778,
       "num_hearts": 8687.4009,
-      "versions": [
-        "BNW"
-      ]
+      "versions": ["BNW"]
     },
     {
       "name": "Monster FE",
@@ -987,10 +803,7 @@
       "num_students": 714,
       "num_clubs": 5294,
       "num_hearts": 2612.0,
-      "versions": [
-        "DFW",
-        "ZFW"
-      ]
+      "versions": ["DFW", "ZFW"]
     },
     {
       "name": "Moving Points",
@@ -1002,9 +815,7 @@
       "num_students": 451,
       "num_clubs": 2025,
       "num_hearts": 1253.434,
-      "versions": [
-        "ZGW"
-      ]
+      "versions": ["ZGW"]
     },
     {
       "name": "Multivariable Calculus",
@@ -1016,9 +827,7 @@
       "num_students": 116,
       "num_clubs": 218,
       "num_hearts": 92.0,
-      "versions": [
-        "DHW"
-      ]
+      "versions": ["DHW"]
     },
     {
       "name": "Mystery",
@@ -1030,9 +839,7 @@
       "num_students": 365,
       "num_clubs": 33,
       "num_hearts": 10.759999999999998,
-      "versions": [
-        "BCW"
-      ]
+      "versions": ["BCW"]
     },
     {
       "name": "N7 Summit",
@@ -1044,9 +851,7 @@
       "num_students": 291,
       "num_clubs": 1298,
       "num_hearts": 722.0,
-      "versions": [
-        "ZNY"
-      ]
+      "versions": ["ZNY"]
     },
     {
       "name": "NT Construct",
@@ -1058,10 +863,7 @@
       "num_students": 983,
       "num_clubs": 7756,
       "num_hearts": 3431.8031,
-      "versions": [
-        "DNY",
-        "ZNY"
-      ]
+      "versions": ["DNY", "ZNY"]
     },
     {
       "name": "Orders",
@@ -1073,9 +875,7 @@
       "num_students": 1515,
       "num_clubs": 28603,
       "num_hearts": 9304.483333,
-      "versions": [
-        "BNW"
-      ]
+      "versions": ["BNW"]
     },
     {
       "name": "Prime Exponents",
@@ -1087,10 +887,7 @@
       "num_students": 1593,
       "num_clubs": 21927,
       "num_hearts": 9726.684333,
-      "versions": [
-        "BNW",
-        "DNW"
-      ]
+      "versions": ["BNW", "DNW"]
     },
     {
       "name": "Process",
@@ -1102,10 +899,7 @@
       "num_students": 896,
       "num_clubs": 7633,
       "num_hearts": 3813.25,
-      "versions": [
-        "DCY",
-        "ZCY"
-      ]
+      "versions": ["DCY", "ZCY"]
     },
     {
       "name": "Putnam Analysis",
@@ -1117,9 +911,7 @@
       "num_students": 179,
       "num_clubs": 841,
       "num_hearts": 391.6,
-      "versions": [
-        "ZAW"
-      ]
+      "versions": ["ZAW"]
     },
     {
       "name": "Real Polynom",
@@ -1131,10 +923,7 @@
       "num_students": 842,
       "num_clubs": 7822,
       "num_hearts": 3668.52,
-      "versions": [
-        "DAW",
-        "ZAW"
-      ]
+      "versions": ["DAW", "ZAW"]
     },
     {
       "name": "Real-to-Real Func Eqn",
@@ -1146,9 +935,7 @@
       "num_students": 33,
       "num_clubs": 347,
       "num_hearts": 155.0,
-      "versions": [
-        "DFY"
-      ]
+      "versions": ["DFY"]
     },
     {
       "name": "Rigid",
@@ -1160,11 +947,7 @@
       "num_students": 1880,
       "num_clubs": 17708,
       "num_hearts": 8583.23333,
-      "versions": [
-        "BCX",
-        "DCX",
-        "ZCX"
-      ]
+      "versions": ["BCX", "DCX", "ZCX"]
     },
     {
       "name": "Russian Combo",
@@ -1176,10 +959,7 @@
       "num_students": 780,
       "num_clubs": 7350,
       "num_hearts": 3201.5,
-      "versions": [
-        "BCX",
-        "DCX"
-      ]
+      "versions": ["BCX", "DCX"]
     },
     {
       "name": "Size in NT",
@@ -1191,10 +971,7 @@
       "num_students": 933,
       "num_clubs": 9701,
       "num_hearts": 4103.345521212121,
-      "versions": [
-        "DNW",
-        "DNX"
-      ]
+      "versions": ["DNW", "DNX"]
     },
     {
       "name": "Spiral",
@@ -1206,9 +983,7 @@
       "num_students": 752,
       "num_clubs": 6792,
       "num_hearts": 2607.55667,
-      "versions": [
-        "DGW"
-      ]
+      "versions": ["DGW"]
     },
     {
       "name": "Sums",
@@ -1220,10 +995,7 @@
       "num_students": 1572,
       "num_clubs": 12998,
       "num_hearts": 5165.177670000001,
-      "versions": [
-        "BAX",
-        "DAX"
-      ]
+      "versions": ["BAX", "DAX"]
     },
     {
       "name": "Super Bary",
@@ -1235,9 +1007,7 @@
       "num_students": 212,
       "num_clubs": 1139,
       "num_hearts": 459.5,
-      "versions": [
-        "ZGX"
-      ]
+      "versions": ["ZGX"]
     },
     {
       "name": "Super Complex",
@@ -1249,9 +1019,7 @@
       "num_students": 297,
       "num_clubs": 1930,
       "num_hearts": 818.0,
-      "versions": [
-        "ZGX"
-      ]
+      "versions": ["ZGX"]
     },
     {
       "name": "Super NT",
@@ -1263,10 +1031,7 @@
       "num_students": 539,
       "num_clubs": 5783,
       "num_hearts": 2641.5,
-      "versions": [
-        "ZNW",
-        "ZNX"
-      ]
+      "versions": ["ZNW", "ZNX"]
     },
     {
       "name": "Symm Polynom",
@@ -1278,9 +1043,7 @@
       "num_students": 957,
       "num_clubs": 30339,
       "num_hearts": 8281.380000000001,
-      "versions": [
-        "BAW"
-      ]
+      "versions": ["BAW"]
     },
     {
       "name": "Topology and Real Analysis",
@@ -1292,9 +1055,7 @@
       "num_students": 136,
       "num_clubs": 280,
       "num_hearts": 185.0,
-      "versions": [
-        "DHW"
-      ]
+      "versions": ["DHW"]
     },
     {
       "name": "Tricky Ineq",
@@ -1306,9 +1067,7 @@
       "num_students": 608,
       "num_clubs": 3277,
       "num_hearts": 1298.7733333,
-      "versions": [
-        "DAX"
-      ]
+      "versions": ["DAX"]
     },
     {
       "name": "Trig and Lengths",
@@ -1320,9 +1079,7 @@
       "num_students": 364,
       "num_clubs": 1663,
       "num_hearts": 897.2,
-      "versions": [
-        "DGW"
-      ]
+      "versions": ["DGW"]
     },
     {
       "name": "Weird Geo",
@@ -1334,10 +1091,7 @@
       "num_students": 480,
       "num_clubs": 1432,
       "num_hearts": 727.34,
-      "versions": [
-        "DGX",
-        "ZGX"
-      ]
+      "versions": ["DGX", "ZGX"]
     },
     {
       "name": "Wrapped Func Eqn",
@@ -1349,9 +1103,7 @@
       "num_students": 640,
       "num_clubs": 5222,
       "num_hearts": 2849.27667,
-      "versions": [
-        "DFY"
-      ]
+      "versions": ["DFY"]
     }
   ]
 }

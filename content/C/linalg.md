@@ -44,5 +44,5 @@ attached to satisfy the inquisitive reader.
 - USA TST 2016 #5 (Features as a walkthrough)
 - USAMO 2021 #3 (Again, features as a walkthrough)
 - TSTST 2018 #2
-- Brazil Revenge 2016 #5 (A 9 pointer. One of the hardest, if not the hardest problem, in the unit.)  
+- Brazil Revenge 2016 #5 (A 9 pointer. One of the hardest, if not the hardest problem, in the unit.)
 - China 2019 #5

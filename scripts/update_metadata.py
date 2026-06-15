@@ -33,20 +33,30 @@ FRONTMATTER_RE = re.compile(r"^\+\+\+\s*\n(.*?)\n\+\+\+\s*\n?(.*)$", re.DOTALL)
 
 # Order in which [extra] keys are written (unknown keys are appended, preserved).
 EXTRA_ORDER = [
-    "unit_id", "subject", "classification", "artist_name",
-    "num_students", "num_submissions", "num_clubs", "num_hearts",
-    "versions", "hidden", "description",
+    "unit_id",
+    "subject",
+    "classification",
+    "artist_name",
+    "num_students",
+    "num_submissions",
+    "num_clubs",
+    "num_hearts",
+    "versions",
+    "hidden",
+    "description",
 ]
 
 
 def load_dump():
     import json
+
     with open(DUMP, encoding="utf-8") as f:
         groups = json.load(f)["unit_groups"]
     return {g["slug"]: g for g in groups}
 
 
 # --- TOML emission ---------------------------------------------------------
+
 
 def emit_basic(s):
     """A single-line TOML basic string (whitespace collapsed, escaped)."""
@@ -106,6 +116,7 @@ def serialize(data):
 
 
 # --- update ----------------------------------------------------------------
+
 
 def apply_dump(data, entry):
     data["title"] = entry["name"]

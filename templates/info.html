@@ -1,16 +1,14 @@
 {% extends "base.html" %}
-
-{% block title %}{{ page.title }} &middot; OTIS Unit Wiki{% endblock title %}
-
+{% block title %}
+    {{ page.title }} · OTIS Unit Wiki
+{% endblock title %}
 {% block content %}
-<article class="info-page">
-  <h1>{{ page.title }}</h1>
-
-  <p class="edit-link">
-    <a href="{{ config.extra.github_repo }}/edit/{{ config.extra.github_branch }}/content/{{ page.relative_path }}"
-       rel="nofollow">&#9998; Edit this page on GitHub</a>
-  </p>
-
-  {{ page.content | safe }}
-</article>
+    <article class="info-page">
+        <h1>{{ page.title }}</h1>
+        <p class="edit-link">
+            <a href="{{ config.extra.github_repo }}/edit/{{ config.extra.github_branch }}/content/{{ page.relative_path }}"
+               rel="nofollow">✎ Edit this page on GitHub</a>
+        </p>
+        {{ page.content | safe }}
+    </article>
 {% endblock content %}

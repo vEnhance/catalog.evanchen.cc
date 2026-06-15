@@ -1,35 +1,34 @@
 {% extends "base.html" %}
-
-{% block title %}{{ section.title }} &middot; OTIS Unit Wiki{% endblock title %}
-
+{% block title %}{{ section.title }} · OTIS Unit Wiki{% endblock title %}
 {% block content %}
-<article class="section subj-{{ section.extra.subject }}">
-  <h1>{{ section.title }}</h1>
-  {% set hidden_count = section.pages | filter(attribute="extra.hidden", value=true) | length %}
-  {% set visible = section.pages | length - hidden_count %}
-  <p class="section-count">{{ visible }} units</p>
-
-  <ul class="unit-list">
-    {% for page in section.pages %}
-    {% if not page.extra.hidden %}
-    <li class="unit-entry">
-      <a class="unit-entry-thumb" href="{{ page.permalink }}">
-        <img loading="lazy" width="226" height="226"
-             src="{{ config.extra.gallery_base }}/thumb-md/{{ page.slug }}.webp"
-             alt="{{ page.title }} artwork">
-      </a>
-      <div class="unit-entry-body">
-        <div class="unit-entry-name"><a href="{{ page.permalink }}">{{ page.title }}</a></div>
-        <p class="unit-entry-meta">
-          Art by {{ page.extra.artist_name }} &middot; <code>{{ page.slug }}</code>
-        </p>
-        {% if page.extra.description %}
-        <p class="unit-entry-desc">{{ page.extra.description }}</p>
-        {% endif %}
-      </div>
-    </li>
-    {% endif %}
-    {% endfor %}
-  </ul>
-</article>
+    <article class="section subj-{{ section.extra.subject }}">
+        <h1>{{ section.title }}</h1>
+        {% set hidden_count = section.pages | filter(attribute="extra.hidden", value=true) | length %}
+        {% set visible = section.pages | length - hidden_count %}
+        <p class="section-count">{{ visible }} units</p>
+        <ul class="unit-list">
+            {% for page in section.pages %}
+                {% if not page.extra.hidden %}
+                    <li class="unit-entry">
+                        <a class="unit-entry-thumb" href="{{ page.permalink }}">
+                            <img loading="lazy"
+                                 width="226"
+                                 height="226"
+                                 src="{{ config.extra.gallery_base }}/thumb-md/{{ page.slug }}.webp"
+                                 alt="{{ page.title }} artwork">
+                        </a>
+                        <div class="unit-entry-body">
+                            <div class="unit-entry-name"><a href="{{ page.permalink }}">{{ page.title }}</a></div>
+                            <p class="unit-entry-meta">
+                                Art by {{ page.extra.artist_name }} · <code>{{ page.slug }}</code>
+                            </p>
+                            {% if page.extra.description %}
+                                <p class="unit-entry-desc">{{ page.extra.description }}</p>
+                            {% endif %}
+                        </div>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </article>
 {% endblock content %}

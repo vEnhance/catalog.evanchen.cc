@@ -29,7 +29,7 @@ good diagram so that when something is true, you can guess it from the diagram".
 However, you won't be able to draw a perfect diagram all the time,
 so it is more important to build your diagram intuition.
 
-Some advices given in the handout are:
+Some advice given in the handout are:
 
 1. **Constructing diagrams is nontrivial**: Deciding how to construct the diagram is important.
    The order in which you draw the points can facilitate the problem,

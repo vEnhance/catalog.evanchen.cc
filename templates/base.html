@@ -1,17 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% block title %}{{ config.title | default(value="OTIS Unit Wiki") }}{% endblock title %}</title>
-  <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
-  <link rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
-  <script defer
-          src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
-  <script defer
-          src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
-  <script>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="OTIS unit catalog wiki">
+        <meta name="keywords" content="OTIS, Evan Chen, wiki, catalog">
+        <title>
+            {% block title %}
+                {{ config.title | default(value="OTIS Unit Wiki") }}
+            {% endblock title %}
+        </title>
+        <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
+        <link rel="stylesheet"
+              href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+        <script defer
+                src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+        <script defer
+                src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
+        <script>
     document.addEventListener("DOMContentLoaded", function () {
       function renderAll() {
         // Article bodies: importer-wrapped .math spans/divs hold raw TeX (with
@@ -41,45 +47,52 @@
       if (window.katex && window.renderMathInElement) { renderAll(); }
       else { window.addEventListener("load", renderAll); }
     });
-  </script>
-</head>
-<body>
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="site-title" href="{{ get_url(path='@/_index.md') }}">OTIS Unit Wiki</a>
-      <nav class="site-nav">
-        <a href="{{ get_url(path='@/_index.md') }}">Home</a>
-        <a href="{{ get_url(path='@/gallery.md') }}">Gallery</a>
-        <details class="nav-dropdown">
-          <summary class="nav-dropdown-toggle">Subjects &#9662;</summary>
-          <ul class="nav-dropdown-menu">
-            {% set sections = ["A", "C", "F", "G", "H", "K", "M", "N"] %}
-            {% for letter in sections %}
-              {% set sec = get_section(path=letter ~ "/_index.md", metadata_only=true) %}
-              {% if not sec.extra.hidden %}
-              <li><a href="{{ get_url(path='@/' ~ letter ~ '/_index.md') }}">{{ letter }} &mdash; {{ sec.title }}</a></li>
-              {% endif %}
-            {% endfor %}
-          </ul>
-        </details>
-        <details class="nav-dropdown">
-          <summary class="nav-dropdown-toggle">Info &#9662;</summary>
-          <ul class="nav-dropdown-menu">
-            {% set info = get_section(path="info/_index.md") %}
-            {% for p in info.pages %}
-              <li><a href="{{ p.permalink }}">{{ p.title }}</a></li>
-            {% endfor %}
-          </ul>
-        </details>
-      </nav>
-    </div>
-  </header>
-  <main class="site-main">
-    {% block content %}{% endblock content %}
-  </main>
-  <footer class="site-footer">
-    <p>OTIS Unit Wiki &middot;
-      <a href="{{ config.extra.github_repo }}">suggest edits via pull request on GitHub</a>.</p>
-  </footer>
-</body>
+        </script>
+    </head>
+    <body>
+        <header class="site-header">
+            <div class="site-header-inner">
+                <a class="site-title" href="{{ get_url(path='@/_index.md') }}">OTIS Unit Wiki</a>
+                <nav class="site-nav">
+                    <a href="{{ get_url(path='@/_index.md') }}">Home</a>
+                    <a href="{{ get_url(path='@/gallery.md') }}">Gallery</a>
+                    <details class="nav-dropdown">
+                        <summary class="nav-dropdown-toggle">Subjects ▾</summary>
+                        <ul class="nav-dropdown-menu">
+                            {% set sections = ["A", "C", "F", "G", "H", "K", "M", "N"] %}
+                            {% for letter in sections %}
+                                {% set sec = get_section(path=letter ~ "/_index.md", metadata_only=true) %}
+                                {% if not sec.extra.hidden %}
+                                    <li>
+                                        <a href="{{ get_url(path='@/' ~ letter ~ '/_index.md') }}">{{ letter }} · {{ sec.title }}</a>
+                                    </li>
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
+                    </details>
+                    <details class="nav-dropdown">
+                        <summary class="nav-dropdown-toggle">Info ▾</summary>
+                        <ul class="nav-dropdown-menu">
+                            {% set info = get_section(path="info/_index.md") %}
+                            {% for p in info.pages %}
+                                <li>
+                                    <a href="{{ p.permalink }}">{{ p.title }}</a>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    </details>
+                </nav>
+            </div>
+        </header>
+        <main class="site-main">
+            {% block content %}
+            {% endblock content %}
+        </main>
+        <footer class="site-footer">
+            <p>
+                OTIS Unit Wiki ·
+                <a href="{{ config.extra.github_repo }}">suggest edits via pull request on GitHub</a>.
+            </p>
+        </footer>
+    </body>
 </html>
