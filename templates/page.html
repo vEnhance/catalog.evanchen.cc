@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}{{ page.title }} &middot; OTIS Unit Catalog{% endblock title %}
+{% block title %}{{ page.title }} &middot; OTIS Unit Wiki{% endblock title %}
 
 {% block content %}
 <article class="unit subj-{{ page.extra.subject }}">
@@ -29,6 +29,11 @@
       <tr><th>Art credits</th><td>{{ page.extra.artist_name }}</td></tr>
       <tr><th>Classification</th><td>{{ page.extra.classification }}</td></tr>
       <tr><th>Slug</th><td><code>{{ page.slug }}</code></td></tr>
+      {% if page.extra.versions %}<tr><th>Versions</th><td>{{ page.extra.versions | join(sep=", ") }}</td></tr>{% endif %}
+      {% if page.extra.num_students is defined %}<tr><th>Participants</th><td>{{ page.extra.num_students }}</td></tr>{% endif %}
+      {% if page.extra.num_submissions is defined %}<tr><th>Submissions</th><td>{{ page.extra.num_submissions }}</td></tr>{% endif %}
+      {% if page.extra.num_clubs is defined %}<tr><th>&clubs; earned</th><td>{{ page.extra.num_clubs }}</td></tr>{% endif %}
+      {% if page.extra.num_hearts is defined %}<tr><th>&hearts; earned</th><td>{{ page.extra.num_hearts }}</td></tr>{% endif %}
     </table>
   </aside>
 

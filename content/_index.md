@@ -1,4 +1,4 @@
 +++
-title = "OTIS Unit Catalog"
+title = "OTIS Unit Wiki"
 sort_by = "weight"
 +++

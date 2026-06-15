@@ -2,7 +2,7 @@
 base_url = "https://catalog.evanchen.cc"
 
 # Site title (used in <title> and header fallbacks)
-title = "OTIS Unit Catalog"
+title = "OTIS Unit Wiki"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true

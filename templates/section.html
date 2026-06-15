@@ -1,14 +1,17 @@
 {% extends "base.html" %}
 
-{% block title %}{{ section.title }} &middot; OTIS Unit Catalog{% endblock title %}
+{% block title %}{{ section.title }} &middot; OTIS Unit Wiki{% endblock title %}
 
 {% block content %}
 <article class="section subj-{{ section.extra.subject }}">
   <h1>{{ section.title }}</h1>
-  <p class="section-count">{{ section.pages | length }} units</p>
+  {% set hidden_count = section.pages | filter(attribute="extra.hidden", value=true) | length %}
+  {% set visible = section.pages | length - hidden_count %}
+  <p class="section-count">{{ visible }} units</p>
 
   <ul class="unit-list">
     {% for page in section.pages %}
+    {% if not page.extra.hidden %}
     <li class="unit-entry">
       <a class="unit-entry-thumb" href="{{ page.permalink }}">
         <img loading="lazy" width="226" height="226"
@@ -25,6 +28,7 @@
         {% endif %}
       </div>
     </li>
+    {% endif %}
     {% endfor %}
   </ul>
 </article>

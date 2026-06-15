@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}Gallery &middot; OTIS Unit Catalog{% endblock title %}
+{% block title %}Gallery &middot; OTIS Unit Wiki{% endblock title %}
 
 {% block content %}
 <article class="gallery-page">
@@ -9,10 +9,14 @@
   {% set sections = ["A", "C", "F", "G", "H", "K", "M", "N"] %}
   {% for letter in sections %}
     {% set sec = get_section(path=letter ~ "/_index.md") %}
-    <h2 id="{{ letter }}">{{ sec.title }} <span class="group-count">({{ sec.pages | length }})</span></h2>
+    {% if not sec.extra.hidden %}
+    {% set hidden_count = sec.pages | filter(attribute="extra.hidden", value=true) | length %}
+    {% set visible = sec.pages | length - hidden_count %}
+    <h2 id="{{ letter }}">{{ sec.title }} <span class="group-count">({{ visible }})</span></h2>
 
     <ul class="unit-gallery">
       {% for unit in sec.pages %}
+      {% if not unit.extra.hidden %}
       <li>
         <a class="gallery-item" href="{{ unit.permalink }}">
           <span class="gallery-name">{{ unit.title }}</span>
@@ -23,8 +27,10 @@
           <span class="gallery-credit">Art by {{ unit.extra.artist_name }}</span>
         </a>
       </li>
+      {% endif %}
       {% endfor %}
     </ul>
+    {% endif %}
   {% endfor %}
 </article>
 {% endblock content %}

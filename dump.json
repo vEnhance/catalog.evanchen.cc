@@ -1,0 +1,1357 @@
+{
+  "timestamp": "2026-06-14T18:30:00.123456+00:00",
+  "unit_groups": [
+    {
+      "name": "Adv Poly Method",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "Formerly, this was a unit on using combinatorial nullstellensatz, mostly for fun. It was later expanded to additionally include uses of generating functions and related polynomial methods on 3/6 level problems, broadening the scope significantly.",
+      "slug": "advpoly",
+      "artist_name": "Arul Kolla",
+      "num_submissions": 36,
+      "num_students": 325,
+      "num_clubs": 1388,
+      "num_hearts": 734.0,
+      "versions": [
+        "ZCW"
+      ]
+    },
+    {
+      "name": "AIME Geo",
+      "subject": "Geometry (Slytherin)",
+      "description": "Computational geometry problems, many taken from the tail end of the AIME. At the border of computational contests and olympiads.",
+      "slug": "aimegeo",
+      "artist_name": "Evan Chen",
+      "num_submissions": 333,
+      "num_students": 1087,
+      "num_clubs": 17358,
+      "num_hearts": 5783.50822,
+      "versions": [
+        "BGX",
+        "DGX"
+      ]
+    },
+    {
+      "name": "Alg Manip",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "Problems that purely involve algebraic manipulations without some other context, e.g. solving rather arbitrary equations or systems of equations.",
+      "slug": "algmanip",
+      "artist_name": "Aaryan Vaishya",
+      "num_submissions": 435,
+      "num_students": 1452,
+      "num_clubs": 24213,
+      "num_hearts": 9056.89617,
+      "versions": [
+        "BAY",
+        "DAY"
+      ]
+    },
+    {
+      "name": "Analysis",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "Problems involving some real analysis. This is a pretty technical lecture and will delve into the nuances of converge issues, absolute versus conditional convergence, using calculus properly, compact sets, and so on. Featuring the art of Lagrange multipliers.",
+      "slug": "analysis",
+      "artist_name": "Aditya Pahuja",
+      "num_submissions": 65,
+      "num_students": 801,
+      "num_clubs": 3528,
+      "num_hearts": 1952.25,
+      "versions": [
+        "DAY",
+        "ZAY"
+      ]
+    },
+    {
+      "name": "Analytic NT",
+      "subject": "Number Theory (Ravenclaw)",
+      "description": "Problems that involve asymptotic calculations in number theory, featuring some multiplicative number theory. Convolution method, and generally problems that require more technical estimates.",
+      "slug": "analyticnt",
+      "artist_name": "Nurtilek Duishobaev",
+      "num_submissions": 22,
+      "num_students": 263,
+      "num_clubs": 1532,
+      "num_hearts": 1093.4,
+      "versions": [
+        "ZNW"
+      ]
+    },
+    {
+      "name": "Anti Problems",
+      "subject": "Miscellaneous",
+      "description": "A unit consisting entirely of troll \"anti-problems\" which are suitable for giving to your enemies.",
+      "slug": "antiprobs",
+      "artist_name": "Aaryan Vaishya",
+      "num_submissions": 103,
+      "num_students": 550,
+      "num_clubs": 3265,
+      "num_hearts": 1650.0000009999999,
+      "versions": [
+        "DMW",
+        "DMX",
+        "DMY"
+      ]
+    },
+    {
+      "name": "Arrows",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "Some selected problems revolving around the idea that a function from a set to itself can be thought of as a directed graph with all outdegrees equal to 1. In particular, iterating such a function often involves looking at its cycle decomposition.",
+      "slug": "arrows",
+      "artist_name": "Alon Ragoler",
+      "num_submissions": 114,
+      "num_students": 836,
+      "num_clubs": 5754,
+      "num_hearts": 2562.165,
+      "versions": [
+        "DCW",
+        "ZCW"
+      ]
+    },
+    {
+      "name": "Art School",
+      "subject": "Geometry (Slytherin)",
+      "description": "This is a unit about building \"diagram intuition\": being able to take a geometry diagram (which may be good or bad) and trying to get a sense of which claims should or shouldn't be true. This is definitely one of the longer geometry units.",
+      "slug": "artschool",
+      "artist_name": "Evan Chen",
+      "num_submissions": 235,
+      "num_students": 1008,
+      "num_clubs": 13522,
+      "num_hearts": 6482.9439999999995,
+      "versions": [
+        "DGX",
+        "ZGY"
+      ]
+    },
+    {
+      "name": "Bary",
+      "subject": "Geometry (Slytherin)",
+      "description": "Barycentric coordinates in olympiad geometry. A follow-up to Chapter 7 of EGMO.",
+      "slug": "bary",
+      "artist_name": "Evan Chen",
+      "num_submissions": 169,
+      "num_students": 1134,
+      "num_clubs": 6440,
+      "num_hearts": 2761.6666600000003,
+      "versions": [
+        "BGW",
+        "DGW",
+        "DGX"
+      ]
+    },
+    {
+      "name": "C8 Summit",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "A challenging combinatorics unit to conclude the year, with difficult problems reviewing everything that has appeared earlier.",
+      "slug": "c8summit",
+      "artist_name": "Owen Zhang",
+      "num_submissions": 17,
+      "num_students": 304,
+      "num_clubs": 1620,
+      "num_hearts": 694.0,
+      "versions": [
+        "ZCW"
+      ]
+    },
+    {
+      "name": "Classical Geo",
+      "subject": "Geometry (Slytherin)",
+      "description": "Formerly part of \"American Geo\". This is somewhere between Config Geo and Elem Geo. A lot of these problems involve figuring out what certain points are, adding in new points that were not that already, and altogether slowly piecing together a master diagram that reveals the depth of a certain picture.",
+      "slug": "classicgeo",
+      "artist_name": "Evan Chen",
+      "num_submissions": 183,
+      "num_students": 1141,
+      "num_clubs": 11968,
+      "num_hearts": 5423.34925653,
+      "versions": [
+        "DGX",
+        "ZGX"
+      ]
+    },
+    {
+      "name": "Collinia Colosseum (Lv 75)",
+      "subject": "Secret",
+      "description": "Secret unit that appears at level 75.",
+      "slug": "collinia",
+      "artist_name": "DALL\u00b7E",
+      "num_submissions": 55,
+      "num_students": 207,
+      "num_clubs": 4196,
+      "num_hearts": 600.2143434343434,
+      "versions": [
+        "BKV",
+        "DKV",
+        "ZKV"
+      ]
+    },
+    {
+      "name": "Complex Nums",
+      "subject": "Geometry (Slytherin)",
+      "description": "Complex numbers in olympiad geometry. A follow-up to Chapter 6 of EGMO.",
+      "slug": "complex",
+      "artist_name": "Evan Chen",
+      "num_submissions": 299,
+      "num_students": 1800,
+      "num_clubs": 11943,
+      "num_hearts": 5909.74007,
+      "versions": [
+        "BGW",
+        "DGW",
+        "DGX"
+      ]
+    },
+    {
+      "name": "Computational Combo",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "The \"ARML combo\" unit, this counting unit represents the centroid of Rigid, Induct, Formulas, and Grinding. Also contains several black-magic bijections.",
+      "slug": "arml",
+      "artist_name": "Evan Chen",
+      "num_submissions": 169,
+      "num_students": 692,
+      "num_clubs": 10406,
+      "num_hearts": 3164.4342000000006,
+      "versions": [
+        "BCW",
+        "DCW"
+      ]
+    },
+    {
+      "name": "Config Geo",
+      "subject": "Geometry (Slytherin)",
+      "description": "Formerly known as \"American Geo\". This is a unit on geometry problems with a highly traditional or synthetic flavor, for example USAMO 2016/3 and USAMO 2017/3. These sorts of problems were popular on the USA olympiads and team selection tests around 2016 and it is totally not my fault. These particular ones tend to use common or standard configurations as a base and build on top of them, as opposed to starting afresh.",
+      "slug": "configgeo",
+      "artist_name": "Evan Chen",
+      "num_submissions": 177,
+      "num_students": 918,
+      "num_clubs": 11548,
+      "num_hearts": 5235.363329999999,
+      "versions": [
+        "DGY",
+        "ZGY"
+      ]
+    },
+    {
+      "name": "Constructor",
+      "subject": "Geometry (Slytherin)",
+      "description": "A mostly-for-fun unit on problems involving constructions. In addition to classical ruler-compass constructions, you may get to use exotic tools that you've never heard of! Includes double-sided rulers, marked rulers, cyclos, circumcircle compasses, splitters, perpendicular bisector rulers, isogonal conjugate finders, and more.",
+      "slug": "constructor",
+      "artist_name": "Aibala Mizamov",
+      "num_submissions": 4,
+      "num_students": 43,
+      "num_clubs": 163,
+      "num_hearts": 48.0,
+      "versions": [
+        "DGX"
+      ]
+    },
+    {
+      "name": "Courage",
+      "subject": "Miscellaneous",
+      "description": "A difficult unit consisting of problems with deceptively short statements. A lot of the difficulty of these problems is setting up an entire framework to attack a simply stated problem. These setups are often more elaborate or detailed than in other problems.",
+      "slug": "courage",
+      "artist_name": "Emily Yu",
+      "num_submissions": 76,
+      "num_students": 588,
+      "num_clubs": 7358,
+      "num_hearts": 2135.682,
+      "versions": [
+        "DMW",
+        "ZMW"
+      ]
+    },
+    {
+      "name": "Cyclotomic",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "Roots of unity. Using $e^{i \\theta} = \\cos(\\theta) + i \\sin(\\theta)$, and connecting them to trigonometry, etc. Features a ton of problems from Math Prize for Girls. Despite the name of the unit, cyclotomic polynomials themselves don't appear very often; the idea of roots of unity is much more prevalent.",
+      "slug": "cyclotomic",
+      "artist_name": "Aaryan Vaishya",
+      "num_submissions": 364,
+      "num_students": 975,
+      "num_clubs": 20560,
+      "num_hearts": 6429.126926789,
+      "versions": [
+        "BAY"
+      ]
+    },
+    {
+      "name": "Duluth",
+      "subject": "Miscellaneous",
+      "description": "A short end-of-year unit containing open problems I solved at the Duluth REU.",
+      "slug": "duluth",
+      "artist_name": "anonymous",
+      "num_submissions": 4,
+      "num_students": 112,
+      "num_clubs": 30,
+      "num_hearts": 3.0,
+      "versions": [
+        "ZMY"
+      ]
+    },
+    {
+      "name": "Dummy Unit",
+      "subject": "Miscellaneous",
+      "description": "Not an actual unit; used internally as a canonical file for testing. If you unlock this unit, you will get a blank file. NOTHING TO SEE HERE MOVE ALONG.\r\n\r\nMore seriously you can use this to test the submission interface too if you are new to OTIS.",
+      "slug": "dummy",
+      "artist_name": "Evan Chen",
+      "num_submissions": 637,
+      "num_students": 735,
+      "num_clubs": 437,
+      "num_hearts": 309.1509926459232,
+      "versions": [
+        "BMW"
+      ]
+    },
+    {
+      "name": "Elem Geo",
+      "subject": "Geometry (Slytherin)",
+      "description": "A unit featuring easy to medium geometry problems which can be solved using only the most basic tools: angle chasing, power of a point, homothety. It can be thought of as a follow-up to Part I of EGMO.",
+      "slug": "elemgeo",
+      "artist_name": "Rishabh Mahale",
+      "num_submissions": 730,
+      "num_students": 1823,
+      "num_clubs": 45290,
+      "num_hearts": 19495.282728574,
+      "versions": [
+        "BGW",
+        "DGW",
+        "BGY",
+        "DGY"
+      ]
+    },
+    {
+      "name": "Entry Combo",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "A beginner combinatorics unit, meant to help get people oriented with typical proof styles for olympiad problems. Induction, recursion, invariants, and algorithms.",
+      "slug": "entry",
+      "artist_name": "Rohan Dhillon",
+      "num_submissions": 632,
+      "num_students": 1504,
+      "num_clubs": 40053,
+      "num_hearts": 17792.78709,
+      "versions": [
+        "BCX",
+        "BCY"
+      ]
+    },
+    {
+      "name": "Equality",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "An important unit about taking advantage of the equality case in combinatorial problems in order to solve problems. Mandatory for newcomer students.",
+      "slug": "equality",
+      "artist_name": "Owen Zhang",
+      "num_submissions": 485,
+      "num_students": 2262,
+      "num_clubs": 25670,
+      "num_hearts": 12242.07630301294,
+      "versions": [
+        "BCW",
+        "DCW",
+        "ZCW"
+      ]
+    },
+    {
+      "name": "Euclid Alg",
+      "subject": "Number Theory (Ravenclaw)",
+      "description": "A unit about the idea that if $d$ divides $a$ and $b$, then $d$ divides any linear combination of $a$ and $b$. This intuition underlies Bezout's lemma, the Euclidean algorithm, and the division algorithm, as well as a technique which I privately call remainder bounding. One very good example of a problem of this feeling is SL 2016 N4 (sort of the crown example of remainder bounding).",
+      "slug": "euclid",
+      "artist_name": "Alex Zhao",
+      "num_submissions": 214,
+      "num_students": 994,
+      "num_clubs": 12120,
+      "num_hearts": 5894.78,
+      "versions": [
+        "DNY"
+      ]
+    },
+    {
+      "name": "Expected Value",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "Computational problems involving probability, expected value (in particular linearity of expectation), and Markov chains (processes which move from state to state). A good precursor to the Global unit.",
+      "slug": "evcomp",
+      "artist_name": "Heyang Ni",
+      "num_submissions": 399,
+      "num_students": 1177,
+      "num_clubs": 15692,
+      "num_hearts": 5405.8233,
+      "versions": [
+        "BCW"
+      ]
+    },
+    {
+      "name": "Expon NT",
+      "subject": "Number Theory (Ravenclaw)",
+      "description": "Expressions of the form $a^n \\pm 1$, the bread and butter of olympiad number theory. Mods and orders, Fermat's Christmas theorem, lifting the exponent.",
+      "slug": "expnt",
+      "artist_name": "Owen Zhang",
+      "num_submissions": 296,
+      "num_students": 1488,
+      "num_clubs": 21065,
+      "num_hearts": 8982.003999999997,
+      "versions": [
+        "DNW"
+      ]
+    },
+    {
+      "name": "Extremal Graph",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "A difficult unit on problems from extremal graph theory; finding graphs which maximize X under certain constructions. The most basic example is Turan's theorem, which maximizes the number of edges in a graph avoiding an r-clique. Global/local ideas as well as understanding of equality cases feature prominently. Most of the examples in this unit are more challenging.",
+      "slug": "extremegraph",
+      "artist_name": "Joel Gerlach",
+      "num_submissions": 60,
+      "num_students": 580,
+      "num_clubs": 2498,
+      "num_hearts": 877.934,
+      "versions": [
+        "DCX",
+        "ZCX"
+      ]
+    },
+    {
+      "name": "Forest of Wandering (Lv 35)",
+      "subject": "Secret",
+      "description": "Secret unit unlocked that appears at level 35.",
+      "slug": "forest",
+      "artist_name": "DALL\u00b7E",
+      "num_submissions": 430,
+      "num_students": 807,
+      "num_clubs": 5815,
+      "num_hearts": 1334.587004,
+      "versions": [
+        "BKV",
+        "DKV",
+        "ZKV"
+      ]
+    },
+    {
+      "name": "Formulas",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "Based on Yang Liu's class \"Write Down Formulas\" at MOP 2018. This unit consists of problems which involve manipulations of fairly involved formulas, such as combinatorial recursions or number theoretic power sums. Despite officially being algebra, there are just as many (maybe more) problems that would be classified as C or N.",
+      "slug": "formulas",
+      "artist_name": "Alex Zhao",
+      "num_submissions": 64,
+      "num_students": 609,
+      "num_clubs": 2613,
+      "num_hearts": 1239.833333,
+      "versions": [
+        "DAW",
+        "ZAW"
+      ]
+    },
+    {
+      "name": "Free",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "Problems for which you have a lot of room to make decisions; a lot of the problems in this unit are constructions, for example. You will feel like you are inventing mathematics, rather than discovering it (in contrast to the Rigid unit).",
+      "slug": "free",
+      "artist_name": "Arul Kolla",
+      "num_submissions": 155,
+      "num_students": 1204,
+      "num_clubs": 8751,
+      "num_hearts": 4188.259999999999,
+      "versions": [
+        "DCW",
+        "ZCX"
+      ]
+    },
+    {
+      "name": "Func Eqn",
+      "subject": "Functional Equations",
+      "description": "Functional equations, I guess.",
+      "slug": "fneqn",
+      "artist_name": "Emily Yu",
+      "num_submissions": 848,
+      "num_students": 2300,
+      "num_clubs": 46579,
+      "num_hearts": 20923.884786789018,
+      "versions": [
+        "BFW",
+        "DFW",
+        "ZFW",
+        "DFX",
+        "ZFX"
+      ]
+    },
+    {
+      "name": "G6 Summit",
+      "subject": "Geometry (Slytherin)",
+      "description": "A challenging geometry unit to conclude the year, with difficult problems reviewing everything that has appeared earlier.",
+      "slug": "g6summit",
+      "artist_name": "Aditya Pahuja",
+      "num_submissions": 22,
+      "num_students": 342,
+      "num_clubs": 1777,
+      "num_hearts": 752.0,
+      "versions": [
+        "ZGY"
+      ]
+    },
+    {
+      "name": "Gen Func",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "Generating functions and their use in algebraic contexts (computing sums, featuring the so-called snake oil method). Of course, some combinatorial problems included as well.",
+      "slug": "genfunc",
+      "artist_name": "Filbert Wu",
+      "num_submissions": 204,
+      "num_students": 997,
+      "num_clubs": 8859,
+      "num_hearts": 3564.754321321,
+      "versions": [
+        "BAX"
+      ]
+    },
+    {
+      "name": "Global",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "Linearity of expectation, switching the order of summation, what's often called pigeonhole principle, counting in two ways, ... turns out they're actually all more or less the same idea.",
+      "slug": "global",
+      "artist_name": "Anthony Zou",
+      "num_submissions": 643,
+      "num_students": 1912,
+      "num_clubs": 33523,
+      "num_hearts": 14184.94923,
+      "versions": [
+        "BCW",
+        "DCW",
+        "DCX"
+      ]
+    },
+    {
+      "name": "Global and Local",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "An accelerated version of both the global and local units (both done at once).",
+      "slug": "globloc",
+      "artist_name": "Azat Madimarov",
+      "num_submissions": 119,
+      "num_students": 521,
+      "num_clubs": 8761,
+      "num_hearts": 3829.8500000000004,
+      "versions": [
+        "ZCW",
+        "ZCX"
+      ]
+    },
+    {
+      "name": "Graph Theory",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "Combinatorics practice with graphs. The B version of the unit is aimed at students with no previous exposure to graph theory; the harder versions assume prior experience.",
+      "slug": "graph",
+      "artist_name": "Owen Zhang",
+      "num_submissions": 316,
+      "num_students": 1559,
+      "num_clubs": 16305,
+      "num_hearts": 6306.393333,
+      "versions": [
+        "BCX",
+        "DCX",
+        "ZCX"
+      ]
+    },
+    {
+      "name": "Grids",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "A fun but difficult unit on combinatorics problems involving rectangular grids.",
+      "slug": "grids",
+      "artist_name": "Cecilia Sun",
+      "num_submissions": 39,
+      "num_students": 443,
+      "num_clubs": 2908,
+      "num_hearts": 1345.5,
+      "versions": [
+        "ZCY"
+      ]
+    },
+    {
+      "name": "Grinding",
+      "subject": "Miscellaneous",
+      "description": "The worst olympiad problems you've ever seen. The name is a reference to the video game term in which you do the same thing over and over.",
+      "slug": "grinding",
+      "artist_name": "Anthony Zou",
+      "num_submissions": 30,
+      "num_students": 350,
+      "num_clubs": 1386,
+      "num_hearts": 656.02,
+      "versions": [
+        "DMY",
+        "ZMY"
+      ]
+    },
+    {
+      "name": "Groups, Rings, and Fields",
+      "subject": "Higher Math",
+      "description": "A first introduction to the language of group theory, rings, and fields. One of the two key gateway units for higher math.",
+      "slug": "grf",
+      "artist_name": "DALL\u00b7E",
+      "num_submissions": 7,
+      "num_students": 198,
+      "num_clubs": 235,
+      "num_hearts": 150.0,
+      "versions": [
+        "DHW"
+      ]
+    },
+    {
+      "name": "Hall",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "Hall's marriage lemma.",
+      "slug": "hall",
+      "artist_name": "Stable Diffusion",
+      "num_submissions": 147,
+      "num_students": 425,
+      "num_clubs": 5410,
+      "num_hearts": 2210.2721039999997,
+      "versions": [
+        "BCW",
+        "DCW"
+      ]
+    },
+    {
+      "name": "Hard Ineq",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "A unit featuring some of the hardest gems from the golden age of inequalities.",
+      "slug": "hardineq",
+      "artist_name": "Isken Kenzhebaev",
+      "num_submissions": 34,
+      "num_students": 281,
+      "num_clubs": 1773,
+      "num_hearts": 938.0,
+      "versions": [
+        "ZAW",
+        "ZAY"
+      ]
+    },
+    {
+      "name": "Harmonic",
+      "subject": "Geometry (Slytherin)",
+      "description": "Your friendly projective geometry unit. Harmonic bundles, poles and polars, and so on. A follow-up to Chapter 9 of EGMO.",
+      "slug": "harmonic",
+      "artist_name": "Nurtilek Duishobaev",
+      "num_submissions": 585,
+      "num_students": 1487,
+      "num_clubs": 35447,
+      "num_hearts": 14802.85333,
+      "versions": [
+        "DGW",
+        "DGX"
+      ]
+    },
+    {
+      "name": "Heavy NT",
+      "subject": "Number Theory (Ravenclaw)",
+      "description": "Heavy machinery in number theory: Vieta jumping, quadratic reciprocity, and some big-name theorems you may or may not have heard of.",
+      "slug": "heavynumth",
+      "artist_name": "Rohan Garg",
+      "num_submissions": 181,
+      "num_students": 1208,
+      "num_clubs": 10106,
+      "num_hearts": 4529.2907,
+      "versions": [
+        "DNW"
+      ]
+    },
+    {
+      "name": "Hill of Memories (Lv 47)",
+      "subject": "Secret",
+      "description": "Secret unit that appears at level 47.",
+      "slug": "hill",
+      "artist_name": "DALL\u00b7E",
+      "num_submissions": 185,
+      "num_students": 571,
+      "num_clubs": 4293,
+      "num_hearts": 1006.754,
+      "versions": [
+        "BKV",
+        "DKV",
+        "ZKV"
+      ]
+    },
+    {
+      "name": "Homography",
+      "subject": "Geometry (Slytherin)",
+      "description": "A less friendly and more abstract projective geometry unit, with an emphasis on projective transformations. Most of the theorems will be stated with respect to an arbitrary conic rather than a circle. Expect lots of Pascal. Includes Desargues involution theorem (DIT) and its dual (DDIT).",
+      "slug": "homography",
+      "artist_name": "Nurtilek Duishobaev",
+      "num_submissions": 180,
+      "num_students": 716,
+      "num_clubs": 10051,
+      "num_hearts": 4578.29007,
+      "versions": [
+        "DGY",
+        "ZGY"
+      ]
+    },
+    {
+      "name": "Hybrid Geo",
+      "subject": "Geometry (Slytherin)",
+      "description": "Grab-bag of geometry problems that feature some algebra, combinatorics, or number theory. As examples, this includes geometric inequalities, combinatorial geometry, and problems involving integer distances or lattice points.",
+      "slug": "hybrid",
+      "artist_name": "Joel Gerlach",
+      "num_submissions": 54,
+      "num_students": 444,
+      "num_clubs": 2685,
+      "num_hearts": 1254.56,
+      "versions": [
+        "DGX",
+        "ZGX"
+      ]
+    },
+    {
+      "name": "Hyperbola",
+      "subject": "Geometry (Slytherin)",
+      "description": "A silly (but difficult) unit on the theory of rectangular circumhyperbolas and the Poncelet point. For fun, if you really like hardcore projective geometry.",
+      "slug": "hyperbola",
+      "artist_name": "anonymous",
+      "num_submissions": 35,
+      "num_students": 235,
+      "num_clubs": 1346,
+      "num_hearts": 683.1,
+      "versions": [
+        "ZGX"
+      ]
+    },
+    {
+      "name": "Induction & Recursion I",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "Problems which really use induction and recursion in a substantial way, i.e. the main idea of the problem really is about how (or whether) to induct. Features some AIME-style recursion calculations.",
+      "slug": "induct1",
+      "artist_name": "Jiya Dani",
+      "num_submissions": 229,
+      "num_students": 1086,
+      "num_clubs": 10551,
+      "num_hearts": 4330.733232999999,
+      "versions": [
+        "BCX"
+      ]
+    },
+    {
+      "name": "Induction & Recursion II",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "This is a duplicate of Induction I, but more difficult and with different artwork.",
+      "slug": "induct2",
+      "artist_name": "Soumitro Shovon Dwip",
+      "num_submissions": 92,
+      "num_students": 646,
+      "num_clubs": 5759,
+      "num_hearts": 2339.0,
+      "versions": [
+        "DCY"
+      ]
+    },
+    {
+      "name": "Ineq Basic",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "The basics of inequalities: AM-GM, homogenization, Cauchy/Holder.",
+      "slug": "ineqbasic",
+      "artist_name": "Alan Cheng",
+      "num_submissions": 350,
+      "num_students": 1140,
+      "num_clubs": 22850,
+      "num_hearts": 7613.016669999999,
+      "versions": [
+        "BAW"
+      ]
+    },
+    {
+      "name": "Ineq Func",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "Techniques for inequalities of the form $f(x_1) + ... + f(x_n)$. Jensen, Karamata, tangent line trick. The $n-1$ equal value principle is deferred to Ineq Standard.",
+      "slug": "ineqfunc",
+      "artist_name": "Heyang Ni",
+      "num_submissions": 157,
+      "num_students": 831,
+      "num_clubs": 5644,
+      "num_hearts": 1933.56007,
+      "versions": [
+        "BAW"
+      ]
+    },
+    {
+      "name": "Ineq Standard",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "Inequalities which can be approached using all the standard methods. This is sort of a combination of Ineq Basic and Ineq Func.",
+      "slug": "ineqstandard",
+      "artist_name": "Shrrivathsa Mahesh",
+      "num_submissions": 189,
+      "num_students": 990,
+      "num_clubs": 12803,
+      "num_hearts": 4679.9692595,
+      "versions": [
+        "DAX"
+      ]
+    },
+    {
+      "name": "Insect Land (Lv 61)",
+      "subject": "Secret",
+      "description": "Secret unit that appears at level 61.",
+      "slug": "selmburg",
+      "artist_name": "DALL\u00b7E",
+      "num_submissions": 112,
+      "num_students": 353,
+      "num_clubs": 4697,
+      "num_hearts": 807.5190069935898,
+      "versions": [
+        "BKV",
+        "DKV",
+        "ZKV"
+      ]
+    },
+    {
+      "name": "Int Polynom",
+      "subject": "Number Theory (Ravenclaw)",
+      "description": "A theoretical unit on the algebra and number theory of polynomials over $\\mathbb Z$, bordering into some algebraic number theory and Galois theory. Algebraic integers and irreducible polynomials feature prominently in this unit. The number theory in this unit goes deeper than that used in the Irreducible unit.",
+      "slug": "intpoly",
+      "artist_name": "Aaryan Vaishya",
+      "num_submissions": 86,
+      "num_students": 901,
+      "num_clubs": 5214,
+      "num_hearts": 2320.7000000000003,
+      "versions": [
+        "DNY",
+        "ZNY"
+      ]
+    },
+    {
+      "name": "Integration Bee",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "Was your calculus class too easy for you? Do you want to stare at random artificial expressions having no idea how to find their antiderivative? If so, this unit is for you! Enjoy a student-contributed guest unit featuring problems from integration bees from MIT and other places.",
+      "slug": "intbee",
+      "artist_name": "Evan Chen",
+      "num_submissions": 65,
+      "num_students": 269,
+      "num_clubs": 3774,
+      "num_hearts": 1185.14281828,
+      "versions": [
+        "DAX"
+      ]
+    },
+    {
+      "name": "Intermediate Mix",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "Mixed combinatorics practice at the IMO 2/5 level.",
+      "slug": "intermix",
+      "artist_name": "DALL\u00b7E",
+      "num_submissions": 54,
+      "num_students": 281,
+      "num_clubs": 2249,
+      "num_hearts": 1126.5,
+      "versions": [
+        "DCW",
+        "DCX"
+      ]
+    },
+    {
+      "name": "Inversion and Spiral",
+      "subject": "Geometry (Slytherin)",
+      "description": "A harder follow-up unit to chapters 8 and 10 of EGMO.",
+      "slug": "kansas",
+      "artist_name": "Emily Yu",
+      "num_submissions": 65,
+      "num_students": 488,
+      "num_clubs": 4087,
+      "num_hearts": 1746.3867,
+      "versions": [
+        "ZGY"
+      ]
+    },
+    {
+      "name": "Invert",
+      "subject": "Geometry (Slytherin)",
+      "description": "Inversion in olympiad geometry, following up chapter 8 of EGMO.",
+      "slug": "invert",
+      "artist_name": "Heyang Ni",
+      "num_submissions": 144,
+      "num_students": 857,
+      "num_clubs": 9301,
+      "num_hearts": 3920.48667,
+      "versions": [
+        "DGW"
+      ]
+    },
+    {
+      "name": "IOI",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "Algorithmic problems which involve showing that it is possible to achieve some task (rather than finding invariants or proving impossibility). Features selected problems from the IOI, so some CS background is helpful but not necessary.",
+      "slug": "ioi",
+      "artist_name": "Soumitro Shovon Dwip",
+      "num_submissions": 63,
+      "num_students": 538,
+      "num_clubs": 4047,
+      "num_hearts": 1798.0,
+      "versions": [
+        "DCY",
+        "ZCY"
+      ]
+    },
+    {
+      "name": "Irreducible",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "Problems about showing polynomials are irreducible; these are rare in olympiads, but give you a lot of good intuition about how $\\mathbb{Z}[x]$ polynomials behave. Techniques that appear include working in $\\mathbb{F}_p[x]$, looking at the magnitude of complex roots a la Rouche, and other ad-hoc tricks. More olympiad algebra than the integer polynomials unit.",
+      "slug": "irred",
+      "artist_name": "Azat Madimarov",
+      "num_submissions": 62,
+      "num_students": 553,
+      "num_clubs": 2880,
+      "num_hearts": 1052.0,
+      "versions": [
+        "DAX"
+      ]
+    },
+    {
+      "name": "Linear Algebra",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "Problems using linear algebra (rather than problems about linear algebra). Most of the problems here are combinatorial in nature as a result, and there is a mix of linear algebra over $\\mathbb R$ and linear algebra over $\\mathbb{F}_2$.",
+      "slug": "linalg",
+      "artist_name": "Lum Jerliu",
+      "num_submissions": 74,
+      "num_students": 639,
+      "num_clubs": 3617,
+      "num_hearts": 1706.0,
+      "versions": [
+        "DCY",
+        "ZCY"
+      ]
+    },
+    {
+      "name": "Linear Power",
+      "subject": "Geometry (Slytherin)",
+      "description": "This unit revolves around two particular techniques: linearity of a difference of power of a point and the forgotten coaxiality lemma. This is used to compare powers of a point with respect to two different circles, particularly showing they are equal.",
+      "slug": "linpop",
+      "artist_name": "Gunjan Aggarwal",
+      "num_submissions": 18,
+      "num_students": 186,
+      "num_clubs": 1124,
+      "num_hearts": 412.25,
+      "versions": [
+        "ZGY"
+      ]
+    },
+    {
+      "name": "Local",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "In contrast to the global unit, this unit is about problems starting from somewhere and perturbing it by a little bit. For example, in a greedy algorithm, if I want a set $S$ of size at least 100 with a certain property, I can imagine starting with $S$ empty and then grabbing things to add to $S$ while trying to avoid bad-ness (whatever that means for the current problem). It's then enough to prove I don't get stuck at any point. Most of the problems in this unit will have a similar algorithmic feeling.",
+      "slug": "local",
+      "artist_name": "Emily Yu",
+      "num_submissions": 326,
+      "num_students": 1325,
+      "num_clubs": 15075,
+      "num_hearts": 7245.2,
+      "versions": [
+        "DCW",
+        "DCX"
+      ]
+    },
+    {
+      "name": "Misc NT",
+      "subject": "Number Theory (Ravenclaw)",
+      "description": "Miscellaneous number theory problems that didn't fit well in other units.",
+      "slug": "miscnt",
+      "artist_name": "Emily Yu",
+      "num_submissions": 87,
+      "num_students": 460,
+      "num_clubs": 4796,
+      "num_hearts": 1773.138,
+      "versions": [
+        "DNX"
+      ]
+    },
+    {
+      "name": "Mod Arith 1: Proofs",
+      "subject": "Number Theory (Ravenclaw)",
+      "description": "One of two beginner units in number theory focusing on modular arithmetic.\r\nEmphasis on basic proof-based problems, starting with simple Diophantine equations that can be solved by taking moduluses and factoring.\r\nThe two Modular Arithmetic units can be done in either order.",
+      "slug": "proofmod",
+      "artist_name": "Claude Sonnet 4",
+      "num_submissions": 79,
+      "num_students": 252,
+      "num_clubs": 5192,
+      "num_hearts": 1873.6,
+      "versions": [
+        "BNX"
+      ]
+    },
+    {
+      "name": "Mod Arith 2: Computation",
+      "subject": "Number Theory (Ravenclaw)",
+      "description": "One of two beginner units in number theory focusing on modular arithmetic.\r\nEmphasis on concrete calculation in problems which ultimately ask for a numerical answer.\r\nThe two Modular Arithmetic units can be done in either order.",
+      "slug": "aimemod",
+      "artist_name": "Sambhu Ganesan",
+      "num_submissions": 422,
+      "num_students": 1216,
+      "num_clubs": 25778,
+      "num_hearts": 8687.4009,
+      "versions": [
+        "BNW"
+      ]
+    },
+    {
+      "name": "Monster FE",
+      "subject": "Functional Equations",
+      "description": "The functional equations that don't bore me, because the solution isn't just $f(x) = x$ anymore! This follows up the Monsters handout on my website.",
+      "slug": "monster",
+      "artist_name": "Owen Zhang",
+      "num_submissions": 99,
+      "num_students": 714,
+      "num_clubs": 5294,
+      "num_hearts": 2612.0,
+      "versions": [
+        "DFW",
+        "ZFW"
+      ]
+    },
+    {
+      "name": "Moving Points",
+      "subject": "Geometry (Slytherin)",
+      "description": "A technique involving animating points and considering resulting projective maps. This lecture was contributed by Anant Mudgal.",
+      "slug": "movingpts",
+      "artist_name": "Alan Cheng",
+      "num_submissions": 40,
+      "num_students": 451,
+      "num_clubs": 2025,
+      "num_hearts": 1253.434,
+      "versions": [
+        "ZGW"
+      ]
+    },
+    {
+      "name": "Multivariable Calculus",
+      "subject": "Higher Math",
+      "description": "Multivariable calculus as taught at MIT in fall 2024, based on the LAMV textbook written by Evan. Covers multivariable differentiation, multivariable integration, and special cases of the general Stokes theorem for dimension up to 3. Requires only a high school background up to single-variable calculus. Half the problems are exercises from my book and the other half are past Putnam problems.",
+      "slug": "multivar",
+      "artist_name": "Catherine Xu",
+      "num_submissions": 6,
+      "num_students": 116,
+      "num_clubs": 218,
+      "num_hearts": 92.0,
+      "versions": [
+        "DHW"
+      ]
+    },
+    {
+      "name": "Mystery",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "This one's a secret. It's a bit weird, but for this unit to work I have to start by not telling you what it's about.",
+      "slug": "mystery",
+      "artist_name": "Alon Ragoler",
+      "num_submissions": 21,
+      "num_students": 365,
+      "num_clubs": 33,
+      "num_hearts": 10.759999999999998,
+      "versions": [
+        "BCW"
+      ]
+    },
+    {
+      "name": "N7 Summit",
+      "subject": "Number Theory (Ravenclaw)",
+      "description": "A challenging number theory unit to conclude the year, with difficult problems reviewing everything that has appeared earlier.",
+      "slug": "n7summit",
+      "artist_name": "``Milk''",
+      "num_submissions": 17,
+      "num_students": 291,
+      "num_clubs": 1298,
+      "num_hearts": 722.0,
+      "versions": [
+        "ZNY"
+      ]
+    },
+    {
+      "name": "NT Construct",
+      "subject": "Number Theory (Ravenclaw)",
+      "description": "Construction problems in number theory. In some ways it's like the free unit because you get to make some decisions, but in other ways Z has a lot of structure that you might know things about, and you'll have to balance these two intuitions.",
+      "slug": "ntconstruct",
+      "artist_name": "Heyang Ni",
+      "num_submissions": 141,
+      "num_students": 983,
+      "num_clubs": 7756,
+      "num_hearts": 3431.8031,
+      "versions": [
+        "DNY",
+        "ZNY"
+      ]
+    },
+    {
+      "name": "Orders",
+      "subject": "Number Theory (Ravenclaw)",
+      "description": "Orders modulo a prime, at the border of AIME and USA(J)MO but leaning a lot more towards the latter. Intended as an introduction into olympiad number theory.",
+      "slug": "orders",
+      "artist_name": "Rohan Garg",
+      "num_submissions": 446,
+      "num_students": 1515,
+      "num_clubs": 28603,
+      "num_hearts": 9304.483333,
+      "versions": [
+        "BNW"
+      ]
+    },
+    {
+      "name": "Prime Exponents",
+      "subject": "Number Theory (Ravenclaw)",
+      "description": "The use of $\\nu_p$ in handling olympiad problems.",
+      "slug": "vp",
+      "artist_name": "Heyang Ni",
+      "num_submissions": 436,
+      "num_students": 1593,
+      "num_clubs": 21927,
+      "num_hearts": 9726.684333,
+      "versions": [
+        "BNW",
+        "DNW"
+      ]
+    },
+    {
+      "name": "Process",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "This is about staring at a moving process (e.g. windmill) and trying to understand what is going on. (The most common thing people say here is monovariants or invariants, but that's only one example of a way you can understand a process.) In a lot of ways it's like the Rigid unit, except your data is way less concrete, and in some cases unobtainable, so you'll be applying the same intuition in a more hostile environment.",
+      "slug": "process",
+      "artist_name": "Owen Zhang",
+      "num_submissions": 115,
+      "num_students": 896,
+      "num_clubs": 7633,
+      "num_hearts": 3813.25,
+      "versions": [
+        "DCY",
+        "ZCY"
+      ]
+    },
+    {
+      "name": "Putnam Analysis",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "An extension of the Sums unit --- rather than just swapping infinite sums, we now get to enjoy swapping infinite integrals as well.",
+      "slug": "putnamana",
+      "artist_name": "Owen Zhang",
+      "num_submissions": 18,
+      "num_students": 179,
+      "num_clubs": 841,
+      "num_hearts": 391.6,
+      "versions": [
+        "ZAW"
+      ]
+    },
+    {
+      "name": "Real Polynom",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "General polynomials unit, maintaining some distance from integer polynomials (though still overlapping slightly). Includes Vieta/Newton, multivariable polynomials, Lagrange interpolation, size arguments, differentiation.",
+      "slug": "realpoly",
+      "artist_name": "Owen Zhang",
+      "num_submissions": 138,
+      "num_students": 842,
+      "num_clubs": 7822,
+      "num_hearts": 3668.52,
+      "versions": [
+        "DAW",
+        "ZAW"
+      ]
+    },
+    {
+      "name": "Real-to-Real Func Eqn",
+      "subject": "Functional Equations",
+      "description": "A really standard cookie-cutter unit with functional equations over real numbers or positive real numbers. Generally more dry than the other functional equational units, so only recommended if you really want additional FE practice or really enjoy FE's.",
+      "slug": "rrfn",
+      "artist_name": "Paul Dao",
+      "num_submissions": 7,
+      "num_students": 33,
+      "num_clubs": 347,
+      "num_hearts": 155.0,
+      "versions": [
+        "DFY"
+      ]
+    },
+    {
+      "name": "Rigid",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "This is one of my favorite units. It's about problems which involve taking a fixed structure, and trying to figure out as much as you can about it --- the task the problem asks you to actually prove becomes unimportant, almost like an answer extraction at the end. Rigid problems often have so few degrees of freedom that a lot of what you'll be doing is writing down a lot of concrete examples, and then trying to figure out what they have in common. You will feel like you are discovering mathematics, rather than inventing it (in contrast to the Free unit).",
+      "slug": "rigid",
+      "artist_name": "Arul Kolla",
+      "num_submissions": 342,
+      "num_students": 1880,
+      "num_clubs": 17708,
+      "num_hearts": 8583.23333,
+      "versions": [
+        "BCX",
+        "DCX",
+        "ZCX"
+      ]
+    },
+    {
+      "name": "Russian Combo",
+      "subject": "Combinatorics (Gryffindor)",
+      "description": "A fun unit involving combinatorics problems from Russia.",
+      "slug": "russian",
+      "artist_name": "Cecilia Sun",
+      "num_submissions": 136,
+      "num_students": 780,
+      "num_clubs": 7350,
+      "num_hearts": 3201.5,
+      "versions": [
+        "BCX",
+        "DCX"
+      ]
+    },
+    {
+      "name": "Size in NT",
+      "subject": "Number Theory (Ravenclaw)",
+      "description": "Using size as a way to handle number theory conditions, for example taking sufficiently large primes. On the border between olympiad algebra and olympiad number theory.",
+      "slug": "sizent",
+      "artist_name": "Anurag Singh",
+      "num_submissions": 192,
+      "num_students": 933,
+      "num_clubs": 9701,
+      "num_hearts": 4103.345521212121,
+      "versions": [
+        "DNW",
+        "DNX"
+      ]
+    },
+    {
+      "name": "Spiral",
+      "subject": "Geometry (Slytherin)",
+      "description": "Spiral similarity and Miquel points, following up chapter 10 of EGMO.",
+      "slug": "spiral",
+      "artist_name": "Lum Jerliu",
+      "num_submissions": 113,
+      "num_students": 752,
+      "num_clubs": 6792,
+      "num_hearts": 2607.55667,
+      "versions": [
+        "DGW"
+      ]
+    },
+    {
+      "name": "Sums",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "Practice with manipulating sums, and in particular switching the order of summation (or integration). Features generating functions and Snake Oil as well. The Gen Func unit is an optional prerequisite.",
+      "slug": "sums",
+      "artist_name": "Jacopo Rizzo",
+      "num_submissions": 280,
+      "num_students": 1572,
+      "num_clubs": 12998,
+      "num_hearts": 5165.177670000001,
+      "versions": [
+        "BAX",
+        "DAX"
+      ]
+    },
+    {
+      "name": "Super Bary",
+      "subject": "Geometry (Slytherin)",
+      "description": "A more difficult version of the barycentric coordinates unit.",
+      "slug": "superbary",
+      "artist_name": "Evan Chen",
+      "num_submissions": 25,
+      "num_students": 212,
+      "num_clubs": 1139,
+      "num_hearts": 459.5,
+      "versions": [
+        "ZGX"
+      ]
+    },
+    {
+      "name": "Super Complex",
+      "subject": "Geometry (Slytherin)",
+      "description": "A more difficult version of the complex numbers unit.",
+      "slug": "supercomplex",
+      "artist_name": "Evan Chen",
+      "num_submissions": 30,
+      "num_students": 297,
+      "num_clubs": 1930,
+      "num_hearts": 818.0,
+      "versions": [
+        "ZGX"
+      ]
+    },
+    {
+      "name": "Super NT",
+      "subject": "Number Theory (Ravenclaw)",
+      "description": "Number theory practice for experts, combining problems from Exp and Heavy NT as well as some other sources.",
+      "slug": "supernumth",
+      "artist_name": "Sambhu Ganesan",
+      "num_submissions": 87,
+      "num_students": 539,
+      "num_clubs": 5783,
+      "num_hearts": 2641.5,
+      "versions": [
+        "ZNW",
+        "ZNX"
+      ]
+    },
+    {
+      "name": "Symm Polynom",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "Vieta formulas, Newton sums, and the fundamental theorem of symmetric polynomials. Involves some computational problems. In my opinion, this is probably the easiest unit.",
+      "slug": "sympoly",
+      "artist_name": "Rohan Dhillon",
+      "num_submissions": 551,
+      "num_students": 957,
+      "num_clubs": 30339,
+      "num_hearts": 8281.380000000001,
+      "versions": [
+        "BAW"
+      ]
+    },
+    {
+      "name": "Topology and Real Analysis",
+      "subject": "Higher Math",
+      "description": "A quick introduction to important notions like continuity, compactness, topological spaces, etc. One of two key gateway units for higher math.",
+      "slug": "tara",
+      "artist_name": "DALL\u00b7E",
+      "num_submissions": 7,
+      "num_students": 136,
+      "num_clubs": 280,
+      "num_hearts": 185.0,
+      "versions": [
+        "DHW"
+      ]
+    },
+    {
+      "name": "Tricky Ineq",
+      "subject": "Algebra (Hufflepuff)",
+      "description": "Harder inequality problems that don't succumb to the standard methods: it takes some more ingenuity to figure out how to approach these.",
+      "slug": "trickineq",
+      "artist_name": "Joel Gerlarch",
+      "num_submissions": 72,
+      "num_students": 608,
+      "num_clubs": 3277,
+      "num_hearts": 1298.7733333,
+      "versions": [
+        "DAX"
+      ]
+    },
+    {
+      "name": "Trig and Lengths",
+      "subject": "Geometry (Slytherin)",
+      "description": "The trig-bash unit. Several traditional-style geometry problems that are meant to be solved by chasing lengths and ratios, with the aid of trigonometric techniques.",
+      "slug": "triglen",
+      "artist_name": "DALL\u00b7E",
+      "num_submissions": 36,
+      "num_students": 364,
+      "num_clubs": 1663,
+      "num_hearts": 897.2,
+      "versions": [
+        "DGW"
+      ]
+    },
+    {
+      "name": "Weird Geo",
+      "subject": "Geometry (Slytherin)",
+      "description": "Those weird geometry problems that involve pentagons and hexagons and whatnot (see USAMO 2011/3 for example). Careful use of complex numbers and counting degrees of freedom are important for this unit.",
+      "slug": "weirdgeo",
+      "artist_name": "Emily Yu",
+      "num_submissions": 40,
+      "num_students": 480,
+      "num_clubs": 1432,
+      "num_hearts": 727.34,
+      "versions": [
+        "DGX",
+        "ZGX"
+      ]
+    },
+    {
+      "name": "Wrapped Func Eqn",
+      "subject": "Functional Equations",
+      "description": "On real-valued functional equations in which all variables are \"wrapped\" by the function in some way.",
+      "slug": "wrapfn",
+      "artist_name": "Lum Jerliu",
+      "num_submissions": 101,
+      "num_students": 640,
+      "num_clubs": 5222,
+      "num_hearts": 2849.27667,
+      "versions": [
+        "DFY"
+      ]
+    }
+  ]
+}

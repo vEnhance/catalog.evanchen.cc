@@ -7,13 +7,17 @@
             {% set sections = ["A", "C", "F", "G", "H", "K", "M", "N"] %}
             {% for letter in sections %}
                 {% set sec = get_section(path=letter ~ "/_index.md") %}
+                {% if not sec.extra.hidden %}
+                {% set hidden_count = sec.pages | filter(attribute="extra.hidden", value=true) | length %}
+                {% set visible = sec.pages | length - hidden_count %}
                 <li class="subject-card subj-{{ letter }}">
                     <a href="{{ sec.permalink }}">
                         <span class="subject-letter">{{ letter }}</span>
                         <span class="subject-name">{{ sec.title }}</span>
-                        <span class="subject-count">{{ sec.pages | length }} units</span>
+                        <span class="subject-count">{{ visible }} units</span>
                     </a>
                 </li>
+                {% endif %}
             {% endfor %}
         </ul>
     </article>
