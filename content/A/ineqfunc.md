@@ -5,18 +5,7 @@ title = "Ineq Func"
 unit_id = "33"
 subject = "A"
 classification = "Algebra"
-artist_name = "Heyang Ni"
-num_students = 831
-num_submissions = 157
-num_clubs = 5644
-num_hearts = 1934
-versions = ["BAW"]
-description = '''
-Techniques for inequalities of the form $f(x_1) + ... + f(x_n)$. Jensen,
-Karamata, tangent line trick. The $n-1$ equal value principle is deferred to
-Ineq Standard.'''
 +++
-
 ## Summary
 
 Inequalities that can be solved using standard functional techniques, Jensen, Karamata, n-1 EV, etc.

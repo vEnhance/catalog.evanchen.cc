@@ -5,19 +5,7 @@ title = "Free"
 unit_id = "18"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Arul Kolla"
-num_students = 1204
-num_submissions = 155
-num_clubs = 8751
-num_hearts = 4188
-versions = ["DCW", "ZCX"]
-description = '''
-Problems for which you have a lot of room to make decisions; a lot of the
-problems in this unit are constructions, for example. You will feel like you
-are inventing mathematics, rather than discovering it (in contrast to the Rigid
-unit).'''
 +++
-
 This lecture discusses the other extreme to the [Rigid](wiki:Rigid) one:
 the problem gives you lots of freedom.
 It’s impossible in these cases to try and understand the structure completely,

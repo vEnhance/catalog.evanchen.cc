@@ -5,16 +5,7 @@ title = "Super Bary"
 unit_id = "53"
 subject = "G"
 classification = "Geometry"
-artist_name = "Evan Chen"
-num_students = 212
-num_submissions = 25
-num_clubs = 1139
-num_hearts = 460
-versions = ["ZGX"]
-description = '''
-A more difficult version of the barycentric coordinates unit.'''
 +++
-
 This unit is essentially a harder version of the bary unit.
 It includes some challenging problems that can take an extremely long time to bash if not set up correctly.
 

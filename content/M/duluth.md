@@ -5,16 +5,7 @@ title = "Duluth"
 unit_id = "12"
 subject = "M"
 classification = "Miscellaneous"
-artist_name = "anonymous"
-num_students = 112
-num_submissions = 4
-num_clubs = 30
-num_hearts = 3
-versions = ["ZMY"]
-description = '''
-A short end-of-year unit containing open problems I solved at the Duluth REU.'''
 +++
-
 **Duluth** is a miscellaneous unit consisting of problems solved by Evan at the Duluth REU.
 Its problems are extremely difficult due to the fact that they are more akin to
 research problems (which they once were) than anything in the realm of olympiads.

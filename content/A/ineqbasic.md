@@ -5,16 +5,7 @@ title = "Ineq Basic"
 unit_id = "32"
 subject = "A"
 classification = "Algebra"
-artist_name = "Alan Cheng"
-num_students = 1140
-num_submissions = 350
-num_clubs = 22850
-num_hearts = 7613
-versions = ["BAW"]
-description = '''
-The basics of inequalities: AM-GM, homogenization, Cauchy/Holder.'''
 +++
-
 ## Summary
 
 The basics of olympiad inequalities.

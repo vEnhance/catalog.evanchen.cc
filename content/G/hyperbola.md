@@ -5,17 +5,7 @@ title = "Hyperbola"
 unit_id = "30"
 subject = "G"
 classification = "Geometry"
-artist_name = "anonymous"
-num_students = 235
-num_submissions = 35
-num_clubs = 1346
-num_hearts = 683
-versions = ["ZGX"]
-description = '''
-A silly (but difficult) unit on the theory of rectangular circumhyperbolas and
-the Poncelet point. For fun, if you really like hardcore projective geometry.'''
 +++
-
 **Hyperbola** is about hyperbolas, as you'd expect.
 In particular, rectangular circumhyperbolas are studied, as well as a little bit of isogonal conjugation.
 It is recommended you know several classical orthocenter and incenter

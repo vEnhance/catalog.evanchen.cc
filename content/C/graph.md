@@ -5,18 +5,7 @@ title = "Graph Theory"
 unit_id = "23"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Owen Zhang"
-num_students = 1559
-num_submissions = 316
-num_clubs = 16305
-num_hearts = 6306
-versions = ["BCX", "DCX", "ZCX"]
-description = '''
-Combinatorics practice with graphs. The B version of the unit is aimed at
-students with no previous exposure to graph theory; the harder versions assume
-prior experience.'''
 +++
-
 **Graph Theory** unit focuses on an olympiad based approach towards graph theory.
 Having some familiarity with some graph theory terminologies may help, but not necessary.
 

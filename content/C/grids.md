@@ -5,16 +5,7 @@ title = "Grids"
 unit_id = "47"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Cecilia Sun"
-num_students = 443
-num_submissions = 39
-num_clubs = 2908
-num_hearts = 1346
-versions = ["ZCY"]
-description = '''
-A fun but difficult unit on combinatorics problems involving rectangular grids.'''
 +++
-
 ## Unit Overview
 
 Grids, as the name suggests, is about grid-related combo problems.

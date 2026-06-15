@@ -5,17 +5,7 @@ title = "Wrapped Func Eqn"
 unit_id = "63"
 subject = "F"
 classification = "Functional Equations"
-artist_name = "Lum Jerliu"
-num_students = 640
-num_submissions = 101
-num_clubs = 5222
-num_hearts = 2849
-versions = ["DFY"]
-description = '''
-On real-valued functional equations in which all variables are "wrapped" by the
-function in some way.'''
 +++
-
 **Wrapped Functional Equations** is a unit on a specific (but very common) type of FEs.
 
 ## Content

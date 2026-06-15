@@ -5,17 +5,7 @@ title = "Harmonic"
 unit_id = "27"
 subject = "G"
 classification = "Geometry"
-artist_name = "Nurtilek Duishobaev"
-num_students = 1487
-num_submissions = 585
-num_clubs = 35447
-num_hearts = 14803
-versions = ["DGW", "DGX"]
-description = '''
-Your friendly projective geometry unit. Harmonic bundles, poles and polars, and
-so on. A follow-up to Chapter 9 of EGMO.'''
 +++
-
 **Harmonic** is a geometry unit about cross ratios and harmonic bundles.
 
 It's considered one of the more accessible D-level units, since even though it requires some reading,

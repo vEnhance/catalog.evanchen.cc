@@ -5,17 +5,7 @@ title = "Monster FE"
 unit_id = "41"
 subject = "F"
 classification = "Functional Equations"
-artist_name = "Owen Zhang"
-num_students = 714
-num_submissions = 99
-num_clubs = 5294
-num_hearts = 2612
-versions = ["DFW", "ZFW"]
-description = '''
-The functional equations that don't bore me, because the solution isn't just
-$f(x) = x$ anymore! This follows up the Monsters handout on my website.'''
 +++
-
 ## Philosophy
 
 Beware of pathological solutions... the usual methods apply.

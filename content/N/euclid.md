@@ -5,20 +5,7 @@ title = "Euclid Alg"
 unit_id = "15"
 subject = "N"
 classification = "Number Theory"
-artist_name = "Alex Zhao"
-num_students = 994
-num_submissions = 214
-num_clubs = 12120
-num_hearts = 5895
-versions = ["DNY"]
-description = '''
-A unit about the idea that if $d$ divides $a$ and $b$, then $d$ divides any
-linear combination of $a$ and $b$. This intuition underlies Bezout's lemma, the
-Euclidean algorithm, and the division algorithm, as well as a technique which I
-privately call remainder bounding. One very good example of a problem of this
-feeling is SL 2016 N4 (sort of the crown example of remainder bounding).'''
 +++
-
 **EuclidAlg** is one of the units that revolves around a particular instinct and has a certain philosophy.
 Eulidean algorithm, remainder bounding and adjacent ideas are the topic of this unit.
 

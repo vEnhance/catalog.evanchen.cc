@@ -5,19 +5,7 @@ title = "Dummy Unit"
 unit_id = "70"
 subject = "M"
 classification = "Miscellaneous"
-artist_name = "Evan Chen"
-num_students = 735
-num_submissions = 637
-num_clubs = 437
-num_hearts = 309
-versions = ["BMW"]
-description = '''
-Not an actual unit; used internally as a canonical file for testing. If you
-unlock this unit, you will get a blank file. NOTHING TO SEE HERE MOVE ALONG.
-More seriously you can use this to test the submission interface too if you are
-new to OTIS.'''
 +++
-
 The **Dummy Unit** is a blank unit that occupies position 0 in the OTIS curriculum.
 It has no content and no problems but does have a survey,
 meaning that it's possible to farm 1♣ from it by simply commenting about the uselessness of the unit.

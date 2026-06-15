@@ -5,18 +5,7 @@ title = "Global"
 unit_id = "21"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Anthony Zou"
-num_students = 1912
-num_submissions = 643
-num_clubs = 33523
-num_hearts = 14185
-versions = ["BCW", "DCW", "DCX"]
-description = '''
-Linearity of expectation, switching the order of summation, what's often called
-pigeonhole principle, counting in two ways, ... turns out they're actually all
-more or less the same idea.'''
 +++
-
 ## Philosophy
 
 This unit is really about taking a holistic view of a problem, contrasting with [Local](wiki:local).

@@ -5,17 +5,7 @@ title = "Anti Problems"
 unit_id = "5"
 subject = "M"
 classification = "Miscellaneous"
-artist_name = "Aaryan Vaishya"
-num_students = 550
-num_submissions = 103
-num_clubs = 3265
-num_hearts = 1650
-versions = ["DMW", "DMX", "DMY"]
-description = '''
-A unit consisting entirely of troll "anti-problems" which are suitable for
-giving to your enemies.'''
 +++
-
 A little bird told you this unit was hilarious and it is hilarious.#####
 
 ## Philosophy

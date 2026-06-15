@@ -5,19 +5,7 @@ title = "Classical Geo"
 unit_id = "3"
 subject = "G"
 classification = "Geometry"
-artist_name = "Evan Chen"
-num_students = 1141
-num_submissions = 183
-num_clubs = 11968
-num_hearts = 5423
-versions = ["DGX", "ZGX"]
-description = '''
-Formerly part of "American Geo". This is somewhere between Config Geo and Elem
-Geo. A lot of these problems involve figuring out what certain points are,
-adding in new points that were not that already, and altogether slowly piecing
-together a master diagram that reveals the depth of a certain picture.'''
 +++
-
 ## Philosophy
 
 American Geo splits up into two parts:

@@ -5,19 +5,7 @@ title = "Arrows"
 unit_id = "6"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Alon Ragoler"
-num_students = 836
-num_submissions = 114
-num_clubs = 5754
-num_hearts = 2562
-versions = ["DCW", "ZCW"]
-description = '''
-Some selected problems revolving around the idea that a function from a set to
-itself can be thought of as a directed graph with all outdegrees equal to 1. In
-particular, iterating such a function often involves looking at its cycle
-decomposition.'''
 +++
-
 **Arrows** is a very satisfying combinatorics unit.
 It is one of the combo units where not only combo problems appear.
 As you can see, among the notable problems, there is a number theory problem, an algebra problem, and an FE.

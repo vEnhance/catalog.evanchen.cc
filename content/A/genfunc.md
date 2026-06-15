@@ -5,18 +5,7 @@ title = "Gen Func"
 unit_id = "20"
 subject = "A"
 classification = "Algebra"
-artist_name = "Filbert Wu"
-num_students = 997
-num_submissions = 204
-num_clubs = 8859
-num_hearts = 3565
-versions = ["BAX"]
-description = '''
-Generating functions and their use in algebraic contexts (computing sums,
-featuring the so-called snake oil method). Of course, some combinatorial
-problems included as well.'''
 +++
-
 ## Unit Overview
 
 Gen Func is a unit about Generating Functions.

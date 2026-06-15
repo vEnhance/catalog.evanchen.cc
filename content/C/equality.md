@@ -5,17 +5,7 @@ title = "Equality"
 unit_id = "14"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Owen Zhang"
-num_students = 2262
-num_submissions = 485
-num_clubs = 25670
-num_hearts = 12242
-versions = ["BCW", "DCW", "ZCW"]
-description = '''
-An important unit about taking advantage of the equality case in combinatorial
-problems in order to solve problems. Mandatory for newcomer students.'''
 +++
-
 **Equality** is one of the first philosophical units to appear in the OTIS curriculum.
 It has been described as "mandatory for beginners" and its completion is
 considered an important part of the OTIS experience.

@@ -5,18 +5,7 @@ title = "Sums"
 unit_id = "52"
 subject = "A"
 classification = "Algebra"
-artist_name = "Jacopo Rizzo"
-num_students = 1572
-num_submissions = 280
-num_clubs = 12998
-num_hearts = 5165
-versions = ["BAX", "DAX"]
-description = '''
-Practice with manipulating sums, and in particular switching the order of
-summation (or integration). Features generating functions and Snake Oil as
-well. The Gen Func unit is an optional prerequisite.'''
 +++
-
 ## Quick List
 
 ## ROUF = Roots of unity filter

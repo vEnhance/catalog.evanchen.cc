@@ -5,17 +5,7 @@ title = "Putnam Analysis"
 unit_id = "59"
 subject = "A"
 classification = "Algebra"
-artist_name = "Owen Zhang"
-num_students = 179
-num_submissions = 18
-num_clubs = 841
-num_hearts = 392
-versions = ["ZAW"]
-description = '''
-An extension of the Sums unit --- rather than just swapping infinite sums, we
-now get to enjoy swapping infinite integrals as well.'''
 +++
-
 Contents and Brief Overview
 ---------------------------
 

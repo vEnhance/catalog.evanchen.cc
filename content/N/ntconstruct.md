@@ -5,19 +5,7 @@ title = "NT Construct"
 unit_id = "43"
 subject = "N"
 classification = "Number Theory"
-artist_name = "Heyang Ni"
-num_students = 983
-num_submissions = 141
-num_clubs = 7756
-num_hearts = 3432
-versions = ["DNY", "ZNY"]
-description = '''
-Construction problems in number theory. In some ways it's like the free unit
-because you get to make some decisions, but in other ways Z has a lot of
-structure that you might know things about, and you'll have to balance these
-two intuitions.'''
 +++
-
 ## Philosophy
 
 This unit is very similar to the

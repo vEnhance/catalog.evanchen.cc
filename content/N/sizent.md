@@ -5,18 +5,7 @@ title = "Size in NT"
 unit_id = "50"
 subject = "N"
 classification = "Number Theory"
-artist_name = "Anurag Singh"
-num_students = 933
-num_submissions = 192
-num_clubs = 9701
-num_hearts = 4103
-versions = ["DNW", "DNX"]
-description = '''
-Using size as a way to handle number theory conditions, for example taking
-sufficiently large primes. On the border between olympiad algebra and olympiad
-number theory.'''
 +++
-
 ## Content
 
 **Size in NT** is a unit on a very general type of problems that are very frequently seen in olympiads.

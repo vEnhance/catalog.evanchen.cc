@@ -5,20 +5,7 @@ title = "Int Polynom"
 unit_id = "35"
 subject = "N"
 classification = "Number Theory"
-artist_name = "Aaryan Vaishya"
-num_students = 901
-num_submissions = 86
-num_clubs = 5214
-num_hearts = 2321
-versions = ["DNY", "ZNY"]
-description = '''
-A theoretical unit on the algebra and number theory of polynomials over
-$\mathbb Z$, bordering into some algebraic number theory and Galois theory.
-Algebraic integers and irreducible polynomials feature prominently in this
-unit. The number theory in this unit goes deeper than that used in the
-Irreducible unit.'''
 +++
-
 By the name, one's first guess about this unit is not far from the truth.
 Yes, the unit deals with integer polynomials, but in reality there is much more to it.
 Topics such as rings, fields, UFDs, are introduced, along with other concepts in algebraic number theory.

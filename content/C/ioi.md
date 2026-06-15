@@ -5,19 +5,7 @@ title = "IOI"
 unit_id = "68"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Soumitro Shovon Dwip"
-num_students = 538
-num_submissions = 63
-num_clubs = 4047
-num_hearts = 1798
-versions = ["DCY", "ZCY"]
-description = '''
-Algorithmic problems which involve showing that it is possible to achieve some
-task (rather than finding invariants or proving impossibility). Features
-selected problems from the IOI, so some CS background is helpful but not
-necessary.'''
 +++
-
 As avid combinatorialists may note, there is a large intersection between computer science and combinatorics.
 This unit highlights that intersection by focusing on algorithm-based combinatorics problems.
 

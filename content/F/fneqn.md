@@ -5,16 +5,7 @@ title = "Func Eqn"
 unit_id = "19"
 subject = "F"
 classification = "Functional Equations"
-artist_name = "Emily Yu"
-num_students = 2300
-num_submissions = 848
-num_clubs = 46579
-num_hearts = 20924
-versions = ["BFW", "DFW", "ZFW", "DFX", "ZFX"]
-description = '''
-Functional equations, I guess.'''
 +++
-
 ## Unit Summary
 
 This unit is all about exploring a staple of olympiad algebra, being functional equations.

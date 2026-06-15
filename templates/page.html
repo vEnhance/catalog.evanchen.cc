@@ -3,6 +3,8 @@
     {{ page.title }} · OTIS Unit Wiki
 {% endblock title %}
 {% block content %}
+    {% set dump = load_data(path="dump.json") %}
+    {% set u = dump.unit_groups | filter(attribute="slug", value=page.slug) | first %}
     <article class="unit subj-{{ page.extra.subject }}">
         <div class="unit-head">
             <h1 class="unit-title">{{ page.title }}</h1>
@@ -11,9 +13,9 @@
                    rel="nofollow">✎ Edit this page on GitHub</a>
             </p>
         </div>
-        {% if page.extra.description %}
+        {% if u.description %}
             <blockquote class="unit-quote">
-                {{ page.extra.description }}
+                {{ u.description }}
             </blockquote>
         {% endif %}
         <aside class="infobox">
@@ -33,7 +35,7 @@
                 </tr>
                 <tr>
                     <th>Art credits</th>
-                    <td>{{ page.extra.artist_name }}</td>
+                    <td>{{ u.artist_name }}</td>
                 </tr>
                 <tr>
                     <th>Classification</th>
@@ -45,34 +47,34 @@
                         <code>{{ page.slug }}</code>
                     </td>
                 </tr>
-                {% if page.extra.versions %}
+                {% if u.versions %}
                     <tr>
                         <th>Versions</th>
-                        <td>{{ page.extra.versions | join(sep=", ") }}</td>
+                        <td>{{ u.versions | join(sep=", ") }}</td>
                     </tr>
                 {% endif %}
-                {% if page.extra.num_students is defined %}
+                {% if u.num_students is defined %}
                     <tr>
                         <th>Participants</th>
-                        <td>{{ page.extra.num_students }}</td>
+                        <td>{{ u.num_students }}</td>
                     </tr>
                 {% endif %}
-                {% if page.extra.num_submissions is defined %}
+                {% if u.num_submissions is defined %}
                     <tr>
                         <th>Submissions</th>
-                        <td>{{ page.extra.num_submissions }}</td>
+                        <td>{{ u.num_submissions }}</td>
                     </tr>
                 {% endif %}
-                {% if page.extra.num_clubs is defined %}
+                {% if u.num_clubs is defined %}
                     <tr>
                         <th>♣ earned</th>
-                        <td>{{ page.extra.num_clubs }}</td>
+                        <td>{{ u.num_clubs }}</td>
                     </tr>
                 {% endif %}
-                {% if page.extra.num_hearts is defined %}
+                {% if u.num_hearts is defined %}
                     <tr>
                         <th>♥ earned</th>
-                        <td>{{ page.extra.num_hearts }}</td>
+                        <td>{{ u.num_hearts | round }}</td>
                     </tr>
                 {% endif %}
             </table>

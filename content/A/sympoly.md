@@ -5,18 +5,7 @@ title = "Symm Polynom"
 unit_id = "56"
 subject = "A"
 classification = "Algebra"
-artist_name = "Rohan Dhillon"
-num_students = 957
-num_submissions = 551
-num_clubs = 30339
-num_hearts = 8281
-versions = ["BAW"]
-description = '''
-Vieta formulas, Newton sums, and the fundamental theorem of symmetric
-polynomials. Involves some computational problems. In my opinion, this is
-probably the easiest unit.'''
 +++
-
 ## Unit Overview
 
 A unit featuring many computational problems from college competitions along

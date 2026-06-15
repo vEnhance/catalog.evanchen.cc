@@ -5,16 +5,7 @@ title = "Prime Exponents"
 unit_id = "45"
 subject = "N"
 classification = "Number Theory"
-artist_name = "Heyang Ni"
-num_students = 1593
-num_submissions = 436
-num_clubs = 21927
-num_hearts = 9727
-versions = ["BNW", "DNW"]
-description = '''
-The use of $\nu_p$ in handling olympiad problems.'''
 +++
-
 In **Prime Exponents**, the main focus is $\nu_p$.
 Lifting the Exponent and Legendre are also discussed. These tools are a big part of simplifying the problem.
 Additionally, one will learn the properties and how to apply $\nu_p$.

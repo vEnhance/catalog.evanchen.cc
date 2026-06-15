@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% block title %}Gallery · OTIS Unit Wiki{% endblock title %}
 {% block content %}
+    {% set dump = load_data(path="dump.json") %}
     <article class="gallery-page">
         <h1>{{ page.title }}</h1>
         {% set sections = ["A", "C", "F", "G", "H", "K", "M", "N"] %}
@@ -13,6 +14,7 @@
                 <ul class="unit-gallery">
                     {% for unit in sec.pages %}
                         {% if not unit.extra.hidden %}
+                            {% set u = dump.unit_groups | filter(attribute="slug", value=unit.slug) | first %}
                             <li>
                                 <a class="gallery-item" href="{{ unit.permalink }}">
                                     <span class="gallery-name">{{ unit.title }}</span>
@@ -23,7 +25,7 @@
                                          height="226"
                                          src="{{ config.extra.gallery_base }}/thumb-md/{{ unit.slug }}.webp"
                                          alt="{{ unit.title }} artwork">
-                                    <span class="gallery-credit">Art by {{ unit.extra.artist_name }}</span>
+                                    <span class="gallery-credit">Art by {{ u.artist_name }}</span>
                                 </a>
                             </li>
                         {% endif %}

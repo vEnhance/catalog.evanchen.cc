@@ -5,18 +5,7 @@ title = "Linear Algebra"
 unit_id = "39"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Lum Jerliu"
-num_students = 639
-num_submissions = 74
-num_clubs = 3617
-num_hearts = 1706
-versions = ["DCY", "ZCY"]
-description = '''
-Problems using linear algebra (rather than problems about linear algebra). Most
-of the problems here are combinatorial in nature as a result, and there is a
-mix of linear algebra over $\mathbb R$ and linear algebra over $\mathbb{F}_2$.'''
 +++
-
 ## Content and Brief overview
 
 This is one of the most technical units at OTIS and is a part of the "technical" class of the units at OTIS.

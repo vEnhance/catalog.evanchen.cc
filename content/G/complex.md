@@ -5,16 +5,7 @@ title = "Complex Nums"
 unit_id = "9"
 subject = "G"
 classification = "Geometry"
-artist_name = "Evan Chen"
-num_students = 1800
-num_submissions = 299
-num_clubs = 11943
-num_hearts = 5910
-versions = ["BGW", "DGW", "DGX"]
-description = '''
-Complex numbers in olympiad geometry. A follow-up to Chapter 6 of EGMO.'''
 +++
-
 **Complex Numbers** is a unit on using complex numbers in geometry.
 If you were looking for complex numbers more towards algebra,
 you are looking for [Cyclotomic](/A/cyclotomic), which is not really about cyclotomic polynomials.

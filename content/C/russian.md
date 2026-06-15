@@ -5,16 +5,7 @@ title = "Russian Combo"
 unit_id = "49"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Cecilia Sun"
-num_students = 780
-num_submissions = 136
-num_clubs = 7350
-num_hearts = 3202
-versions = ["BCX", "DCX"]
-description = '''
-A fun unit involving combinatorics problems from Russia.'''
 +++
-
 ## Unit Overview
 
 Russian Combo, as the name suggests, is filled with combinatorics problems from Russia.

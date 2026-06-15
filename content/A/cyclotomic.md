@@ -5,20 +5,7 @@ title = "Cyclotomic"
 unit_id = "65"
 subject = "A"
 classification = "Algebra"
-artist_name = "Aaryan Vaishya"
-num_students = 975
-num_submissions = 364
-num_clubs = 20560
-num_hearts = 6429
-versions = ["BAY"]
-description = '''
-Roots of unity. Using $e^{i \theta} = \cos(\theta) + i \sin(\theta)$, and
-connecting them to trigonometry, etc. Features a ton of problems from Math
-Prize for Girls. Despite the name of the unit, cyclotomic polynomials
-themselves don't appear very often; the idea of roots of unity is much more
-prevalent.'''
 +++
-
 ## Unit Overview
 
 A unit featuring trigonometry, Roots of Unity, and a bit of vectors.

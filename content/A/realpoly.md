@@ -5,18 +5,7 @@ title = "Real Polynom"
 unit_id = "72"
 subject = "A"
 classification = "Algebra"
-artist_name = "Owen Zhang"
-num_students = 842
-num_submissions = 138
-num_clubs = 7822
-num_hearts = 3669
-versions = ["DAW", "ZAW"]
-description = '''
-General polynomials unit, maintaining some distance from integer polynomials
-(though still overlapping slightly). Includes Vieta/Newton, multivariable
-polynomials, Lagrange interpolation, size arguments, differentiation.'''
 +++
-
 ## Philosophy
 
 This unit is all about dealing with arbitrary polynomials over the real numbers.

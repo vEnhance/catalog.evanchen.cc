@@ -5,18 +5,7 @@ title = "Orders"
 unit_id = "44"
 subject = "N"
 classification = "Number Theory"
-artist_name = "Rohan Garg"
-num_students = 1515
-num_submissions = 446
-num_clubs = 28603
-num_hearts = 9304
-versions = ["BNW"]
-description = '''
-Orders modulo a prime, at the border of AIME and USA(J)MO but leaning a lot
-more towards the latter. Intended as an introduction into olympiad number
-theory.'''
 +++
-
 ## Unit Overview
 
 The main idea in this unit is to take the order modulo a prime $p$,

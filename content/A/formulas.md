@@ -5,20 +5,7 @@ title = "Formulas"
 unit_id = "62"
 subject = "A"
 classification = "Algebra"
-artist_name = "Alex Zhao"
-num_students = 609
-num_submissions = 64
-num_clubs = 2613
-num_hearts = 1240
-versions = ["DAW", "ZAW"]
-description = '''
-Based on Yang Liu's class "Write Down Formulas" at MOP 2018. This unit consists
-of problems which involve manipulations of fairly involved formulas, such as
-combinatorial recursions or number theoretic power sums. Despite officially
-being algebra, there are just as many (maybe more) problems that would be
-classified as C or N.'''
 +++
-
 ## Philosophy
 
 This is a unit where you deal with larger algebraic expressions and you usually have to write things out.

@@ -5,21 +5,7 @@ title = "Config Geo"
 unit_id = "73"
 subject = "G"
 classification = "Geometry"
-artist_name = "Evan Chen"
-num_students = 918
-num_submissions = 177
-num_clubs = 11548
-num_hearts = 5235
-versions = ["DGY", "ZGY"]
-description = '''
-Formerly known as "American Geo". This is a unit on geometry problems with a
-highly traditional or synthetic flavor, for example USAMO 2016/3 and USAMO
-2017/3. These sorts of problems were popular on the USA olympiads and team
-selection tests around 2016 and it is totally not my fault. These particular
-ones tend to use common or standard configurations as a base and build on top
-of them, as opposed to starting afresh.'''
 +++
-
 **Config Geo** is a cousin of [Classic
 Geo](https://otis.evanchen.cc/wiki/units/list-of-geometry-units/classical-geo/);
 they were once combined in a unit.

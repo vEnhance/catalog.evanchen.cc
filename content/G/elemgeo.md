@@ -5,18 +5,7 @@ title = "Elem Geo"
 unit_id = "13"
 subject = "G"
 classification = "Geometry"
-artist_name = "Rishabh Mahale"
-num_students = 1823
-num_submissions = 730
-num_clubs = 45290
-num_hearts = 19495
-versions = ["BGW", "DGW", "BGY", "DGY"]
-description = '''
-A unit featuring easy to medium geometry problems which can be solved using
-only the most basic tools: angle chasing, power of a point, homothety. It can
-be thought of as a follow-up to Part I of EGMO.'''
 +++
-
 ## Unit Summary
 
 This unit is a good introduction to olympiad geometry, covering the same topics as Chapters 1-3 in EGMO,

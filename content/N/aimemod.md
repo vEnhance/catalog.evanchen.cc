@@ -5,18 +5,7 @@ title = "Mod Arith 2: Computation"
 unit_id = "2"
 subject = "N"
 classification = "Number Theory"
-artist_name = "Sambhu Ganesan"
-num_students = 1216
-num_submissions = 422
-num_clubs = 25778
-num_hearts = 8687
-versions = ["BNW"]
-description = '''
-One of two beginner units in number theory focusing on modular arithmetic.
-Emphasis on concrete calculation in problems which ultimately ask for a
-numerical answer. The two Modular Arithmetic units can be done in either order.'''
 +++
-
 Super fun unit, would highly recommend all to do :D
 
 ## Philosophy

@@ -6,17 +6,8 @@ in_search_index = false
 unit_id = "25"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Stable Diffusion"
-num_students = 425
-num_submissions = 147
-num_clubs = 5410
-num_hearts = 2210
-versions = ["BCW", "DCW"]
 hidden = true
-description = '''
-Hall's marriage lemma.'''
 +++
-
 ## Philosophy
 
 This unit is very unique! It shows the power of Hall's theorem in solving combinatorics problems,

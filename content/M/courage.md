@@ -5,19 +5,7 @@ title = "Courage"
 unit_id = "10"
 subject = "M"
 classification = "Miscellaneous"
-artist_name = "Emily Yu"
-num_students = 588
-num_submissions = 76
-num_clubs = 7358
-num_hearts = 2136
-versions = ["DMW", "ZMW"]
-description = '''
-A difficult unit consisting of problems with deceptively short statements. A
-lot of the difficulty of these problems is setting up an entire framework to
-attack a simply stated problem. These setups are often more elaborate or
-detailed than in other problems.'''
 +++
-
 This unit features problems with seemingly short statements but in reality,
 has a large setup and can be very tricky.
 The difficulty is that the statement doesn't give a lot to work with so you must

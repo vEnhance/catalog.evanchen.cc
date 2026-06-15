@@ -5,16 +5,7 @@ title = "Bary"
 unit_id = "7"
 subject = "G"
 classification = "Geometry"
-artist_name = "Evan Chen"
-num_students = 1134
-num_submissions = 169
-num_clubs = 6440
-num_hearts = 2762
-versions = ["BGW", "DGW", "DGX"]
-description = '''
-Barycentric coordinates in olympiad geometry. A follow-up to Chapter 7 of EGMO.'''
 +++
-
 ## Unit Summary
 
 Barycentric coordinates are one of the most effective bash techniques in geometry.

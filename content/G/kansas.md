@@ -5,16 +5,7 @@ title = "Inversion and Spiral"
 unit_id = "36"
 subject = "G"
 classification = "Geometry"
-artist_name = "Emily Yu"
-num_students = 488
-num_submissions = 65
-num_clubs = 4087
-num_hearts = 1746
-versions = ["ZGY"]
-description = '''
-A harder follow-up unit to chapters 8 and 10 of EGMO.'''
 +++
-
 **Inversion and Spiral** is basically what it sounds like:
 a combination of the units [Invert](/G/invert) and [Spiral](/G/spiral),
 though admittedly there is a lean towards the latter.

@@ -5,18 +5,7 @@ title = "Entry Combo"
 unit_id = "66"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Rohan Dhillon"
-num_students = 1504
-num_submissions = 632
-num_clubs = 40053
-num_hearts = 17793
-versions = ["BCX", "BCY"]
-description = '''
-A beginner combinatorics unit, meant to help get people oriented with typical
-proof styles for olympiad problems. Induction, recursion, invariants, and
-algorithms.'''
 +++
-
 ## Unit Overview
 
 This unit features a variety of problems.

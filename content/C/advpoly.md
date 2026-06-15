@@ -5,19 +5,7 @@ title = "Adv Poly Method"
 unit_id = "8"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Arul Kolla"
-num_students = 325
-num_submissions = 36
-num_clubs = 1388
-num_hearts = 734
-versions = ["ZCW"]
-description = '''
-Formerly, this was a unit on using combinatorial nullstellensatz, mostly for
-fun. It was later expanded to additionally include uses of generating functions
-and related polynomial methods on 3/6 level problems, broadening the scope
-significantly.'''
 +++
-
 This unit used to be only about combinatorial nullstellensatz;
 it was expanded in January 2024 to be broader in scope.
 

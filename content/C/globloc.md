@@ -5,16 +5,7 @@ title = "Global and Local"
 unit_id = "22"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Azat Madimarov"
-num_students = 521
-num_submissions = 119
-num_clubs = 8761
-num_hearts = 3830
-versions = ["ZCW", "ZCX"]
-description = '''
-An accelerated version of both the global and local units (both done at once).'''
 +++
-
 To global or to local, 'tis the question.
 **Global and Local** is a difficult unit that combines [Local](wiki:local) and [Global](wiki:global),
 units with two radically different ideas. It is fairly difficult, probably in the middle-to-hard part of Z.

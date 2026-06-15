@@ -5,22 +5,7 @@ title = "Local"
 unit_id = "40"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Emily Yu"
-num_students = 1325
-num_submissions = 326
-num_clubs = 15075
-num_hearts = 7245
-versions = ["DCW", "DCX"]
-description = '''
-In contrast to the global unit, this unit is about problems starting from
-somewhere and perturbing it by a little bit. For example, in a greedy
-algorithm, if I want a set $S$ of size at least 100 with a certain property, I
-can imagine starting with $S$ empty and then grabbing things to add to $S$
-while trying to avoid bad-ness (whatever that means for the current problem).
-It's then enough to prove I don't get stuck at any point. Most of the problems
-in this unit will have a similar algorithmic feeling.'''
 +++
-
 **Local** is about zooming into a small portion of a problem.
 This includes things like smoothing and making perturbations.
 Very often, local solutions are based on algorithms (which are based on heuristics).

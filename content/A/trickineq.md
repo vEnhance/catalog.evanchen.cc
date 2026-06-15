@@ -5,17 +5,7 @@ title = "Tricky Ineq"
 unit_id = "57"
 subject = "A"
 classification = "Algebra"
-artist_name = "Joel Gerlarch"
-num_students = 608
-num_submissions = 72
-num_clubs = 3277
-num_hearts = 1299
-versions = ["DAX"]
-description = '''
-Harder inequality problems that don't succumb to the standard methods: it takes
-some more ingenuity to figure out how to approach these.'''
 +++
-
 **Tricky Inequalities** is essentially a unit about inequalities that require more cleverness,
 yet still depend on techniques from [Standard Inequalities](/A/ineqstandard).
 It is quite a fun unit, though a bit on the harder side of D (due to having to think more 🙂).

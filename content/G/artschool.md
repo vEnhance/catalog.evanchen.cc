@@ -5,19 +5,7 @@ title = "Art School"
 unit_id = "71"
 subject = "G"
 classification = "Geometry"
-artist_name = "Evan Chen"
-num_students = 1008
-num_submissions = 235
-num_clubs = 13522
-num_hearts = 6483
-versions = ["DGX", "ZGY"]
-description = '''
-This is a unit about building "diagram intuition": being able to take a
-geometry diagram (which may be good or bad) and trying to get a sense of which
-claims should or shouldn't be true. This is definitely one of the longer
-geometry units.'''
 +++
-
 This is a unit about building "diagram intuition":
 being able to take a geometry diagram (which may be good or bad) and trying to
 get a sense of which claims should or shouldn't be true.

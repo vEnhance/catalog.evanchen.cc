@@ -5,19 +5,7 @@ title = "Homography"
 unit_id = "29"
 subject = "G"
 classification = "Geometry"
-artist_name = "Nurtilek Duishobaev"
-num_students = 716
-num_submissions = 180
-num_clubs = 10051
-num_hearts = 4578
-versions = ["DGY", "ZGY"]
-description = '''
-A less friendly and more abstract projective geometry unit, with an emphasis on
-projective transformations. Most of the theorems will be stated with respect to
-an arbitrary conic rather than a circle. Expect lots of Pascal. Includes
-Desargues involution theorem (DIT) and its dual (DDIT).'''
 +++
-
 Perhaps more aptly named, _"Fancier/Advanced projective geometry"_,
 the unit **Homography** talks in more detail about some of the powerful machineries from Projective geometry.
 It discusses in depth how one motivates certain re-phrasings,

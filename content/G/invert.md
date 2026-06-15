@@ -5,16 +5,7 @@ title = "Invert"
 unit_id = "37"
 subject = "G"
 classification = "Geometry"
-artist_name = "Heyang Ni"
-num_students = 857
-num_submissions = 144
-num_clubs = 9301
-num_hearts = 3920
-versions = ["DGW"]
-description = '''
-Inversion in olympiad geometry, following up chapter 8 of EGMO.'''
 +++
-
 Although it looks scary because it is placed so far down on the unit list,
 **Invert** is one of the most straightforward units to grasp theory-wise.
 With its short and sweet two-syllable title,

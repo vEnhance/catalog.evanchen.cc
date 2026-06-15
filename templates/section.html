@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% block title %}{{ section.title }} · OTIS Unit Wiki{% endblock title %}
 {% block content %}
+    {% set dump = load_data(path="dump.json") %}
     <article class="section subj-{{ section.extra.subject }}">
         <h1>{{ section.title }}</h1>
         {% set hidden_count = section.pages | filter(attribute="extra.hidden", value=true) | length %}
@@ -9,6 +10,7 @@
         <ul class="unit-list">
             {% for page in section.pages %}
                 {% if not page.extra.hidden %}
+                    {% set u = dump.unit_groups | filter(attribute="slug", value=page.slug) | first %}
                     <li class="unit-entry">
                         <a class="unit-entry-thumb" href="{{ page.permalink }}">
                             <img loading="lazy"
@@ -20,10 +22,10 @@
                         <div class="unit-entry-body">
                             <div class="unit-entry-name"><a href="{{ page.permalink }}">{{ page.title }}</a></div>
                             <p class="unit-entry-meta">
-                                Art by {{ page.extra.artist_name }} · <code>{{ page.slug }}</code>
+                                Art by {{ u.artist_name }} · <code>{{ page.slug }}</code>
                             </p>
-                            {% if page.extra.description %}
-                                <p class="unit-entry-desc">{{ page.extra.description }}</p>
+                            {% if u.description %}
+                                <p class="unit-entry-desc">{{ u.description }}</p>
                             {% endif %}
                         </div>
                     </li>

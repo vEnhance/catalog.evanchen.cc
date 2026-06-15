@@ -5,18 +5,7 @@ title = "Hybrid Geo"
 unit_id = "67"
 subject = "G"
 classification = "Geometry"
-artist_name = "Joel Gerlach"
-num_students = 444
-num_submissions = 54
-num_clubs = 2685
-num_hearts = 1255
-versions = ["DGX", "ZGX"]
-description = '''
-Grab-bag of geometry problems that feature some algebra, combinatorics, or
-number theory. As examples, this includes geometric inequalities, combinatorial
-geometry, and problems involving integer distances or lattice points.'''
 +++
-
 **Hybrid geo** is a unit about problems that feel different from usual geometry.
 Such a problem can be unusual in its statement (for example it might ask to
 prove some inequality or a combinatorial result),

@@ -5,17 +5,7 @@ title = "Alg Manip"
 unit_id = "69"
 subject = "A"
 classification = "Algebra"
-artist_name = "Aaryan Vaishya"
-num_students = 1452
-num_submissions = 435
-num_clubs = 24213
-num_hearts = 9057
-versions = ["BAY", "DAY"]
-description = '''
-Problems that purely involve algebraic manipulations without some other
-context, e.g. solving rather arbitrary equations or systems of equations.'''
 +++
-
 **Algebraic Manipulation** is a general mix of algebra problems that do not
 involve evoking any specialized tools (although AM-GM can be useful,
 but don't expect say Jensen's or Schur's).

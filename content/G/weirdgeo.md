@@ -5,18 +5,7 @@ title = "Weird Geo"
 unit_id = "58"
 subject = "G"
 classification = "Geometry"
-artist_name = "Emily Yu"
-num_students = 480
-num_submissions = 40
-num_clubs = 1432
-num_hearts = 727
-versions = ["DGX", "ZGX"]
-description = '''
-Those weird geometry problems that involve pentagons and hexagons and whatnot
-(see USAMO 2011/3 for example). Careful use of complex numbers and counting
-degrees of freedom are important for this unit.'''
 +++
-
 Are hexagons your favorite shape? Then this is the unit for you!
 This is a unit about those strange geometry problems that might seem impossible (weird angle conditions,
 hexagons, pentagons, etc.) This is about medium for both a D unit and a Z unit.

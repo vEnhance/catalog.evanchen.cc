@@ -5,18 +5,7 @@ title = "Expected Value"
 unit_id = "16"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Heyang Ni"
-num_students = 1177
-num_submissions = 399
-num_clubs = 15692
-num_hearts = 5406
-versions = ["BCW"]
-description = '''
-Computational problems involving probability, expected value (in particular
-linearity of expectation), and Markov chains (processes which move from state
-to state). A good precursor to the Global unit.'''
 +++
-
 ## Unit Overview
 
 Expected Value is a computational-heavy unit with very few olympiad problems.

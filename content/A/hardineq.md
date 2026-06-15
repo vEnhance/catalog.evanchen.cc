@@ -5,16 +5,7 @@ title = "Hard Ineq"
 unit_id = "26"
 subject = "A"
 classification = "Algebra"
-artist_name = "Isken Kenzhebaev"
-num_students = 281
-num_submissions = 34
-num_clubs = 1773
-num_hearts = 938
-versions = ["ZAW", "ZAY"]
-description = '''
-A unit featuring some of the hardest gems from the golden age of inequalities.'''
 +++
-
 **Hard Inequalities** is a unit featuring difficult inequalities which can be
 solved by various (advanced) techniques.
 

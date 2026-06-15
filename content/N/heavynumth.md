@@ -5,17 +5,7 @@ title = "Heavy NT"
 unit_id = "28"
 subject = "N"
 classification = "Number Theory"
-artist_name = "Rohan Garg"
-num_students = 1208
-num_submissions = 181
-num_clubs = 10106
-num_hearts = 4529
-versions = ["DNW"]
-description = '''
-Heavy machinery in number theory: Vieta jumping, quadratic reciprocity, and
-some big-name theorems you may or may not have heard of.'''
 +++
-
 This unit covers a variety of high powered theorems and concepts found in both
 computational and olympiad settings.
 

@@ -5,17 +5,7 @@ title = "Super NT"
 unit_id = "55"
 subject = "N"
 classification = "Number Theory"
-artist_name = "Sambhu Ganesan"
-num_students = 539
-num_submissions = 87
-num_clubs = 5783
-num_hearts = 2642
-versions = ["ZNW", "ZNX"]
-description = '''
-Number theory practice for experts, combining problems from Exp and Heavy NT as
-well as some other sources.'''
 +++
-
 This is a bit of a mixture of all the "fundamental" number theory topics related to Diophantine equations:
 orders modulo a prime, polynomial equations, and quadratic reciprocity.
 Its content is essentially all from [Expon

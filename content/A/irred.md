@@ -5,20 +5,7 @@ title = "Irreducible"
 unit_id = "38"
 subject = "A"
 classification = "Algebra"
-artist_name = "Azat Madimarov"
-num_students = 553
-num_submissions = 62
-num_clubs = 2880
-num_hearts = 1052
-versions = ["DAX"]
-description = '''
-Problems about showing polynomials are irreducible; these are rare in
-olympiads, but give you a lot of good intuition about how $\mathbb{Z}[x]$
-polynomials behave. Techniques that appear include working in
-$\mathbb{F}_p[x]$, looking at the magnitude of complex roots a la Rouche, and
-other ad-hoc tricks. More olympiad algebra than the integer polynomials unit.'''
 +++
-
 **Irreducible** is a rather technical unit of OTIS.
 The ideas in this unit are not limited to just math Olympiads;
 this unit can be a reasonable way to get a taste of finite fields and other associated “higher math” topics.

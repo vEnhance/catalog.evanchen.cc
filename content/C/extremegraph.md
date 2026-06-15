@@ -5,20 +5,7 @@ title = "Extremal Graph"
 unit_id = "17"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Joel Gerlach"
-num_students = 580
-num_submissions = 60
-num_clubs = 2498
-num_hearts = 878
-versions = ["DCX", "ZCX"]
-description = '''
-A difficult unit on problems from extremal graph theory; finding graphs which
-maximize X under certain constructions. The most basic example is Turan's
-theorem, which maximizes the number of edges in a graph avoiding an r-clique.
-Global/local ideas as well as understanding of equality cases feature
-prominently. Most of the examples in this unit are more challenging.'''
 +++
-
 ## Content and Brief Overview
 
 The theoretical portion of this unit consists of mainly $2$ big results.

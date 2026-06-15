@@ -5,17 +5,7 @@ title = "C8 Summit"
 unit_id = "64"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Owen Zhang"
-num_students = 304
-num_submissions = 17
-num_clubs = 1620
-num_hearts = 694
-versions = ["ZCW"]
-description = '''
-A challenging combinatorics unit to conclude the year, with difficult problems
-reviewing everything that has appeared earlier.'''
 +++
-
 Should I do this unit wasting my 9slot
 ===========
 

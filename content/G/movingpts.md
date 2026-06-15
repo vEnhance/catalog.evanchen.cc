@@ -5,17 +5,7 @@ title = "Moving Points"
 unit_id = "61"
 subject = "G"
 classification = "Geometry"
-artist_name = "Alan Cheng"
-num_students = 451
-num_submissions = 40
-num_clubs = 2025
-num_hearts = 1253
-versions = ["ZGW"]
-description = '''
-A technique involving animating points and considering resulting projective
-maps. This lecture was contributed by Anant Mudgal.'''
 +++
-
 ## Philosophy
 
 The idea of the unit (very generally) is the following:

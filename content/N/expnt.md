@@ -5,17 +5,7 @@ title = "Expon NT"
 unit_id = "11"
 subject = "N"
 classification = "Number Theory"
-artist_name = "Owen Zhang"
-num_students = 1488
-num_submissions = 296
-num_clubs = 21065
-num_hearts = 8982
-versions = ["DNW"]
-description = '''
-Expressions of the form $a^n \pm 1$, the bread and butter of olympiad number
-theory. Mods and orders, Fermat's Christmas theorem, lifting the exponent.'''
 +++
-
 In contrast to [Euclid Alg](https://otis.evanchen.cc/wiki/units/list-of-number-theory-units/euclid-alg/),
 this unit does not revolve around a particular instinct or a philosophy.
 Problems in this unit were chosen according to the content of their statements,

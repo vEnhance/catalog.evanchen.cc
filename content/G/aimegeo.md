@@ -5,17 +5,7 @@ title = "AIME Geo"
 unit_id = "1"
 subject = "G"
 classification = "Geometry"
-artist_name = "Evan Chen"
-num_students = 1087
-num_submissions = 333
-num_clubs = 17358
-num_hearts = 5784
-versions = ["BGX", "DGX"]
-description = '''
-Computational geometry problems, many taken from the tail end of the AIME. At
-the border of computational contests and olympiads.'''
 +++
-
 ## Unit Overview
 
 AIME Geo is focused on Computational Geometry containing some of the hardest

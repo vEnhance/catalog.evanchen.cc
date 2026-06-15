@@ -5,17 +5,7 @@ title = "Induction & Recursion II"
 unit_id = "81"
 subject = "C"
 classification = "Combinatorics"
-artist_name = "Soumitro Shovon Dwip"
-num_students = 646
-num_submissions = 92
-num_clubs = 5759
-num_hearts = 2339
-versions = ["DCY"]
-description = '''
-This is a duplicate of Induction I, but more difficult and with different
-artwork.'''
 +++
-
 As the name may suggest, this unit is all about induction.
 However, there is a little bit more depth to olympiad induction and recursion than just that.
 This unit explores the general concept of preserving information we already have to gain more information.

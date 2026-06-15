@@ -5,17 +5,7 @@ title = "Ineq Standard"
 unit_id = "34"
 subject = "A"
 classification = "Algebra"
-artist_name = "Shrrivathsa Mahesh"
-num_students = 990
-num_submissions = 189
-num_clubs = 12803
-num_hearts = 4680
-versions = ["DAX"]
-description = '''
-Inequalities which can be approached using all the standard methods. This is
-sort of a combination of Ineq Basic and Ineq Func.'''
 +++
-
 The **Ineq Standard** unit is basically what is as advertised:
 inequalities that you solve using standard methods. That's pretty much it, not much to talk about.
 These methods include:

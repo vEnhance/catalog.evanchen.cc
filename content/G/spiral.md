@@ -5,16 +5,7 @@ title = "Spiral"
 unit_id = "51"
 subject = "G"
 classification = "Geometry"
-artist_name = "Lum Jerliu"
-num_students = 752
-num_submissions = 113
-num_clubs = 6792
-num_hearts = 2608
-versions = ["DGW"]
-description = '''
-Spiral similarity and Miquel points, following up chapter 10 of EGMO.'''
 +++
-
 **Spiral** is a D level unit about, unsurprisingly, spiral similarities and Miquel points.
 These two concepts show up very frequently in all types of geometry problems, ranging from easy to hard,
 [Config Geo](/G/configgeo) to [Weird Geo](/G/weirdgeo).
