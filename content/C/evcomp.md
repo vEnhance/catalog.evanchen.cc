@@ -16,9 +16,14 @@ Computational problems involving probability, expected value (in particular
 linearity of expectation), and Markov chains (processes which move from state
 to state). A good precursor to the Global unit.'''
 +++
+
 ## Unit Overview
 
-Expected Value is a computational-heavy unit with very few olympiad problems. It is considered to be one of the easiest units along with [Sympoly](https://otis.evanchen.cc/wiki/units/list-of-algebra-units/symm-polynom/). It contains one of the most important combinatorics concept - Linearity of Expectation. You also learn about applying Markov Chains to expected value problems (more commonly known as States). 
+Expected Value is a computational-heavy unit with very few olympiad problems.
+It is considered to be one of the easiest units along with
+[Sympoly](https://otis.evanchen.cc/wiki/units/list-of-algebra-units/symm-polynom/).
+It contains one of the most important combinatorics concept - Linearity of Expectation.
+You also learn about applying Markov Chains to expected value problems (more commonly known as States).
 
 ## Notable Problems
 
@@ -28,6 +33,14 @@ Expected Value is a computational-heavy unit with very few olympiad problems. It
 
 ## Advice
 
-This is a very good unit to use for late AIME combinatorics, but it has very few applications to olympiad problems. The only relation is through a middle step, the [Global](https://otis.evanchen.cc/wiki/units/list-of-combinatorics-units/global/) unit, which uses some ideas from this unit and builds upon this unit. It is recommended to do this before [Global](https://otis.evanchen.cc/wiki/units/list-of-combinatorics-units/global/).
+This is a very good unit to use for late AIME combinatorics,
+but it has very few applications to olympiad problems.
+The only relation is through a middle step,
+the [Global](https://otis.evanchen.cc/wiki/units/list-of-combinatorics-units/global/) unit,
+which uses some ideas from this unit and builds upon this unit.
+It is recommended to do this before
+[Global](https://otis.evanchen.cc/wiki/units/list-of-combinatorics-units/global/).
 
-One thing about this unit is that it has no 9-club problems. 18 of the 27 minimum clubs come from required problems. This unit has 35 clubs if you have time, and a maximum of 59.
+One thing about this unit is that it has no 9-club problems.
+18 of the 27 minimum clubs come from required problems.
+This unit has 35 clubs if you have time, and a maximum of 59.

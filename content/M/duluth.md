@@ -14,19 +14,25 @@ versions = ["ZMY"]
 description = '''
 A short end-of-year unit containing open problems I solved at the Duluth REU.'''
 +++
-**Duluth** is a miscellaneous unit consisting of problems solved by Evan at the Duluth REU. Its problems are extremely difficult due to the fact that they are more akin to research problems (which they once were) than anything in the realm of olympiads. 
 
-Accordingly the use of a computer and substantial background reading is essentially required if you intend to make any progress.
+**Duluth** is a miscellaneous unit consisting of problems solved by Evan at the Duluth REU.
+Its problems are extremely difficult due to the fact that they are more akin to
+research problems (which they once were) than anything in the realm of olympiads.
+
+Accordingly the use of a computer and substantial background reading is
+essentially required if you intend to make any progress.
 
 Its problems are mainly combinatorial in nature.
 
-Evan has described this as the hardest unit, but has also stated that it's "not a real serious unit". Hence it should be chosen with this in mind.
+Evan has described this as the hardest unit, but has also stated that it's "not a real serious unit".
+Hence it should be chosen with this in mind.
 
 Due to its nature, **Duluth** is only available at the Z level.
 
 ## Background Information
 
-**Duluth** is unique in how it provides its background information. Students are directed towards two preprints:
+**Duluth** is unique in how it provides its background information.
+Students are directed towards two preprints:
 
 - [Polychromatic Colorings on the Hypercube](https://arxiv.org/abs/1603.05865)
 - [On the 1/3−2/3 Conjecture](https://arxiv.org/abs/1706.04985)

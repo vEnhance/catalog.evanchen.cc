@@ -14,10 +14,15 @@ versions = ["BAW"]
 description = '''
 The basics of inequalities: AM-GM, homogenization, Cauchy/Holder.'''
 +++
+
 ## Summary
-The basics of olympiad inequalities. It is beginner friendly and you should take it if you want to dive into the sea of inequalities. Alternatively, you can take Ineq Standard which is a combination of Ineq Basic and Ineq Func.
+
+The basics of olympiad inequalities.
+It is beginner friendly and you should take it if you want to dive into the sea of inequalities.
+Alternatively, you can take Ineq Standard which is a combination of Ineq Basic and Ineq Func.
 
 ## Notable Problems
+
 These problems have elementary solutions. You can kill them by using AM-GM, Cauchy, Muirhead, Holder, etc.
 
 * [IMO 2005/3](wiki:/notable-problems/05IMO3): A walkthrough problem.

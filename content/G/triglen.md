@@ -16,4 +16,5 @@ The trig-bash unit. Several traditional-style geometry problems that are meant
 to be solved by chasing lengths and ratios, with the aid of trigonometric
 techniques.'''
 +++
+
 (This is an automatically generated article for Trig and Lengths. Please add some content!)

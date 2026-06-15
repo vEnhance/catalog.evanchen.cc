@@ -16,4 +16,9 @@ hidden = true
 description = '''
 Secret unit that appears at level 75.'''
 +++
-Collinia Colosseum is a null unit unlocked at level 75. This unit has several secretive properties, one of the most important being that it features extremely interesting problems. Another important property is that this unit in itself is a Sigma/Chad/Alpha. Solving just one problem from this unit could change a man completely.
+
+Collinia Colosseum is a null unit unlocked at level 75.
+This unit has several secretive properties,
+one of the most important being that it features extremely interesting problems.
+Another important property is that this unit in itself is a Sigma/Chad/Alpha.
+Solving just one problem from this unit could change a man completely.

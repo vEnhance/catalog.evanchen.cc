@@ -16,4 +16,5 @@ hidden = true
 description = '''
 Secret unit that appears at level 61.'''
 +++
+
 (This is an automatically generated article for Insect Land (Lv 61). Please add some content!)

@@ -17,4 +17,5 @@ numbers or positive real numbers. Generally more dry than the other functional
 equational units, so only recommended if you really want additional FE practice
 or really enjoy FE's.'''
 +++
+
 (This is an automatically generated article for Real-to-Real Func Eqn. Please add some content!)

@@ -17,12 +17,17 @@ unlock this unit, you will get a blank file. NOTHING TO SEE HERE MOVE ALONG.
 More seriously you can use this to test the submission interface too if you are
 new to OTIS.'''
 +++
-The **Dummy Unit** is a blank unit that occupies position 0 in the OTIS curriculum. It has no content and no problems but does have a survey, meaning that it's possible to farm 1♣ from it by simply commenting about the uselessness of the unit.
 
-### Surprising facts
+The **Dummy Unit** is a blank unit that occupies position 0 in the OTIS curriculum.
+It has no content and no problems but does have a survey,
+meaning that it's possible to farm 1♣ from it by simply commenting about the uselessness of the unit.
+
+## Surprising facts
+
 Lincoln Liu actually read through the text and found a typo in the mini-survey problem.
 
-Ryan West's suggestion of adding a dummy image was used and now there's a dummy picture in this unit to emphasize what this unit is.
+Ryan West's suggestion of adding a dummy image was used and now there's a dummy
+picture in this unit to emphasize what this unit is.
 
 This is one of the very few units where the number of submissions is at least half the number of participants.
 
@@ -42,4 +47,6 @@ There might be a diamond hidden inside this unit :)
 
 ## What should I do?
 
-Just don't. Just don't get this unit. You will waste your time, even though you get 1 club for the survey. It's better to just do real math in a real unit or to find diamonds. Just don't. Really don't. Don't. _There's nothing to see here._
+Just don't. Just don't get this unit. You will waste your time, even though you get 1 club for the survey.
+It's better to just do real math in a real unit or to find diamonds. Just don't. Really don't. Don't.
+_There's nothing to see here._

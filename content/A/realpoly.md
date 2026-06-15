@@ -16,10 +16,18 @@ General polynomials unit, maintaining some distance from integer polynomials
 (though still overlapping slightly). Includes Vieta/Newton, multivariable
 polynomials, Lagrange interpolation, size arguments, differentiation.'''
 +++
-## Philosophy 
-This unit is all about dealing with arbitrary polynomials over the real numbers. The unit builds off and shares some problems with [Symmetric Poly](https://otis.evanchen.cc/wiki/units/list-of-algebra-units/symm-polynom/). Topics covered include Lagrange interpolation, factor theorem, Vieta's, finite differences, applications of differentiation.
 
-This unit is definitely on the harder side for a D unit, many of the problems are quite difficult. Some units you can do after this unit are [Irreducible](https://otis.evanchen.cc/wiki/units/list-of-algebra-units/irreducible/) and [Int Poly](https://otis.evanchen.cc/wiki/units/list-of-number-theory-units/int-polynom/).
+## Philosophy
+
+This unit is all about dealing with arbitrary polynomials over the real numbers.
+The unit builds off and shares some problems with [Symmetric
+Poly](https://otis.evanchen.cc/wiki/units/list-of-algebra-units/symm-polynom/).
+Topics covered include Lagrange interpolation, factor theorem, Vieta's, finite differences,
+applications of differentiation.
+
+This unit is definitely on the harder side for a D unit, many of the problems are quite difficult.
+Some units you can do after this unit are
+[Irreducible](https://otis.evanchen.cc/wiki/units/list-of-algebra-units/irreducible/) and [Int Poly](https://otis.evanchen.cc/wiki/units/list-of-number-theory-units/int-polynom/).
 
 The unit contains 80 clubs across 21 problems.
 

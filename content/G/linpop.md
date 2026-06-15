@@ -17,4 +17,5 @@ of power of a point and the forgotten coaxiality lemma. This is used to compare
 powers of a point with respect to two different circles, particularly showing
 they are equal.'''
 +++
+
 (This is an automatically generated article for Linear Power. Please add some content!)

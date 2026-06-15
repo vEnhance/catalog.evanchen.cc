@@ -16,10 +16,13 @@ A beginner combinatorics unit, meant to help get people oriented with typical
 proof styles for olympiad problems. Induction, recursion, invariants, and
 algorithms.'''
 +++
+
 ## Unit Overview
 
 This unit features a variety of problems.
-Problems involve induction, proving something is (im)possible, finding the smallest or largest value that works, invariants, describing algorithms, and also counting the number of ways.
+Problems involve induction, proving something is (im)possible,
+finding the smallest or largest value that works, invariants, describing algorithms,
+and also counting the number of ways.
 
 An important concept is recognizing two-part problems.
 For "find the max/min" problems:

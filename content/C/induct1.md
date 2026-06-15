@@ -16,5 +16,6 @@ Problems which really use induction and recursion in a substantial way, i.e.
 the main idea of the problem really is about how (or whether) to induct.
 Features some AIME-style recursion calculations.'''
 +++
-See the article for 
+
+See the article for
 [Induction & Recursion II](/C/induct2).

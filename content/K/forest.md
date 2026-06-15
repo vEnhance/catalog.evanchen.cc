@@ -16,4 +16,5 @@ hidden = true
 description = '''
 Secret unit unlocked that appears at level 35.'''
 +++
+
 (This is an automatically generated article for Forest of Wandering (Lv 35). Please add some content!)

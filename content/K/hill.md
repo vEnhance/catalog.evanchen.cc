@@ -16,4 +16,5 @@ hidden = true
 description = '''
 Secret unit that appears at level 47.'''
 +++
+
 (This is an automatically generated article for Hill of Memories (Lv 47). Please add some content!)

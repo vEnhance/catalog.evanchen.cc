@@ -19,4 +19,5 @@ to 3. Requires only a high school background up to single-variable calculus.
 Half the problems are exercises from my book and the other half are past Putnam
 problems.'''
 +++
+
 (This is an automatically generated article for Multivariable Calculus. Please add some content!)
