@@ -325,11 +325,9 @@ h3 {
 }
 .gallery-art {
   width: 100%;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
+  height: auto;
   display: block;
   border: 1px solid $border-soft;
-  background: #fff;
 }
 .gallery-slug {
   font-size: 0.85rem;
