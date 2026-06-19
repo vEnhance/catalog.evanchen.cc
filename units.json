@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-14T18:30:00.123456+00:00",
+  "timestamp": "2026-06-19T05:08:58.885432+00:00",
   "unit_groups": [
     {
       "name": "Adv Poly Method",
@@ -22,7 +22,7 @@
       "num_submissions": 333,
       "num_students": 1087,
       "num_clubs": 17358,
-      "num_hearts": 5783.50822,
+      "num_hearts": 5783.51,
       "versions": ["BGX", "DGX"]
     },
     {
@@ -34,7 +34,7 @@
       "num_submissions": 435,
       "num_students": 1452,
       "num_clubs": 24213,
-      "num_hearts": 9056.89617,
+      "num_hearts": 9056.9,
       "versions": ["BAY", "DAY"]
     },
     {
@@ -70,7 +70,7 @@
       "num_submissions": 103,
       "num_students": 550,
       "num_clubs": 3265,
-      "num_hearts": 1650.0000009999999,
+      "num_hearts": 1650.0,
       "versions": ["DMW", "DMX", "DMY"]
     },
     {
@@ -82,7 +82,7 @@
       "num_submissions": 114,
       "num_students": 836,
       "num_clubs": 5754,
-      "num_hearts": 2562.165,
+      "num_hearts": 2562.16,
       "versions": ["DCW", "ZCW"]
     },
     {
@@ -94,7 +94,7 @@
       "num_submissions": 235,
       "num_students": 1008,
       "num_clubs": 13522,
-      "num_hearts": 6482.9439999999995,
+      "num_hearts": 6482.94,
       "versions": ["DGX", "ZGY"]
     },
     {
@@ -106,7 +106,7 @@
       "num_submissions": 169,
       "num_students": 1134,
       "num_clubs": 6440,
-      "num_hearts": 2761.6666600000003,
+      "num_hearts": 2761.67,
       "versions": ["BGW", "DGW", "DGX"]
     },
     {
@@ -130,7 +130,7 @@
       "num_submissions": 183,
       "num_students": 1141,
       "num_clubs": 11968,
-      "num_hearts": 5423.34925653,
+      "num_hearts": 5423.35,
       "versions": ["DGX", "ZGX"]
     },
     {
@@ -142,7 +142,7 @@
       "num_submissions": 55,
       "num_students": 207,
       "num_clubs": 4196,
-      "num_hearts": 600.2143434343434,
+      "num_hearts": 600.21,
       "versions": ["BKV", "DKV", "ZKV"]
     },
     {
@@ -154,7 +154,7 @@
       "num_submissions": 299,
       "num_students": 1800,
       "num_clubs": 11943,
-      "num_hearts": 5909.74007,
+      "num_hearts": 5909.74,
       "versions": ["BGW", "DGW", "DGX"]
     },
     {
@@ -166,7 +166,7 @@
       "num_submissions": 169,
       "num_students": 692,
       "num_clubs": 10406,
-      "num_hearts": 3164.4342000000006,
+      "num_hearts": 3164.43,
       "versions": ["BCW", "DCW"]
     },
     {
@@ -178,7 +178,7 @@
       "num_submissions": 177,
       "num_students": 918,
       "num_clubs": 11548,
-      "num_hearts": 5235.363329999999,
+      "num_hearts": 5235.36,
       "versions": ["DGY", "ZGY"]
     },
     {
@@ -202,7 +202,7 @@
       "num_submissions": 76,
       "num_students": 588,
       "num_clubs": 7358,
-      "num_hearts": 2135.682,
+      "num_hearts": 2135.68,
       "versions": ["DMW", "ZMW"]
     },
     {
@@ -214,7 +214,7 @@
       "num_submissions": 364,
       "num_students": 975,
       "num_clubs": 20560,
-      "num_hearts": 6429.126926789,
+      "num_hearts": 6429.13,
       "versions": ["BAY"]
     },
     {
@@ -238,7 +238,7 @@
       "num_submissions": 637,
       "num_students": 735,
       "num_clubs": 437,
-      "num_hearts": 309.1509926459232,
+      "num_hearts": 309.15,
       "versions": ["BMW"]
     },
     {
@@ -250,7 +250,7 @@
       "num_submissions": 730,
       "num_students": 1823,
       "num_clubs": 45290,
-      "num_hearts": 19495.282728574,
+      "num_hearts": 19495.28,
       "versions": ["BGW", "DGW", "BGY", "DGY"]
     },
     {
@@ -262,7 +262,7 @@
       "num_submissions": 632,
       "num_students": 1504,
       "num_clubs": 40053,
-      "num_hearts": 17792.78709,
+      "num_hearts": 17792.79,
       "versions": ["BCX", "BCY"]
     },
     {
@@ -274,7 +274,7 @@
       "num_submissions": 485,
       "num_students": 2262,
       "num_clubs": 25670,
-      "num_hearts": 12242.07630301294,
+      "num_hearts": 12242.08,
       "versions": ["BCW", "DCW", "ZCW"]
     },
     {
@@ -298,7 +298,7 @@
       "num_submissions": 399,
       "num_students": 1177,
       "num_clubs": 15692,
-      "num_hearts": 5405.8233,
+      "num_hearts": 5405.82,
       "versions": ["BCW"]
     },
     {
@@ -310,7 +310,7 @@
       "num_submissions": 296,
       "num_students": 1488,
       "num_clubs": 21065,
-      "num_hearts": 8982.003999999997,
+      "num_hearts": 8982.0,
       "versions": ["DNW"]
     },
     {
@@ -322,7 +322,7 @@
       "num_submissions": 60,
       "num_students": 580,
       "num_clubs": 2498,
-      "num_hearts": 877.934,
+      "num_hearts": 877.93,
       "versions": ["DCX", "ZCX"]
     },
     {
@@ -334,7 +334,7 @@
       "num_submissions": 430,
       "num_students": 807,
       "num_clubs": 5815,
-      "num_hearts": 1334.587004,
+      "num_hearts": 1334.59,
       "versions": ["BKV", "DKV", "ZKV"]
     },
     {
@@ -346,7 +346,7 @@
       "num_submissions": 64,
       "num_students": 609,
       "num_clubs": 2613,
-      "num_hearts": 1239.833333,
+      "num_hearts": 1239.83,
       "versions": ["DAW", "ZAW"]
     },
     {
@@ -358,7 +358,7 @@
       "num_submissions": 155,
       "num_students": 1204,
       "num_clubs": 8751,
-      "num_hearts": 4188.259999999999,
+      "num_hearts": 4188.26,
       "versions": ["DCW", "ZCX"]
     },
     {
@@ -370,7 +370,7 @@
       "num_submissions": 848,
       "num_students": 2300,
       "num_clubs": 46579,
-      "num_hearts": 20923.884786789018,
+      "num_hearts": 20923.88,
       "versions": ["BFW", "DFW", "ZFW", "DFX", "ZFX"]
     },
     {
@@ -394,7 +394,7 @@
       "num_submissions": 204,
       "num_students": 997,
       "num_clubs": 8859,
-      "num_hearts": 3564.754321321,
+      "num_hearts": 3564.75,
       "versions": ["BAX"]
     },
     {
@@ -406,7 +406,7 @@
       "num_submissions": 643,
       "num_students": 1912,
       "num_clubs": 33523,
-      "num_hearts": 14184.94923,
+      "num_hearts": 14184.95,
       "versions": ["BCW", "DCW", "DCX"]
     },
     {
@@ -418,7 +418,7 @@
       "num_submissions": 119,
       "num_students": 521,
       "num_clubs": 8761,
-      "num_hearts": 3829.8500000000004,
+      "num_hearts": 3829.85,
       "versions": ["ZCW", "ZCX"]
     },
     {
@@ -430,7 +430,7 @@
       "num_submissions": 316,
       "num_students": 1559,
       "num_clubs": 16305,
-      "num_hearts": 6306.393333,
+      "num_hearts": 6306.39,
       "versions": ["BCX", "DCX", "ZCX"]
     },
     {
@@ -474,11 +474,11 @@
       "subject": "Combinatorics (Gryffindor)",
       "description": "Hall's marriage lemma.",
       "slug": "hall",
-      "artist_name": "Stable Diffusion",
+      "artist_name": "Evan Chen",
       "num_submissions": 147,
       "num_students": 425,
       "num_clubs": 5410,
-      "num_hearts": 2210.2721039999997,
+      "num_hearts": 2210.27,
       "versions": ["BCW", "DCW"]
     },
     {
@@ -502,7 +502,7 @@
       "num_submissions": 585,
       "num_students": 1487,
       "num_clubs": 35447,
-      "num_hearts": 14802.85333,
+      "num_hearts": 14802.85,
       "versions": ["DGW", "DGX"]
     },
     {
@@ -514,7 +514,7 @@
       "num_submissions": 181,
       "num_students": 1208,
       "num_clubs": 10106,
-      "num_hearts": 4529.2907,
+      "num_hearts": 4529.29,
       "versions": ["DNW"]
     },
     {
@@ -526,7 +526,7 @@
       "num_submissions": 185,
       "num_students": 571,
       "num_clubs": 4293,
-      "num_hearts": 1006.754,
+      "num_hearts": 1006.75,
       "versions": ["BKV", "DKV", "ZKV"]
     },
     {
@@ -538,7 +538,7 @@
       "num_submissions": 180,
       "num_students": 716,
       "num_clubs": 10051,
-      "num_hearts": 4578.29007,
+      "num_hearts": 4578.29,
       "versions": ["DGY", "ZGY"]
     },
     {
@@ -574,7 +574,7 @@
       "num_submissions": 229,
       "num_students": 1086,
       "num_clubs": 10551,
-      "num_hearts": 4330.733232999999,
+      "num_hearts": 4330.73,
       "versions": ["BCX"]
     },
     {
@@ -598,7 +598,7 @@
       "num_submissions": 350,
       "num_students": 1140,
       "num_clubs": 22850,
-      "num_hearts": 7613.016669999999,
+      "num_hearts": 7613.02,
       "versions": ["BAW"]
     },
     {
@@ -610,7 +610,7 @@
       "num_submissions": 157,
       "num_students": 831,
       "num_clubs": 5644,
-      "num_hearts": 1933.56007,
+      "num_hearts": 1933.56,
       "versions": ["BAW"]
     },
     {
@@ -622,7 +622,7 @@
       "num_submissions": 189,
       "num_students": 990,
       "num_clubs": 12803,
-      "num_hearts": 4679.9692595,
+      "num_hearts": 4679.97,
       "versions": ["DAX"]
     },
     {
@@ -634,7 +634,7 @@
       "num_submissions": 112,
       "num_students": 353,
       "num_clubs": 4697,
-      "num_hearts": 807.5190069935898,
+      "num_hearts": 807.52,
       "versions": ["BKV", "DKV", "ZKV"]
     },
     {
@@ -646,7 +646,7 @@
       "num_submissions": 86,
       "num_students": 901,
       "num_clubs": 5214,
-      "num_hearts": 2320.7000000000003,
+      "num_hearts": 2320.7,
       "versions": ["DNY", "ZNY"]
     },
     {
@@ -658,7 +658,7 @@
       "num_submissions": 65,
       "num_students": 269,
       "num_clubs": 3774,
-      "num_hearts": 1185.14281828,
+      "num_hearts": 1185.14,
       "versions": ["DAX"]
     },
     {
@@ -666,7 +666,7 @@
       "subject": "Combinatorics (Gryffindor)",
       "description": "Mixed combinatorics practice at the IMO 2/5 level.",
       "slug": "intermix",
-      "artist_name": "DALL\u00b7E",
+      "artist_name": "Evan Chen",
       "num_submissions": 54,
       "num_students": 281,
       "num_clubs": 2249,
@@ -682,7 +682,7 @@
       "num_submissions": 65,
       "num_students": 488,
       "num_clubs": 4087,
-      "num_hearts": 1746.3867,
+      "num_hearts": 1746.39,
       "versions": ["ZGY"]
     },
     {
@@ -694,7 +694,7 @@
       "num_submissions": 144,
       "num_students": 857,
       "num_clubs": 9301,
-      "num_hearts": 3920.48667,
+      "num_hearts": 3920.49,
       "versions": ["DGW"]
     },
     {
@@ -766,7 +766,7 @@
       "num_submissions": 87,
       "num_students": 460,
       "num_clubs": 4796,
-      "num_hearts": 1773.138,
+      "num_hearts": 1773.14,
       "versions": ["DNX"]
     },
     {
@@ -774,7 +774,7 @@
       "subject": "Number Theory (Ravenclaw)",
       "description": "One of two beginner units in number theory focusing on modular arithmetic.\r\nEmphasis on basic proof-based problems, starting with simple Diophantine equations that can be solved by taking moduluses and factoring.\r\nThe two Modular Arithmetic units can be done in either order.",
       "slug": "proofmod",
-      "artist_name": "Claude Sonnet 4",
+      "artist_name": "Evan Chen",
       "num_submissions": 79,
       "num_students": 252,
       "num_clubs": 5192,
@@ -790,7 +790,7 @@
       "num_submissions": 422,
       "num_students": 1216,
       "num_clubs": 25778,
-      "num_hearts": 8687.4009,
+      "num_hearts": 8687.4,
       "versions": ["BNW"]
     },
     {
@@ -814,7 +814,7 @@
       "num_submissions": 40,
       "num_students": 451,
       "num_clubs": 2025,
-      "num_hearts": 1253.434,
+      "num_hearts": 1253.43,
       "versions": ["ZGW"]
     },
     {
@@ -838,7 +838,7 @@
       "num_submissions": 21,
       "num_students": 365,
       "num_clubs": 33,
-      "num_hearts": 10.759999999999998,
+      "num_hearts": 10.76,
       "versions": ["BCW"]
     },
     {
@@ -862,7 +862,7 @@
       "num_submissions": 141,
       "num_students": 983,
       "num_clubs": 7756,
-      "num_hearts": 3431.8031,
+      "num_hearts": 3431.8,
       "versions": ["DNY", "ZNY"]
     },
     {
@@ -874,7 +874,7 @@
       "num_submissions": 446,
       "num_students": 1515,
       "num_clubs": 28603,
-      "num_hearts": 9304.483333,
+      "num_hearts": 9304.48,
       "versions": ["BNW"]
     },
     {
@@ -886,7 +886,7 @@
       "num_submissions": 436,
       "num_students": 1593,
       "num_clubs": 21927,
-      "num_hearts": 9726.684333,
+      "num_hearts": 9726.68,
       "versions": ["BNW", "DNW"]
     },
     {
@@ -946,7 +946,7 @@
       "num_submissions": 342,
       "num_students": 1880,
       "num_clubs": 17708,
-      "num_hearts": 8583.23333,
+      "num_hearts": 8583.23,
       "versions": ["BCX", "DCX", "ZCX"]
     },
     {
@@ -970,7 +970,7 @@
       "num_submissions": 192,
       "num_students": 933,
       "num_clubs": 9701,
-      "num_hearts": 4103.345521212121,
+      "num_hearts": 4103.35,
       "versions": ["DNW", "DNX"]
     },
     {
@@ -982,7 +982,7 @@
       "num_submissions": 113,
       "num_students": 752,
       "num_clubs": 6792,
-      "num_hearts": 2607.55667,
+      "num_hearts": 2607.56,
       "versions": ["DGW"]
     },
     {
@@ -994,7 +994,7 @@
       "num_submissions": 280,
       "num_students": 1572,
       "num_clubs": 12998,
-      "num_hearts": 5165.177670000001,
+      "num_hearts": 5165.18,
       "versions": ["BAX", "DAX"]
     },
     {
@@ -1042,7 +1042,7 @@
       "num_submissions": 551,
       "num_students": 957,
       "num_clubs": 30339,
-      "num_hearts": 8281.380000000001,
+      "num_hearts": 8281.38,
       "versions": ["BAW"]
     },
     {
@@ -1066,7 +1066,7 @@
       "num_submissions": 72,
       "num_students": 608,
       "num_clubs": 3277,
-      "num_hearts": 1298.7733333,
+      "num_hearts": 1298.77,
       "versions": ["DAX"]
     },
     {
@@ -1102,7 +1102,7 @@
       "num_submissions": 101,
       "num_students": 640,
       "num_clubs": 5222,
-      "num_hearts": 2849.27667,
+      "num_hearts": 2849.28,
       "versions": ["DFY"]
     }
   ]
