@@ -318,6 +318,10 @@ h3 {
   font-weight: bold;
   color: $link;
   line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
 }
 .gallery-art {
   width: 100%;
