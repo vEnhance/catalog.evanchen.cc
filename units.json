@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-19T05:08:58.885432+00:00",
+  "timestamp": "2026-06-20T00:47:41.684337+00:00",
   "unit_groups": [
     {
       "name": "Adv Poly Method",
@@ -356,7 +356,7 @@
       "slug": "free",
       "artist_name": "Arul Kolla",
       "num_submissions": 155,
-      "num_students": 1204,
+      "num_students": 1205,
       "num_clubs": 8751,
       "num_hearts": 4188.26,
       "versions": ["DCW", "ZCX"]
@@ -1074,7 +1074,7 @@
       "subject": "Geometry (Slytherin)",
       "description": "The trig-bash unit. Several traditional-style geometry problems that are meant to be solved by chasing lengths and ratios, with the aid of trigonometric techniques.",
       "slug": "triglen",
-      "artist_name": "DALL\u00b7E",
+      "artist_name": "Michael Luo",
       "num_submissions": 36,
       "num_students": 364,
       "num_clubs": 1663,
