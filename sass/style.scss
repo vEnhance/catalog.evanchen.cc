@@ -305,29 +305,44 @@ h3 {
   background: $bg-light;
   border: 1px solid $border-soft;
 }
-.gallery-item,
-.gallery-item:visited {
-  color: $text;
-}
-.gallery-item:hover {
-  background: #fff;
-  border-color: $arch-blue;
-  text-decoration: none;
-}
 .gallery-name {
+  display: block;
   font-weight: bold;
-  color: $link;
   line-height: 1.2;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
   width: 100%;
 }
+.gallery-slug-link,
+.gallery-slug-link:visited {
+  color: $text;
+}
+.gallery-slug-link:hover {
+  color: $link;
+}
+.gallery-art-link {
+  display: block;
+  line-height: 0;
+  cursor: zoom-in;
+}
+.gallery-art-link:hover {
+  text-decoration: none;
+}
+.gallery-art-link:hover .gallery-art {
+  border-color: $arch-blue;
+  box-shadow:
+    0 0 0 2px $arch-blue,
+    0 4px 14px rgba(23, 147, 209, 0.4);
+}
 .gallery-art {
   width: 100%;
   height: auto;
   display: block;
   border: 1px solid $border-soft;
+  transition:
+    box-shadow 0.15s ease,
+    border-color 0.15s ease;
 }
 .gallery-slug {
   font-size: 0.85rem;
@@ -463,6 +478,16 @@ h3 {
   display: block;
   line-height: 0;
   text-align: center;
+  cursor: zoom-in;
+  padding: 0.5em 0;
+}
+.infobox-image-link:hover {
+  text-decoration: none;
+}
+.infobox-image-link:hover .infobox-image {
+  box-shadow:
+    0 0 0 2px $arch-blue,
+    0 4px 14px rgba(23, 147, 209, 0.4);
 }
 .infobox-image {
   max-width: 100%;
@@ -470,6 +495,9 @@ h3 {
   display: block;
   margin: 0 auto;
   padding: 0.3em;
+  transition:
+    box-shadow 0.15s ease,
+    border-color 0.15s ease;
 }
 .infobox-data {
   width: 100%;

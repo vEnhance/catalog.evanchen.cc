@@ -15,18 +15,22 @@
                     {% for unit in sec.pages %}
                         {% if not unit.extra.hidden %}
                             {% set u = units.unit_groups | filter(attribute="slug", value=unit.slug) | first %}
-                            <li>
-                                <a class="gallery-item" href="{{ unit.permalink }}">
-                                    <span class="gallery-name">{{ unit.title }}</span>
-                                    <span class="gallery-slug"><code>{{ unit.slug }}</code></span>
+                            <li class="gallery-item">
+                                <a class="gallery-name" href="{{ unit.permalink }}">{{ unit.title }}</a>
+                                <a class="gallery-slug-link" href="{{ unit.permalink }}"><span class="gallery-slug"><code>{{ unit.slug }}</code></span></a>
+                                <a class="gallery-art-link"
+                                   href="{{ config.extra.gallery_base }}/webp/{{ unit.slug }}.webp"
+                                   target="_blank"
+                                   rel="noopener"
+                                   title="View full-size image">
                                     <img class="gallery-art"
                                          loading="lazy"
                                          width="226"
                                          height="226"
                                          src="{{ config.extra.gallery_base }}/thumb-md/{{ unit.slug }}.webp"
                                          alt="{{ unit.title }} artwork">
-                                    <span class="gallery-credit">Art by {{ u.artist_name }}</span>
                                 </a>
+                                <span class="gallery-credit">Art by {{ u.artist_name }}</span>
                             </li>
                         {% endif %}
                     {% endfor %}
