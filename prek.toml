@@ -43,7 +43,7 @@ hooks = [{ id = "check-useless-excludes" }]
 
 [[repos]]
 repo = "https://github.com/astral-sh/ruff-pre-commit"
-rev = "v0.16.6"
+rev = "v0.16.8"
 hooks = [{ id = "ruff-check" }, { id = "ruff-format" }]
 
 [[repos]]
@@ -53,7 +53,7 @@ hooks = [{ id = "codespell" }]
 
 [[repos]]
 repo = "https://github.com/JoC0de/pre-commit-prettier"
-rev = "v3.9.6"
+rev = "v3.9.9"
 hooks = [{ id = "prettier", types_or = ["css", "javascript", "json", "scss", "ts", "yaml"] }]
 
 [[repos]]
@@ -63,7 +63,7 @@ hooks = [{ id = "zizmor" }]
 
 [[repos]]
 repo = "https://github.com/djlint/djLint"
-rev = "v1.46.1"
+rev = "v1.46.2"
 hooks = [
   { id = "djlint-reformat", types = ["html"], files = "templates/" },
   { id = "djlint", types = ["html"], files = "templates/" }
