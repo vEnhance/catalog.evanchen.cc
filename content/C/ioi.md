@@ -2,7 +2,6 @@
 title = "IOI"
 
 [extra]
-unit_id = "68"
 subject = "C"
 classification = "Combinatorics"
 +++

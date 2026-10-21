@@ -2,7 +2,6 @@
 title = "Symm Polynom"
 
 [extra]
-unit_id = "56"
 subject = "A"
 classification = "Algebra"
 +++

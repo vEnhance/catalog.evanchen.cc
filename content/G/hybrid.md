@@ -2,7 +2,6 @@
 title = "Hybrid Geo"
 
 [extra]
-unit_id = "67"
 subject = "G"
 classification = "Geometry"
 +++

@@ -2,7 +2,6 @@
 title = "Real-to-Real Func Eqn"
 
 [extra]
-unit_id = "94"
 subject = "F"
 classification = "Functional Equations"
 stub = true

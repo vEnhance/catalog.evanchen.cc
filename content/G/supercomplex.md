@@ -2,7 +2,6 @@
 title = "Super Complex"
 
 [extra]
-unit_id = "54"
 subject = "G"
 classification = "Geometry"
 +++

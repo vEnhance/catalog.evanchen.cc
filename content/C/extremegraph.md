@@ -2,7 +2,6 @@
 title = "Extremal Graph"
 
 [extra]
-unit_id = "17"
 subject = "C"
 classification = "Combinatorics"
 +++

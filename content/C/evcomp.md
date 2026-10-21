@@ -2,7 +2,6 @@
 title = "Expected Value"
 
 [extra]
-unit_id = "16"
 subject = "C"
 classification = "Combinatorics"
 +++

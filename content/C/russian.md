@@ -2,7 +2,6 @@
 title = "Russian Combo"
 
 [extra]
-unit_id = "49"
 subject = "C"
 classification = "Combinatorics"
 +++

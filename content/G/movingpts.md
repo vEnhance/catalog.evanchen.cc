@@ -2,7 +2,6 @@
 title = "Moving Points"
 
 [extra]
-unit_id = "61"
 subject = "G"
 classification = "Geometry"
 +++

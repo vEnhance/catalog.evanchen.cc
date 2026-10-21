@@ -2,7 +2,6 @@
 title = "Expon NT"
 
 [extra]
-unit_id = "11"
 subject = "N"
 classification = "Number Theory"
 +++

@@ -2,7 +2,6 @@
 title = "Tricky Ineq"
 
 [extra]
-unit_id = "57"
 subject = "A"
 classification = "Algebra"
 +++

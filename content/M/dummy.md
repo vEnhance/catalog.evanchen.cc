@@ -2,7 +2,6 @@
 title = "Dummy Unit"
 
 [extra]
-unit_id = "70"
 subject = "M"
 classification = "Miscellaneous"
 +++

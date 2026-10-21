@@ -2,7 +2,6 @@
 title = "Induction & Recursion I"
 
 [extra]
-unit_id = "31"
 subject = "C"
 classification = "Combinatorics"
 stub = true

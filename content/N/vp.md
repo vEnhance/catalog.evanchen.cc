@@ -2,7 +2,6 @@
 title = "Prime Exponents"
 
 [extra]
-unit_id = "45"
 subject = "N"
 classification = "Number Theory"
 +++

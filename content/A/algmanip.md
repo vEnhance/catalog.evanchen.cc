@@ -2,7 +2,6 @@
 title = "Alg Manip"
 
 [extra]
-unit_id = "69"
 subject = "A"
 classification = "Algebra"
 +++

@@ -2,7 +2,6 @@
 title = "Gen Func"
 
 [extra]
-unit_id = "20"
 subject = "A"
 classification = "Algebra"
 +++

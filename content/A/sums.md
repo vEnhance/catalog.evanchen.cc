@@ -2,7 +2,6 @@
 title = "Sums"
 
 [extra]
-unit_id = "52"
 subject = "A"
 classification = "Algebra"
 +++

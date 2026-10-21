@@ -2,7 +2,6 @@
 title = "Int Polynom"
 
 [extra]
-unit_id = "35"
 subject = "N"
 classification = "Number Theory"
 +++

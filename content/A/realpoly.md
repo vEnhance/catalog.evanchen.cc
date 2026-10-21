@@ -2,7 +2,6 @@
 title = "Real Polynom"
 
 [extra]
-unit_id = "72"
 subject = "A"
 classification = "Algebra"
 +++

@@ -2,7 +2,6 @@
 title = "Duluth"
 
 [extra]
-unit_id = "12"
 subject = "M"
 classification = "Miscellaneous"
 +++

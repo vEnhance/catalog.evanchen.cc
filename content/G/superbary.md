@@ -2,7 +2,6 @@
 title = "Super Bary"
 
 [extra]
-unit_id = "53"
 subject = "G"
 classification = "Geometry"
 +++

@@ -3,7 +3,6 @@ title = "Collinia Colosseum (Lv 75)"
 in_search_index = false
 
 [extra]
-unit_id = "80"
 subject = "K"
 classification = "Secret"
 hidden = true

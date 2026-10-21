@@ -2,7 +2,6 @@
 title = "C8 Summit"
 
 [extra]
-unit_id = "64"
 subject = "C"
 classification = "Combinatorics"
 +++

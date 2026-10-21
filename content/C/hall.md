@@ -3,7 +3,6 @@ title = "Hall"
 in_search_index = false
 
 [extra]
-unit_id = "25"
 subject = "C"
 classification = "Combinatorics"
 hidden = true

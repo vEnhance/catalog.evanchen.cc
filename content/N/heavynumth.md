@@ -2,7 +2,6 @@
 title = "Heavy NT"
 
 [extra]
-unit_id = "28"
 subject = "N"
 classification = "Number Theory"
 +++

@@ -2,7 +2,6 @@
 title = "Wrapped Func Eqn"
 
 [extra]
-unit_id = "63"
 subject = "F"
 classification = "Functional Equations"
 +++

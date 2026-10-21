@@ -2,7 +2,6 @@
 title = "Cyclotomic"
 
 [extra]
-unit_id = "65"
 subject = "A"
 classification = "Algebra"
 +++

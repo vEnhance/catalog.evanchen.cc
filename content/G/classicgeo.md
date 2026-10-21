@@ -2,7 +2,6 @@
 title = "Classical Geo"
 
 [extra]
-unit_id = "3"
 subject = "G"
 classification = "Geometry"
 +++

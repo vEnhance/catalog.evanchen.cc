@@ -2,7 +2,6 @@
 title = "Graph Theory"
 
 [extra]
-unit_id = "23"
 subject = "C"
 classification = "Combinatorics"
 +++

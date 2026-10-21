@@ -2,7 +2,6 @@
 title = "Grids"
 
 [extra]
-unit_id = "47"
 subject = "C"
 classification = "Combinatorics"
 +++

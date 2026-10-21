@@ -2,7 +2,6 @@
 title = "Linear Algebra"
 
 [extra]
-unit_id = "39"
 subject = "C"
 classification = "Combinatorics"
 +++

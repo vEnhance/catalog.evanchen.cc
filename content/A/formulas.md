@@ -2,7 +2,6 @@
 title = "Formulas"
 
 [extra]
-unit_id = "62"
 subject = "A"
 classification = "Algebra"
 +++

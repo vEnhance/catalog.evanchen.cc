@@ -2,7 +2,6 @@
 title = "Func Eqn"
 
 [extra]
-unit_id = "19"
 subject = "F"
 classification = "Functional Equations"
 +++

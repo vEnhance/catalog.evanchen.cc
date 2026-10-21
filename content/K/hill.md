@@ -3,7 +3,6 @@ title = "Hill of Memories (Lv 47)"
 in_search_index = false
 
 [extra]
-unit_id = "78"
 subject = "K"
 classification = "Secret"
 stub = true

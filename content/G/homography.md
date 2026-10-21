@@ -2,7 +2,6 @@
 title = "Homography"
 
 [extra]
-unit_id = "29"
 subject = "G"
 classification = "Geometry"
 +++

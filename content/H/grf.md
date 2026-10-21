@@ -2,7 +2,6 @@
 title = "Groups, Rings, and Fields"
 
 [extra]
-unit_id = "88"
 subject = "H"
 classification = "Higher Math"
 stub = true

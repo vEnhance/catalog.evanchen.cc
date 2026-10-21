@@ -2,7 +2,6 @@
 title = "Harmonic"
 
 [extra]
-unit_id = "27"
 subject = "G"
 classification = "Geometry"
 +++

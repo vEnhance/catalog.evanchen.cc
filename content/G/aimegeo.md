@@ -2,7 +2,6 @@
 title = "AIME Geo"
 
 [extra]
-unit_id = "1"
 subject = "G"
 classification = "Geometry"
 +++

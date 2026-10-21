@@ -2,7 +2,6 @@
 title = "Hyperbola"
 
 [extra]
-unit_id = "30"
 subject = "G"
 classification = "Geometry"
 +++

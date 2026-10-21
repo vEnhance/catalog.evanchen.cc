@@ -2,7 +2,6 @@
 title = "Rigid"
 
 [extra]
-unit_id = "48"
 subject = "C"
 classification = "Combinatorics"
 +++

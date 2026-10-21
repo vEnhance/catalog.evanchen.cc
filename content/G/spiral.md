@@ -2,7 +2,6 @@
 title = "Spiral"
 
 [extra]
-unit_id = "51"
 subject = "G"
 classification = "Geometry"
 +++

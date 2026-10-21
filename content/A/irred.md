@@ -2,7 +2,6 @@
 title = "Irreducible"
 
 [extra]
-unit_id = "38"
 subject = "A"
 classification = "Algebra"
 +++

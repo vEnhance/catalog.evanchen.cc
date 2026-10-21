@@ -2,7 +2,6 @@
 title = "N7 Summit"
 
 [extra]
-unit_id = "75"
 subject = "N"
 classification = "Number Theory"
 stub = true

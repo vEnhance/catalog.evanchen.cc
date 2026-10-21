@@ -2,7 +2,6 @@
 title = "Hard Ineq"
 
 [extra]
-unit_id = "26"
 subject = "A"
 classification = "Algebra"
 +++

@@ -2,7 +2,6 @@
 title = "Equality"
 
 [extra]
-unit_id = "14"
 subject = "C"
 classification = "Combinatorics"
 +++

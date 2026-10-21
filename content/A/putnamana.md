@@ -2,7 +2,6 @@
 title = "Putnam Analysis"
 
 [extra]
-unit_id = "59"
 subject = "A"
 classification = "Algebra"
 +++

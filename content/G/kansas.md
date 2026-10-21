@@ -2,7 +2,6 @@
 title = "Inversion and Spiral"
 
 [extra]
-unit_id = "36"
 subject = "G"
 classification = "Geometry"
 +++

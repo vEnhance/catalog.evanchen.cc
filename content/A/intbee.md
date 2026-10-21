@@ -2,7 +2,6 @@
 title = "Integration Bee"
 
 [extra]
-unit_id = "83"
 subject = "A"
 classification = "Algebra"
 stub = true

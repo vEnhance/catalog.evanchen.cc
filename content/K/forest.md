@@ -3,7 +3,6 @@ title = "Forest of Wandering (Lv 35)"
 in_search_index = false
 
 [extra]
-unit_id = "77"
 subject = "K"
 classification = "Secret"
 stub = true

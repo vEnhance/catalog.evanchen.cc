@@ -2,7 +2,6 @@
 title = "Entry Combo"
 
 [extra]
-unit_id = "66"
 subject = "C"
 classification = "Combinatorics"
 +++

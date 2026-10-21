@@ -2,7 +2,6 @@
 title = "Size in NT"
 
 [extra]
-unit_id = "50"
 subject = "N"
 classification = "Number Theory"
 +++

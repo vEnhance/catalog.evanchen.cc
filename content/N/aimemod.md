@@ -2,7 +2,6 @@
 title = "Mod Arith 2: Computation"
 
 [extra]
-unit_id = "2"
 subject = "N"
 classification = "Number Theory"
 +++

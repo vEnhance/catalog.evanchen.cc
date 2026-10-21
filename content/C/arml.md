@@ -2,7 +2,6 @@
 title = "Computational Combo"
 
 [extra]
-unit_id = "84"
 subject = "C"
 classification = "Combinatorics"
 stub = true

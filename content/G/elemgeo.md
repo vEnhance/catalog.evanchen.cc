@@ -2,7 +2,6 @@
 title = "Elem Geo"
 
 [extra]
-unit_id = "13"
 subject = "G"
 classification = "Geometry"
 +++

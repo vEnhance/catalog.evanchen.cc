@@ -2,7 +2,6 @@
 title = "Linear Power"
 
 [extra]
-unit_id = "85"
 subject = "G"
 classification = "Geometry"
 stub = true

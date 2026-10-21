@@ -2,7 +2,6 @@
 title = "Adv Poly Method"
 
 [extra]
-unit_id = "8"
 subject = "C"
 classification = "Combinatorics"
 +++

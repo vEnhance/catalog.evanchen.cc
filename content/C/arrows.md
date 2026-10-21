@@ -2,7 +2,6 @@
 title = "Arrows"
 
 [extra]
-unit_id = "6"
 subject = "C"
 classification = "Combinatorics"
 +++
