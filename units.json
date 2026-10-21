@@ -880,7 +880,7 @@
     {
       "name": "Porisms",
       "subject": "Geometry (Slytherin)",
-      "description": "A guest unit on various types of porisms, based on Michael Ren's Porism Cafe Menu at MOP.",
+      "description": "A guest unit on various types of porisms, based on Michael Ren's Porism Cafe Menu at MOP. Covers Poncelet porism, Steiner porism, ping-pong lemma, zigzag porisms, Emch's porism, and Poncelet theory.",
       "slug": "porisms",
       "artist_name": "Royce Yao",
       "num_submissions": 0,
