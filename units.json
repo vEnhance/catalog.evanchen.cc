@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-26T02:11:36.139260+00:00",
+  "timestamp": "2026-10-21T13:33:32.502787+00:00",
   "unit_groups": [
     {
       "name": "Adv Poly Method",
@@ -8,7 +8,7 @@
       "slug": "advpoly",
       "artist_name": "Arul Kolla",
       "num_submissions": 36,
-      "num_students": 325,
+      "num_students": 374,
       "num_clubs": 1388,
       "num_hearts": 734.0,
       "versions": ["ZCW"]
@@ -19,10 +19,10 @@
       "description": "Computational geometry problems, many taken from the tail end of the AIME. At the border of computational contests and olympiads.",
       "slug": "aimegeo",
       "artist_name": "Evan Chen",
-      "num_submissions": 333,
-      "num_students": 1087,
-      "num_clubs": 17358,
-      "num_hearts": 5783.51,
+      "num_submissions": 368,
+      "num_students": 1329,
+      "num_clubs": 19361,
+      "num_hearts": 6460.51,
       "versions": ["BGX", "DGX"]
     },
     {
@@ -31,10 +31,10 @@
       "description": "Problems that purely involve algebraic manipulations without some other context, e.g. solving rather arbitrary equations or systems of equations.",
       "slug": "algmanip",
       "artist_name": "Aaryan Vaishya",
-      "num_submissions": 435,
-      "num_students": 1452,
-      "num_clubs": 24213,
-      "num_hearts": 9056.9,
+      "num_submissions": 463,
+      "num_students": 1742,
+      "num_clubs": 26160,
+      "num_hearts": 9666.9,
       "versions": ["BAY", "DAY"]
     },
     {
@@ -43,10 +43,10 @@
       "description": "Problems involving some real analysis. This is a pretty technical lecture and will delve into the nuances of converge issues, absolute versus conditional convergence, using calculus properly, compact sets, and so on. Featuring the art of Lagrange multipliers.",
       "slug": "analysis",
       "artist_name": "Aditya Pahuja",
-      "num_submissions": 65,
-      "num_students": 801,
-      "num_clubs": 3528,
-      "num_hearts": 1952.25,
+      "num_submissions": 70,
+      "num_students": 930,
+      "num_clubs": 3860,
+      "num_hearts": 2058.17,
       "versions": ["DAY", "ZAY"]
     },
     {
@@ -55,10 +55,10 @@
       "description": "Problems that involve asymptotic calculations in number theory, featuring some multiplicative number theory. Convolution method, and generally problems that require more technical estimates.",
       "slug": "analyticnt",
       "artist_name": "Nurtilek Duishobaev",
-      "num_submissions": 22,
-      "num_students": 263,
-      "num_clubs": 1532,
-      "num_hearts": 1093.4,
+      "num_submissions": 23,
+      "num_students": 327,
+      "num_clubs": 1600,
+      "num_hearts": 1116.4,
       "versions": ["ZNW"]
     },
     {
@@ -67,10 +67,10 @@
       "description": "A unit consisting entirely of troll \"anti-problems\" which are suitable for giving to your enemies.",
       "slug": "antiprobs",
       "artist_name": "Aaryan Vaishya",
-      "num_submissions": 103,
-      "num_students": 550,
-      "num_clubs": 3265,
-      "num_hearts": 1650.0,
+      "num_submissions": 114,
+      "num_students": 632,
+      "num_clubs": 3511,
+      "num_hearts": 1802.0,
       "versions": ["DMW", "DMX", "DMY"]
     },
     {
@@ -79,10 +79,10 @@
       "description": "Some selected problems revolving around the idea that a function from a set to itself can be thought of as a directed graph with all outdegrees equal to 1. In particular, iterating such a function often involves looking at its cycle decomposition.",
       "slug": "arrows",
       "artist_name": "Alon Ragoler",
-      "num_submissions": 114,
-      "num_students": 836,
-      "num_clubs": 5754,
-      "num_hearts": 2562.16,
+      "num_submissions": 123,
+      "num_students": 975,
+      "num_clubs": 6222,
+      "num_hearts": 2745.97,
       "versions": ["DCW", "ZCW"]
     },
     {
@@ -91,10 +91,10 @@
       "description": "This is a unit about building \"diagram intuition\": being able to take a geometry diagram (which may be good or bad) and trying to get a sense of which claims should or shouldn't be true. This is definitely one of the longer geometry units.",
       "slug": "artschool",
       "artist_name": "Evan Chen",
-      "num_submissions": 235,
-      "num_students": 1009,
-      "num_clubs": 13522,
-      "num_hearts": 6482.94,
+      "num_submissions": 244,
+      "num_students": 1202,
+      "num_clubs": 14002,
+      "num_hearts": 6691.94,
       "versions": ["DGX", "ZGY"]
     },
     {
@@ -103,10 +103,10 @@
       "description": "Barycentric coordinates in olympiad geometry. A follow-up to Chapter 7 of EGMO.",
       "slug": "bary",
       "artist_name": "Evan Chen",
-      "num_submissions": 169,
-      "num_students": 1134,
-      "num_clubs": 6440,
-      "num_hearts": 2761.67,
+      "num_submissions": 183,
+      "num_students": 1362,
+      "num_clubs": 7124,
+      "num_hearts": 3080.17,
       "versions": ["BGW", "DGW", "DGX"]
     },
     {
@@ -115,10 +115,10 @@
       "description": "A challenging combinatorics unit to conclude the year, with difficult problems reviewing everything that has appeared earlier.",
       "slug": "c8summit",
       "artist_name": "Owen Zhang",
-      "num_submissions": 17,
-      "num_students": 304,
-      "num_clubs": 1620,
-      "num_hearts": 694.0,
+      "num_submissions": 18,
+      "num_students": 345,
+      "num_clubs": 1759,
+      "num_hearts": 748.0,
       "versions": ["ZCW"]
     },
     {
@@ -127,10 +127,10 @@
       "description": "Formerly part of \"American Geo\". This is somewhere between Config Geo and Elem Geo. A lot of these problems involve figuring out what certain points are, adding in new points that were not that already, and altogether slowly piecing together a master diagram that reveals the depth of a certain picture.",
       "slug": "classicgeo",
       "artist_name": "Evan Chen",
-      "num_submissions": 183,
-      "num_students": 1141,
-      "num_clubs": 11968,
-      "num_hearts": 5423.35,
+      "num_submissions": 195,
+      "num_students": 1341,
+      "num_clubs": 12798,
+      "num_hearts": 5836.95,
       "versions": ["DGX", "ZGX"]
     },
     {
@@ -139,10 +139,10 @@
       "description": "Secret unit that appears at level 75.",
       "slug": "collinia",
       "artist_name": "Evan Chen",
-      "num_submissions": 55,
-      "num_students": 207,
-      "num_clubs": 4196,
-      "num_hearts": 600.21,
+      "num_submissions": 56,
+      "num_students": 224,
+      "num_clubs": 4295,
+      "num_hearts": 612.21,
       "versions": ["BKV", "DKV", "ZKV"]
     },
     {
@@ -151,10 +151,10 @@
       "description": "Complex numbers in olympiad geometry. A follow-up to Chapter 6 of EGMO.",
       "slug": "complex",
       "artist_name": "Evan Chen",
-      "num_submissions": 299,
-      "num_students": 1800,
-      "num_clubs": 11943,
-      "num_hearts": 5909.74,
+      "num_submissions": 337,
+      "num_students": 2137,
+      "num_clubs": 13514,
+      "num_hearts": 6655.42,
       "versions": ["BGW", "DGW", "DGX"]
     },
     {
@@ -163,10 +163,10 @@
       "description": "The \"ARML combo\" unit, this counting unit represents the centroid of Rigid, Induct, Formulas, and Grinding. Also contains several black-magic bijections.",
       "slug": "arml",
       "artist_name": "Evan Chen",
-      "num_submissions": 169,
-      "num_students": 692,
-      "num_clubs": 10406,
-      "num_hearts": 3164.43,
+      "num_submissions": 183,
+      "num_students": 884,
+      "num_clubs": 11228,
+      "num_hearts": 3399.43,
       "versions": ["BCW", "DCW"]
     },
     {
@@ -175,10 +175,10 @@
       "description": "Formerly known as \"American Geo\". This is a unit on geometry problems with a highly traditional or synthetic flavor, for example USAMO 2016/3 and USAMO 2017/3. These sorts of problems were popular on the USA olympiads and team selection tests around 2016 and it is totally not my fault. These particular ones tend to use common or standard configurations as a base and build on top of them, as opposed to starting afresh.",
       "slug": "configgeo",
       "artist_name": "Evan Chen",
-      "num_submissions": 177,
-      "num_students": 918,
-      "num_clubs": 11548,
-      "num_hearts": 5235.36,
+      "num_submissions": 191,
+      "num_students": 1085,
+      "num_clubs": 12592,
+      "num_hearts": 5825.36,
       "versions": ["DGY", "ZGY"]
     },
     {
@@ -187,10 +187,10 @@
       "description": "A mostly-for-fun unit on problems involving constructions. In addition to classical ruler-compass constructions, you may get to use exotic tools that you've never heard of! Includes double-sided rulers, marked rulers, cyclos, circumcircle compasses, splitters, perpendicular bisector rulers, isogonal conjugate finders, and more.",
       "slug": "constructor",
       "artist_name": "Aibala Mizamov",
-      "num_submissions": 4,
-      "num_students": 43,
-      "num_clubs": 163,
-      "num_hearts": 48.0,
+      "num_submissions": 7,
+      "num_students": 122,
+      "num_clubs": 347,
+      "num_hearts": 151.0,
       "versions": ["DGX"]
     },
     {
@@ -199,10 +199,10 @@
       "description": "A difficult unit consisting of problems with deceptively short statements. A lot of the difficulty of these problems is setting up an entire framework to attack a simply stated problem. These setups are often more elaborate or detailed than in other problems.",
       "slug": "courage",
       "artist_name": "Emily Yu",
-      "num_submissions": 76,
-      "num_students": 588,
-      "num_clubs": 7358,
-      "num_hearts": 2135.68,
+      "num_submissions": 81,
+      "num_students": 670,
+      "num_clubs": 7892,
+      "num_hearts": 2250.68,
       "versions": ["DMW", "ZMW"]
     },
     {
@@ -211,10 +211,10 @@
       "description": "Roots of unity. Using $e^{i \\theta} = \\cos(\\theta) + i \\sin(\\theta)$, and connecting them to trigonometry, etc. Features a ton of problems from Math Prize for Girls. Despite the name of the unit, cyclotomic polynomials themselves don't appear very often; the idea of roots of unity is much more prevalent.",
       "slug": "cyclotomic",
       "artist_name": "Aaryan Vaishya",
-      "num_submissions": 364,
-      "num_students": 975,
-      "num_clubs": 20560,
-      "num_hearts": 6429.13,
+      "num_submissions": 411,
+      "num_students": 1193,
+      "num_clubs": 23421,
+      "num_hearts": 7157.58,
       "versions": ["BAY"]
     },
     {
@@ -224,7 +224,7 @@
       "slug": "duluth",
       "artist_name": "anonymous",
       "num_submissions": 4,
-      "num_students": 112,
+      "num_students": 121,
       "num_clubs": 30,
       "num_hearts": 3.0,
       "versions": ["ZMY"]
@@ -235,10 +235,10 @@
       "description": "Not an actual unit; used internally as a canonical file for testing. If you unlock this unit, you will get a blank file. NOTHING TO SEE HERE MOVE ALONG.\r\n\r\nMore seriously you can use this to test the submission interface too if you are new to OTIS.",
       "slug": "dummy",
       "artist_name": "Evan Chen",
-      "num_submissions": 637,
-      "num_students": 735,
-      "num_clubs": 437,
-      "num_hearts": 309.15,
+      "num_submissions": 768,
+      "num_students": 877,
+      "num_clubs": 509,
+      "num_hearts": 332.18,
       "versions": ["BMW"]
     },
     {
@@ -247,10 +247,10 @@
       "description": "A unit featuring easy to medium geometry problems which can be solved using only the most basic tools: angle chasing, power of a point, homothety. It can be thought of as a follow-up to Part I of EGMO.",
       "slug": "elemgeo",
       "artist_name": "Rishabh Mahale",
-      "num_submissions": 730,
-      "num_students": 1823,
-      "num_clubs": 45290,
-      "num_hearts": 19495.28,
+      "num_submissions": 786,
+      "num_students": 2236,
+      "num_clubs": 48962,
+      "num_hearts": 20864.12,
       "versions": ["BGW", "DGW", "BGY", "DGY"]
     },
     {
@@ -259,10 +259,10 @@
       "description": "A beginner combinatorics unit, meant to help get people oriented with typical proof styles for olympiad problems. Induction, recursion, invariants, and algorithms.",
       "slug": "entry",
       "artist_name": "Rohan Dhillon",
-      "num_submissions": 632,
-      "num_students": 1504,
-      "num_clubs": 40053,
-      "num_hearts": 17792.79,
+      "num_submissions": 731,
+      "num_students": 1858,
+      "num_clubs": 46325,
+      "num_hearts": 20076.51,
       "versions": ["BCX", "BCY"]
     },
     {
@@ -271,10 +271,10 @@
       "description": "An important unit about taking advantage of the equality case in combinatorial problems in order to solve problems. Mandatory for newcomer students.",
       "slug": "equality",
       "artist_name": "Owen Zhang",
-      "num_submissions": 485,
-      "num_students": 2262,
-      "num_clubs": 25670,
-      "num_hearts": 12242.08,
+      "num_submissions": 529,
+      "num_students": 2703,
+      "num_clubs": 28113,
+      "num_hearts": 13205.63,
       "versions": ["BCW", "DCW", "ZCW"]
     },
     {
@@ -283,10 +283,10 @@
       "description": "A unit about the idea that if $d$ divides $a$ and $b$, then $d$ divides any linear combination of $a$ and $b$. This intuition underlies Bezout's lemma, the Euclidean algorithm, and the division algorithm, as well as a technique which I privately call remainder bounding. One very good example of a problem of this feeling is SL 2016 N4 (sort of the crown example of remainder bounding).",
       "slug": "euclid",
       "artist_name": "Alex Zhao",
-      "num_submissions": 214,
-      "num_students": 994,
-      "num_clubs": 12120,
-      "num_hearts": 5894.78,
+      "num_submissions": 242,
+      "num_students": 1190,
+      "num_clubs": 13942,
+      "num_hearts": 6620.98,
       "versions": ["DNY"]
     },
     {
@@ -295,10 +295,10 @@
       "description": "Computational problems involving probability, expected value (in particular linearity of expectation), and Markov chains (processes which move from state to state). A good precursor to the Global unit.",
       "slug": "evcomp",
       "artist_name": "Heyang Ni",
-      "num_submissions": 399,
-      "num_students": 1177,
-      "num_clubs": 15692,
-      "num_hearts": 5405.82,
+      "num_submissions": 436,
+      "num_students": 1423,
+      "num_clubs": 17359,
+      "num_hearts": 5864.32,
       "versions": ["BCW"]
     },
     {
@@ -307,10 +307,10 @@
       "description": "Expressions of the form $a^n \\pm 1$, the bread and butter of olympiad number theory. Mods and orders, Fermat's Christmas theorem, lifting the exponent.",
       "slug": "expnt",
       "artist_name": "Owen Zhang",
-      "num_submissions": 296,
-      "num_students": 1488,
-      "num_clubs": 21065,
-      "num_hearts": 8982.0,
+      "num_submissions": 324,
+      "num_students": 1744,
+      "num_clubs": 23261,
+      "num_hearts": 9763.1,
       "versions": ["DNW"]
     },
     {
@@ -319,10 +319,10 @@
       "description": "A difficult unit on problems from extremal graph theory; finding graphs which maximize X under certain constructions. The most basic example is Turan's theorem, which maximizes the number of edges in a graph avoiding an r-clique. Global/local ideas as well as understanding of equality cases feature prominently. Most of the examples in this unit are more challenging.",
       "slug": "extremegraph",
       "artist_name": "Joel Gerlach",
-      "num_submissions": 60,
-      "num_students": 580,
-      "num_clubs": 2498,
-      "num_hearts": 877.93,
+      "num_submissions": 63,
+      "num_students": 681,
+      "num_clubs": 2638,
+      "num_hearts": 957.93,
       "versions": ["DCX", "ZCX"]
     },
     {
@@ -331,10 +331,10 @@
       "description": "Secret unit unlocked that appears at level 35.",
       "slug": "forest",
       "artist_name": "Evan Chen",
-      "num_submissions": 430,
-      "num_students": 807,
-      "num_clubs": 5815,
-      "num_hearts": 1334.59,
+      "num_submissions": 455,
+      "num_students": 883,
+      "num_clubs": 6175,
+      "num_hearts": 1403.56,
       "versions": ["BKV", "DKV", "ZKV"]
     },
     {
@@ -343,10 +343,10 @@
       "description": "Based on Yang Liu's class \"Write Down Formulas\" at MOP 2018. This unit consists of problems which involve manipulations of fairly involved formulas, such as combinatorial recursions or number theoretic power sums. Despite officially being algebra, there are just as many (maybe more) problems that would be classified as C or N.",
       "slug": "formulas",
       "artist_name": "Alex Zhao",
-      "num_submissions": 64,
-      "num_students": 609,
-      "num_clubs": 2613,
-      "num_hearts": 1239.83,
+      "num_submissions": 68,
+      "num_students": 691,
+      "num_clubs": 2868,
+      "num_hearts": 1340.83,
       "versions": ["DAW", "ZAW"]
     },
     {
@@ -355,10 +355,10 @@
       "description": "Problems for which you have a lot of room to make decisions; a lot of the problems in this unit are constructions, for example. You will feel like you are inventing mathematics, rather than discovering it (in contrast to the Rigid unit).",
       "slug": "free",
       "artist_name": "Arul Kolla",
-      "num_submissions": 155,
-      "num_students": 1205,
-      "num_clubs": 8751,
-      "num_hearts": 4188.26,
+      "num_submissions": 166,
+      "num_students": 1410,
+      "num_clubs": 9516,
+      "num_hearts": 4493.26,
       "versions": ["DCW", "ZCX"]
     },
     {
@@ -367,10 +367,10 @@
       "description": "Functional equations, I guess.",
       "slug": "fneqn",
       "artist_name": "Emily Yu",
-      "num_submissions": 848,
-      "num_students": 2300,
-      "num_clubs": 46579,
-      "num_hearts": 20923.88,
+      "num_submissions": 944,
+      "num_students": 2767,
+      "num_clubs": 52007,
+      "num_hearts": 22805.42,
       "versions": ["BFW", "DFW", "ZFW", "DFX", "ZFX"]
     },
     {
@@ -379,10 +379,10 @@
       "description": "A challenging geometry unit to conclude the year, with difficult problems reviewing everything that has appeared earlier.",
       "slug": "g6summit",
       "artist_name": "Aditya Pahuja",
-      "num_submissions": 22,
-      "num_students": 342,
-      "num_clubs": 1777,
-      "num_hearts": 752.0,
+      "num_submissions": 23,
+      "num_students": 398,
+      "num_clubs": 1896,
+      "num_hearts": 782.0,
       "versions": ["ZGY"]
     },
     {
@@ -391,10 +391,10 @@
       "description": "Generating functions and their use in algebraic contexts (computing sums, featuring the so-called snake oil method). Of course, some combinatorial problems included as well.",
       "slug": "genfunc",
       "artist_name": "Filbert Wu",
-      "num_submissions": 204,
-      "num_students": 997,
-      "num_clubs": 8859,
-      "num_hearts": 3564.75,
+      "num_submissions": 218,
+      "num_students": 1242,
+      "num_clubs": 9528,
+      "num_hearts": 3726.75,
       "versions": ["BAX"]
     },
     {
@@ -403,10 +403,10 @@
       "description": "Linearity of expectation, switching the order of summation, what's often called pigeonhole principle, counting in two ways, ... turns out they're actually all more or less the same idea.",
       "slug": "global",
       "artist_name": "Anthony Zou",
-      "num_submissions": 643,
-      "num_students": 1913,
-      "num_clubs": 33523,
-      "num_hearts": 14184.95,
+      "num_submissions": 705,
+      "num_students": 2288,
+      "num_clubs": 36903,
+      "num_hearts": 15511.25,
       "versions": ["BCW", "DCW", "DCX"]
     },
     {
@@ -415,10 +415,10 @@
       "description": "An accelerated version of both the global and local units (both done at once).",
       "slug": "globloc",
       "artist_name": "Azat Madimarov",
-      "num_submissions": 119,
-      "num_students": 521,
-      "num_clubs": 8761,
-      "num_hearts": 3829.85,
+      "num_submissions": 123,
+      "num_students": 591,
+      "num_clubs": 9045,
+      "num_hearts": 3947.85,
       "versions": ["ZCW", "ZCX"]
     },
     {
@@ -427,10 +427,10 @@
       "description": "Combinatorics practice with graphs. The B version of the unit is aimed at students with no previous exposure to graph theory; the harder versions assume prior experience.",
       "slug": "graph",
       "artist_name": "Owen Zhang",
-      "num_submissions": 316,
-      "num_students": 1559,
-      "num_clubs": 16305,
-      "num_hearts": 6306.39,
+      "num_submissions": 353,
+      "num_students": 1899,
+      "num_clubs": 18228,
+      "num_hearts": 7078.83,
       "versions": ["BCX", "DCX", "ZCX"]
     },
     {
@@ -439,10 +439,10 @@
       "description": "A fun but difficult unit on combinatorics problems involving rectangular grids.",
       "slug": "grids",
       "artist_name": "Cecilia Sun",
-      "num_submissions": 39,
-      "num_students": 443,
-      "num_clubs": 2908,
-      "num_hearts": 1345.5,
+      "num_submissions": 43,
+      "num_students": 511,
+      "num_clubs": 3227,
+      "num_hearts": 1486.5,
       "versions": ["ZCY"]
     },
     {
@@ -451,10 +451,10 @@
       "description": "The worst olympiad problems you've ever seen. The name is a reference to the video game term in which you do the same thing over and over.",
       "slug": "grinding",
       "artist_name": "Anthony Zou",
-      "num_submissions": 30,
-      "num_students": 350,
-      "num_clubs": 1386,
-      "num_hearts": 656.02,
+      "num_submissions": 33,
+      "num_students": 414,
+      "num_clubs": 1556,
+      "num_hearts": 742.02,
       "versions": ["DMY", "ZMY"]
     },
     {
@@ -463,10 +463,10 @@
       "description": "A first introduction to the language of group theory, rings, and fields. One of the two key gateway units for higher math.",
       "slug": "grf",
       "artist_name": "Evan Chen",
-      "num_submissions": 7,
-      "num_students": 198,
-      "num_clubs": 235,
-      "num_hearts": 150.0,
+      "num_submissions": 8,
+      "num_students": 263,
+      "num_clubs": 294,
+      "num_hearts": 169.0,
       "versions": ["DHW"]
     },
     {
@@ -475,10 +475,10 @@
       "description": "Hall's marriage lemma.",
       "slug": "hall",
       "artist_name": "Evan Chen",
-      "num_submissions": 147,
-      "num_students": 425,
-      "num_clubs": 5410,
-      "num_hearts": 2210.27,
+      "num_submissions": 154,
+      "num_students": 465,
+      "num_clubs": 5727,
+      "num_hearts": 2316.13,
       "versions": ["BCW", "DCW"]
     },
     {
@@ -487,10 +487,10 @@
       "description": "A unit featuring some of the hardest gems from the golden age of inequalities.",
       "slug": "hardineq",
       "artist_name": "Isken Kenzhebaev",
-      "num_submissions": 34,
-      "num_students": 281,
-      "num_clubs": 1773,
-      "num_hearts": 938.0,
+      "num_submissions": 36,
+      "num_students": 317,
+      "num_clubs": 1865,
+      "num_hearts": 1012.0,
       "versions": ["ZAW", "ZAY"]
     },
     {
@@ -499,10 +499,10 @@
       "description": "Your friendly projective geometry unit. Harmonic bundles, poles and polars, and so on. A follow-up to Chapter 9 of EGMO.",
       "slug": "harmonic",
       "artist_name": "Nurtilek Duishobaev",
-      "num_submissions": 585,
-      "num_students": 1488,
-      "num_clubs": 35447,
-      "num_hearts": 14802.85,
+      "num_submissions": 652,
+      "num_students": 1738,
+      "num_clubs": 39709,
+      "num_hearts": 16500.79,
       "versions": ["DGW", "DGX"]
     },
     {
@@ -511,10 +511,10 @@
       "description": "Heavy machinery in number theory: Vieta jumping, quadratic reciprocity, and some big-name theorems you may or may not have heard of.",
       "slug": "heavynumth",
       "artist_name": "Rohan Garg",
-      "num_submissions": 181,
-      "num_students": 1208,
-      "num_clubs": 10106,
-      "num_hearts": 4529.29,
+      "num_submissions": 198,
+      "num_students": 1435,
+      "num_clubs": 11235,
+      "num_hearts": 5061.22,
       "versions": ["DNW"]
     },
     {
@@ -523,10 +523,10 @@
       "description": "Secret unit that appears at level 47.",
       "slug": "hill",
       "artist_name": "Evan Chen",
-      "num_submissions": 185,
-      "num_students": 571,
-      "num_clubs": 4293,
-      "num_hearts": 1006.75,
+      "num_submissions": 195,
+      "num_students": 605,
+      "num_clubs": 4536,
+      "num_hearts": 1038.09,
       "versions": ["BKV", "DKV", "ZKV"]
     },
     {
@@ -535,10 +535,10 @@
       "description": "A less friendly and more abstract projective geometry unit, with an emphasis on projective transformations. Most of the theorems will be stated with respect to an arbitrary conic rather than a circle. Expect lots of Pascal. Includes Desargues involution theorem (DIT) and its dual (DDIT).",
       "slug": "homography",
       "artist_name": "Nurtilek Duishobaev",
-      "num_submissions": 180,
-      "num_students": 716,
-      "num_clubs": 10051,
-      "num_hearts": 4578.29,
+      "num_submissions": 195,
+      "num_students": 837,
+      "num_clubs": 11104,
+      "num_hearts": 5251.63,
       "versions": ["DGY", "ZGY"]
     },
     {
@@ -547,10 +547,10 @@
       "description": "Grab-bag of geometry problems that feature some algebra, combinatorics, or number theory. As examples, this includes geometric inequalities, combinatorial geometry, and problems involving integer distances or lattice points.",
       "slug": "hybrid",
       "artist_name": "Joel Gerlach",
-      "num_submissions": 54,
-      "num_students": 444,
-      "num_clubs": 2685,
-      "num_hearts": 1254.56,
+      "num_submissions": 56,
+      "num_students": 511,
+      "num_clubs": 2799,
+      "num_hearts": 1339.56,
       "versions": ["DGX", "ZGX"]
     },
     {
@@ -559,10 +559,10 @@
       "description": "A silly (but difficult) unit on the theory of rectangular circumhyperbolas and the Poncelet point. For fun, if you really like hardcore projective geometry.",
       "slug": "hyperbola",
       "artist_name": "anonymous",
-      "num_submissions": 35,
-      "num_students": 235,
-      "num_clubs": 1346,
-      "num_hearts": 683.1,
+      "num_submissions": 39,
+      "num_students": 281,
+      "num_clubs": 1458,
+      "num_hearts": 731.1,
       "versions": ["ZGX"]
     },
     {
@@ -571,10 +571,10 @@
       "description": "Problems which really use induction and recursion in a substantial way, i.e. the main idea of the problem really is about how (or whether) to induct. Features some AIME-style recursion calculations.",
       "slug": "induct1",
       "artist_name": "Jiya Dani",
-      "num_submissions": 229,
-      "num_students": 1086,
-      "num_clubs": 10551,
-      "num_hearts": 4330.73,
+      "num_submissions": 255,
+      "num_students": 1361,
+      "num_clubs": 11693,
+      "num_hearts": 4893.73,
       "versions": ["BCX"]
     },
     {
@@ -583,10 +583,10 @@
       "description": "This is a duplicate of Induction I, but more difficult and with different artwork.",
       "slug": "induct2",
       "artist_name": "Soumitro Shovon Dwip",
-      "num_submissions": 92,
-      "num_students": 646,
-      "num_clubs": 5759,
-      "num_hearts": 2339.0,
+      "num_submissions": 105,
+      "num_students": 804,
+      "num_clubs": 6801,
+      "num_hearts": 2637.0,
       "versions": ["DCY"]
     },
     {
@@ -595,10 +595,10 @@
       "description": "The basics of inequalities: AM-GM, homogenization, Cauchy/Holder.",
       "slug": "ineqbasic",
       "artist_name": "Alan Cheng",
-      "num_submissions": 350,
-      "num_students": 1141,
-      "num_clubs": 22850,
-      "num_hearts": 7613.02,
+      "num_submissions": 379,
+      "num_students": 1391,
+      "num_clubs": 24792,
+      "num_hearts": 8246.66,
       "versions": ["BAW"]
     },
     {
@@ -607,10 +607,10 @@
       "description": "Techniques for inequalities of the form $f(x_1) + ... + f(x_n)$. Jensen, Karamata, tangent line trick. The $n-1$ equal value principle is deferred to Ineq Standard.",
       "slug": "ineqfunc",
       "artist_name": "Heyang Ni",
-      "num_submissions": 157,
-      "num_students": 832,
-      "num_clubs": 5644,
-      "num_hearts": 1933.56,
+      "num_submissions": 167,
+      "num_students": 1015,
+      "num_clubs": 6038,
+      "num_hearts": 2021.91,
       "versions": ["BAW"]
     },
     {
@@ -619,10 +619,10 @@
       "description": "Inequalities which can be approached using all the standard methods. This is sort of a combination of Ineq Basic and Ineq Func.",
       "slug": "ineqstandard",
       "artist_name": "Shrrivathsa Mahesh",
-      "num_submissions": 189,
-      "num_students": 991,
-      "num_clubs": 12803,
-      "num_hearts": 4679.97,
+      "num_submissions": 201,
+      "num_students": 1179,
+      "num_clubs": 13713,
+      "num_hearts": 4993.97,
       "versions": ["DAX"]
     },
     {
@@ -631,10 +631,10 @@
       "description": "Secret unit that appears at level 61.",
       "slug": "selmburg",
       "artist_name": "Evan Chen",
-      "num_submissions": 112,
-      "num_students": 353,
-      "num_clubs": 4697,
-      "num_hearts": 807.52,
+      "num_submissions": 115,
+      "num_students": 377,
+      "num_clubs": 4838,
+      "num_hearts": 831.52,
       "versions": ["BKV", "DKV", "ZKV"]
     },
     {
@@ -643,10 +643,10 @@
       "description": "A theoretical unit on the algebra and number theory of polynomials over $\\mathbb Z$, bordering into some algebraic number theory and Galois theory. Algebraic integers and irreducible polynomials feature prominently in this unit. The number theory in this unit goes deeper than that used in the Irreducible unit.",
       "slug": "intpoly",
       "artist_name": "Aaryan Vaishya",
-      "num_submissions": 86,
-      "num_students": 901,
-      "num_clubs": 5214,
-      "num_hearts": 2320.7,
+      "num_submissions": 90,
+      "num_students": 1051,
+      "num_clubs": 5544,
+      "num_hearts": 2453.7,
       "versions": ["DNY", "ZNY"]
     },
     {
@@ -655,10 +655,10 @@
       "description": "Was your calculus class too easy for you? Do you want to stare at random artificial expressions having no idea how to find their antiderivative? If so, this unit is for you! Enjoy a student-contributed guest unit featuring problems from integration bees from MIT and other places.",
       "slug": "intbee",
       "artist_name": "Evan Chen",
-      "num_submissions": 65,
-      "num_students": 270,
-      "num_clubs": 3774,
-      "num_hearts": 1185.14,
+      "num_submissions": 70,
+      "num_students": 335,
+      "num_clubs": 4105,
+      "num_hearts": 1275.14,
       "versions": ["DAX"]
     },
     {
@@ -667,10 +667,10 @@
       "description": "Mixed combinatorics practice at the IMO 2/5 level.",
       "slug": "intermix",
       "artist_name": "Evan Chen",
-      "num_submissions": 54,
-      "num_students": 281,
-      "num_clubs": 2249,
-      "num_hearts": 1126.5,
+      "num_submissions": 55,
+      "num_students": 373,
+      "num_clubs": 2290,
+      "num_hearts": 1143.5,
       "versions": ["DCW", "DCX"]
     },
     {
@@ -679,10 +679,10 @@
       "description": "A harder follow-up unit to chapters 8 and 10 of EGMO.",
       "slug": "kansas",
       "artist_name": "Emily Yu",
-      "num_submissions": 65,
-      "num_students": 488,
-      "num_clubs": 4087,
-      "num_hearts": 1746.39,
+      "num_submissions": 69,
+      "num_students": 562,
+      "num_clubs": 4342,
+      "num_hearts": 1857.39,
       "versions": ["ZGY"]
     },
     {
@@ -691,10 +691,10 @@
       "description": "Inversion in olympiad geometry, following up chapter 8 of EGMO.",
       "slug": "invert",
       "artist_name": "Heyang Ni",
-      "num_submissions": 144,
-      "num_students": 859,
-      "num_clubs": 9301,
-      "num_hearts": 3920.49,
+      "num_submissions": 153,
+      "num_students": 1028,
+      "num_clubs": 9937,
+      "num_hearts": 4260.49,
       "versions": ["DGW"]
     },
     {
@@ -703,10 +703,10 @@
       "description": "Algorithmic problems which involve showing that it is possible to achieve some task (rather than finding invariants or proving impossibility). Features selected problems from the IOI, so some CS background is helpful but not necessary.",
       "slug": "ioi",
       "artist_name": "Soumitro Shovon Dwip",
-      "num_submissions": 63,
-      "num_students": 538,
-      "num_clubs": 4047,
-      "num_hearts": 1798.0,
+      "num_submissions": 67,
+      "num_students": 631,
+      "num_clubs": 4326,
+      "num_hearts": 1872.0,
       "versions": ["DCY", "ZCY"]
     },
     {
@@ -715,10 +715,10 @@
       "description": "Problems about showing polynomials are irreducible; these are rare in olympiads, but give you a lot of good intuition about how $\\mathbb{Z}[x]$ polynomials behave. Techniques that appear include working in $\\mathbb{F}_p[x]$, looking at the magnitude of complex roots a la Rouche, and other ad-hoc tricks. More olympiad algebra than the integer polynomials unit.",
       "slug": "irred",
       "artist_name": "Azat Madimarov",
-      "num_submissions": 62,
-      "num_students": 553,
-      "num_clubs": 2880,
-      "num_hearts": 1052.0,
+      "num_submissions": 67,
+      "num_students": 652,
+      "num_clubs": 3177,
+      "num_hearts": 1268.0,
       "versions": ["DAX"]
     },
     {
@@ -727,10 +727,10 @@
       "description": "Problems using linear algebra (rather than problems about linear algebra). Most of the problems here are combinatorial in nature as a result, and there is a mix of linear algebra over $\\mathbb R$ and linear algebra over $\\mathbb{F}_2$.",
       "slug": "linalg",
       "artist_name": "Lum Jerliu",
-      "num_submissions": 74,
-      "num_students": 639,
-      "num_clubs": 3617,
-      "num_hearts": 1706.0,
+      "num_submissions": 80,
+      "num_students": 739,
+      "num_clubs": 4034,
+      "num_hearts": 1997.0,
       "versions": ["DCY", "ZCY"]
     },
     {
@@ -739,10 +739,10 @@
       "description": "This unit revolves around two particular techniques: linearity of a difference of power of a point and the forgotten coaxiality lemma. This is used to compare powers of a point with respect to two different circles, particularly showing they are equal.",
       "slug": "linpop",
       "artist_name": "Gunjan Aggarwal",
-      "num_submissions": 18,
-      "num_students": 187,
-      "num_clubs": 1124,
-      "num_hearts": 412.25,
+      "num_submissions": 21,
+      "num_students": 263,
+      "num_clubs": 1385,
+      "num_hearts": 564.25,
       "versions": ["ZGY"]
     },
     {
@@ -751,10 +751,10 @@
       "description": "In contrast to the global unit, this unit is about problems starting from somewhere and perturbing it by a little bit. For example, in a greedy algorithm, if I want a set $S$ of size at least 100 with a certain property, I can imagine starting with $S$ empty and then grabbing things to add to $S$ while trying to avoid bad-ness (whatever that means for the current problem). It's then enough to prove I don't get stuck at any point. Most of the problems in this unit will have a similar algorithmic feeling.",
       "slug": "local",
       "artist_name": "Emily Yu",
-      "num_submissions": 326,
-      "num_students": 1325,
-      "num_clubs": 15075,
-      "num_hearts": 7245.2,
+      "num_submissions": 352,
+      "num_students": 1566,
+      "num_clubs": 16493,
+      "num_hearts": 7756.78,
       "versions": ["DCW", "DCX"]
     },
     {
@@ -763,10 +763,10 @@
       "description": "Miscellaneous number theory problems that didn't fit well in other units.",
       "slug": "miscnt",
       "artist_name": "Emily Yu",
-      "num_submissions": 87,
-      "num_students": 460,
-      "num_clubs": 4796,
-      "num_hearts": 1773.14,
+      "num_submissions": 92,
+      "num_students": 550,
+      "num_clubs": 5074,
+      "num_hearts": 1857.14,
       "versions": ["DNX"]
     },
     {
@@ -775,10 +775,10 @@
       "description": "One of two beginner units in number theory focusing on modular arithmetic.\r\nEmphasis on basic proof-based problems, starting with simple Diophantine equations that can be solved by taking moduluses and factoring.\r\nThe two Modular Arithmetic units can be done in either order.",
       "slug": "proofmod",
       "artist_name": "Evan Chen",
-      "num_submissions": 79,
-      "num_students": 252,
-      "num_clubs": 5192,
-      "num_hearts": 1873.6,
+      "num_submissions": 128,
+      "num_students": 558,
+      "num_clubs": 8109,
+      "num_hearts": 2708.26,
       "versions": ["BNX"]
     },
     {
@@ -787,10 +787,10 @@
       "description": "One of two beginner units in number theory focusing on modular arithmetic.\r\nEmphasis on concrete calculation in problems which ultimately ask for a numerical answer.\r\nThe two Modular Arithmetic units can be done in either order.",
       "slug": "aimemod",
       "artist_name": "Sambhu Ganesan",
-      "num_submissions": 422,
-      "num_students": 1216,
-      "num_clubs": 25778,
-      "num_hearts": 8687.4,
+      "num_submissions": 445,
+      "num_students": 1471,
+      "num_clubs": 26964,
+      "num_hearts": 9008.4,
       "versions": ["BNW"]
     },
     {
@@ -799,10 +799,10 @@
       "description": "The functional equations that don't bore me, because the solution isn't just $f(x) = x$ anymore! This follows up the Monsters handout on my website.",
       "slug": "monster",
       "artist_name": "Owen Zhang",
-      "num_submissions": 99,
-      "num_students": 714,
-      "num_clubs": 5294,
-      "num_hearts": 2612.0,
+      "num_submissions": 105,
+      "num_students": 852,
+      "num_clubs": 5628,
+      "num_hearts": 2756.0,
       "versions": ["DFW", "ZFW"]
     },
     {
@@ -811,10 +811,10 @@
       "description": "A technique involving animating points and considering resulting projective maps. This lecture was contributed by Anant Mudgal.",
       "slug": "movingpts",
       "artist_name": "Alan Cheng",
-      "num_submissions": 40,
-      "num_students": 451,
-      "num_clubs": 2025,
-      "num_hearts": 1253.43,
+      "num_submissions": 41,
+      "num_students": 530,
+      "num_clubs": 2065,
+      "num_hearts": 1276.43,
       "versions": ["ZGW"]
     },
     {
@@ -823,10 +823,10 @@
       "description": "Multivariable calculus as taught at MIT in fall 2024, based on the LAMV textbook written by Evan. Covers multivariable differentiation, multivariable integration, and special cases of the general Stokes theorem for dimension up to 3. Requires only a high school background up to single-variable calculus. Half the problems are exercises from my book and the other half are past Putnam problems.",
       "slug": "multivar",
       "artist_name": "Catherine Xu",
-      "num_submissions": 6,
-      "num_students": 116,
-      "num_clubs": 218,
-      "num_hearts": 92.0,
+      "num_submissions": 8,
+      "num_students": 174,
+      "num_clubs": 310,
+      "num_hearts": 142.0,
       "versions": ["DHW"]
     },
     {
@@ -835,10 +835,10 @@
       "description": "This one's a secret. It's a bit weird, but for this unit to work I have to start by not telling you what it's about.",
       "slug": "mystery",
       "artist_name": "Alon Ragoler",
-      "num_submissions": 21,
-      "num_students": 365,
-      "num_clubs": 33,
-      "num_hearts": 10.76,
+      "num_submissions": 22,
+      "num_students": 450,
+      "num_clubs": 34,
+      "num_hearts": 11.51,
       "versions": ["BCW"]
     },
     {
@@ -847,10 +847,10 @@
       "description": "A challenging number theory unit to conclude the year, with difficult problems reviewing everything that has appeared earlier.",
       "slug": "n7summit",
       "artist_name": "``Milk''",
-      "num_submissions": 17,
-      "num_students": 291,
-      "num_clubs": 1298,
-      "num_hearts": 722.0,
+      "num_submissions": 19,
+      "num_students": 340,
+      "num_clubs": 1421,
+      "num_hearts": 770.0,
       "versions": ["ZNY"]
     },
     {
@@ -859,10 +859,10 @@
       "description": "Construction problems in number theory. In some ways it's like the free unit because you get to make some decisions, but in other ways Z has a lot of structure that you might know things about, and you'll have to balance these two intuitions.",
       "slug": "ntconstruct",
       "artist_name": "Heyang Ni",
-      "num_submissions": 141,
-      "num_students": 983,
-      "num_clubs": 7756,
-      "num_hearts": 3431.8,
+      "num_submissions": 149,
+      "num_students": 1177,
+      "num_clubs": 8270,
+      "num_hearts": 3781.8,
       "versions": ["DNY", "ZNY"]
     },
     {
@@ -871,11 +871,23 @@
       "description": "Orders modulo a prime, at the border of AIME and USA(J)MO but leaning a lot more towards the latter. Intended as an introduction into olympiad number theory.",
       "slug": "orders",
       "artist_name": "Rohan Garg",
-      "num_submissions": 446,
-      "num_students": 1515,
-      "num_clubs": 28603,
-      "num_hearts": 9304.48,
+      "num_submissions": 484,
+      "num_students": 1840,
+      "num_clubs": 30954,
+      "num_hearts": 9980.85,
       "versions": ["BNW"]
+    },
+    {
+      "name": "Porisms",
+      "subject": "Geometry (Slytherin)",
+      "description": "A guest unit on various types of porisms, based on Michael Ren's Porism Cafe Menu at MOP.",
+      "slug": "porisms",
+      "artist_name": "Royce Yao",
+      "num_submissions": 0,
+      "num_students": 0,
+      "num_clubs": 0,
+      "num_hearts": 0.0,
+      "versions": ["ZGX"]
     },
     {
       "name": "Prime Exponents",
@@ -883,10 +895,10 @@
       "description": "The use of $\\nu_p$ in handling olympiad problems.",
       "slug": "vp",
       "artist_name": "Heyang Ni",
-      "num_submissions": 436,
-      "num_students": 1593,
-      "num_clubs": 21927,
-      "num_hearts": 9726.68,
+      "num_submissions": 480,
+      "num_students": 1937,
+      "num_clubs": 24115,
+      "num_hearts": 10437.9,
       "versions": ["BNW", "DNW"]
     },
     {
@@ -895,10 +907,10 @@
       "description": "This is about staring at a moving process (e.g. windmill) and trying to understand what is going on. (The most common thing people say here is monovariants or invariants, but that's only one example of a way you can understand a process.) In a lot of ways it's like the Rigid unit, except your data is way less concrete, and in some cases unobtainable, so you'll be applying the same intuition in a more hostile environment.",
       "slug": "process",
       "artist_name": "Owen Zhang",
-      "num_submissions": 115,
-      "num_students": 896,
-      "num_clubs": 7633,
-      "num_hearts": 3813.25,
+      "num_submissions": 127,
+      "num_students": 1054,
+      "num_clubs": 8571,
+      "num_hearts": 4190.25,
       "versions": ["DCY", "ZCY"]
     },
     {
@@ -907,10 +919,10 @@
       "description": "An extension of the Sums unit --- rather than just swapping infinite sums, we now get to enjoy swapping infinite integrals as well.",
       "slug": "putnamana",
       "artist_name": "Owen Zhang",
-      "num_submissions": 18,
-      "num_students": 179,
-      "num_clubs": 841,
-      "num_hearts": 391.6,
+      "num_submissions": 20,
+      "num_students": 209,
+      "num_clubs": 916,
+      "num_hearts": 427.6,
       "versions": ["ZAW"]
     },
     {
@@ -919,10 +931,10 @@
       "description": "General polynomials unit, maintaining some distance from integer polynomials (though still overlapping slightly). Includes Vieta/Newton, multivariable polynomials, Lagrange interpolation, size arguments, differentiation.",
       "slug": "realpoly",
       "artist_name": "Owen Zhang",
-      "num_submissions": 138,
-      "num_students": 842,
-      "num_clubs": 7822,
-      "num_hearts": 3668.52,
+      "num_submissions": 148,
+      "num_students": 1007,
+      "num_clubs": 8433,
+      "num_hearts": 3973.52,
       "versions": ["DAW", "ZAW"]
     },
     {
@@ -931,10 +943,10 @@
       "description": "A really standard cookie-cutter unit with functional equations over real numbers or positive real numbers. Generally more dry than the other functional equational units, so only recommended if you really want additional FE practice or really enjoy FE's.",
       "slug": "rrfn",
       "artist_name": "Paul Dao",
-      "num_submissions": 7,
-      "num_students": 33,
-      "num_clubs": 347,
-      "num_hearts": 155.0,
+      "num_submissions": 11,
+      "num_students": 114,
+      "num_clubs": 510,
+      "num_hearts": 218.0,
       "versions": ["DFY"]
     },
     {
@@ -943,10 +955,10 @@
       "description": "This is one of my favorite units. It's about problems which involve taking a fixed structure, and trying to figure out as much as you can about it --- the task the problem asks you to actually prove becomes unimportant, almost like an answer extraction at the end. Rigid problems often have so few degrees of freedom that a lot of what you'll be doing is writing down a lot of concrete examples, and then trying to figure out what they have in common. You will feel like you are discovering mathematics, rather than inventing it (in contrast to the Free unit).",
       "slug": "rigid",
       "artist_name": "Arul Kolla",
-      "num_submissions": 342,
-      "num_students": 1880,
-      "num_clubs": 17708,
-      "num_hearts": 8583.23,
+      "num_submissions": 370,
+      "num_students": 2185,
+      "num_clubs": 19349,
+      "num_hearts": 9251.81,
       "versions": ["BCX", "DCX", "ZCX"]
     },
     {
@@ -955,10 +967,10 @@
       "description": "A fun unit involving combinatorics problems from Russia.",
       "slug": "russian",
       "artist_name": "Cecilia Sun",
-      "num_submissions": 136,
-      "num_students": 780,
-      "num_clubs": 7350,
-      "num_hearts": 3201.5,
+      "num_submissions": 145,
+      "num_students": 949,
+      "num_clubs": 7806,
+      "num_hearts": 3337.67,
       "versions": ["BCX", "DCX"]
     },
     {
@@ -967,10 +979,10 @@
       "description": "Using size as a way to handle number theory conditions, for example taking sufficiently large primes. On the border between olympiad algebra and olympiad number theory.",
       "slug": "sizent",
       "artist_name": "Anurag Singh",
-      "num_submissions": 192,
-      "num_students": 933,
-      "num_clubs": 9701,
-      "num_hearts": 4103.35,
+      "num_submissions": 203,
+      "num_students": 1099,
+      "num_clubs": 10471,
+      "num_hearts": 4391.85,
       "versions": ["DNW", "DNX"]
     },
     {
@@ -979,10 +991,10 @@
       "description": "Spiral similarity and Miquel points, following up chapter 10 of EGMO.",
       "slug": "spiral",
       "artist_name": "Lum Jerliu",
-      "num_submissions": 113,
-      "num_students": 752,
-      "num_clubs": 6792,
-      "num_hearts": 2607.56,
+      "num_submissions": 125,
+      "num_students": 917,
+      "num_clubs": 7616,
+      "num_hearts": 3016.13,
       "versions": ["DGW"]
     },
     {
@@ -991,10 +1003,10 @@
       "description": "Practice with manipulating sums, and in particular switching the order of summation (or integration). Features generating functions and Snake Oil as well. The Gen Func unit is an optional prerequisite.",
       "slug": "sums",
       "artist_name": "Jacopo Rizzo",
-      "num_submissions": 280,
-      "num_students": 1572,
-      "num_clubs": 12998,
-      "num_hearts": 5165.18,
+      "num_submissions": 300,
+      "num_students": 1870,
+      "num_clubs": 13954,
+      "num_hearts": 5594.18,
       "versions": ["BAX", "DAX"]
     },
     {
@@ -1004,7 +1016,7 @@
       "slug": "superbary",
       "artist_name": "Evan Chen",
       "num_submissions": 25,
-      "num_students": 212,
+      "num_students": 244,
       "num_clubs": 1139,
       "num_hearts": 459.5,
       "versions": ["ZGX"]
@@ -1015,10 +1027,10 @@
       "description": "A more difficult version of the complex numbers unit.",
       "slug": "supercomplex",
       "artist_name": "Evan Chen",
-      "num_submissions": 30,
-      "num_students": 297,
-      "num_clubs": 1930,
-      "num_hearts": 818.0,
+      "num_submissions": 35,
+      "num_students": 348,
+      "num_clubs": 2329,
+      "num_hearts": 1139.0,
       "versions": ["ZGX"]
     },
     {
@@ -1027,10 +1039,10 @@
       "description": "Number theory practice for experts, combining problems from Exp and Heavy NT as well as some other sources.",
       "slug": "supernumth",
       "artist_name": "Sambhu Ganesan",
-      "num_submissions": 87,
-      "num_students": 539,
-      "num_clubs": 5783,
-      "num_hearts": 2641.5,
+      "num_submissions": 95,
+      "num_students": 622,
+      "num_clubs": 6220,
+      "num_hearts": 2800.5,
       "versions": ["ZNW", "ZNX"]
     },
     {
@@ -1039,10 +1051,10 @@
       "description": "Vieta formulas, Newton sums, and the fundamental theorem of symmetric polynomials. Involves some computational problems. In my opinion, this is probably the easiest unit.",
       "slug": "sympoly",
       "artist_name": "Rohan Dhillon",
-      "num_submissions": 551,
-      "num_students": 957,
-      "num_clubs": 30339,
-      "num_hearts": 8281.38,
+      "num_submissions": 625,
+      "num_students": 1159,
+      "num_clubs": 34906,
+      "num_hearts": 9605.66,
       "versions": ["BAW"]
     },
     {
@@ -1052,7 +1064,7 @@
       "slug": "tara",
       "artist_name": "Evan Chen",
       "num_submissions": 7,
-      "num_students": 136,
+      "num_students": 191,
       "num_clubs": 280,
       "num_hearts": 185.0,
       "versions": ["DHW"]
@@ -1063,10 +1075,10 @@
       "description": "Harder inequality problems that don't succumb to the standard methods: it takes some more ingenuity to figure out how to approach these.",
       "slug": "trickineq",
       "artist_name": "Joel Gerlarch",
-      "num_submissions": 72,
-      "num_students": 608,
-      "num_clubs": 3277,
-      "num_hearts": 1298.77,
+      "num_submissions": 75,
+      "num_students": 704,
+      "num_clubs": 3491,
+      "num_hearts": 1423.77,
       "versions": ["DAX"]
     },
     {
@@ -1075,10 +1087,10 @@
       "description": "The trig-bash unit. Several traditional-style geometry problems that are meant to be solved by chasing lengths and ratios, with the aid of trigonometric techniques.",
       "slug": "triglen",
       "artist_name": "Michael Luo",
-      "num_submissions": 36,
-      "num_students": 364,
-      "num_clubs": 1663,
-      "num_hearts": 897.2,
+      "num_submissions": 41,
+      "num_students": 493,
+      "num_clubs": 1941,
+      "num_hearts": 1058.2,
       "versions": ["DGW"]
     },
     {
@@ -1087,10 +1099,10 @@
       "description": "Those weird geometry problems that involve pentagons and hexagons and whatnot (see USAMO 2011/3 for example). Careful use of complex numbers and counting degrees of freedom are important for this unit.",
       "slug": "weirdgeo",
       "artist_name": "Emily Yu",
-      "num_submissions": 40,
-      "num_students": 480,
-      "num_clubs": 1432,
-      "num_hearts": 727.34,
+      "num_submissions": 41,
+      "num_students": 555,
+      "num_clubs": 1462,
+      "num_hearts": 742.34,
       "versions": ["DGX", "ZGX"]
     },
     {
@@ -1099,10 +1111,10 @@
       "description": "On real-valued functional equations in which all variables are \"wrapped\" by the function in some way.",
       "slug": "wrapfn",
       "artist_name": "Lum Jerliu",
-      "num_submissions": 101,
-      "num_students": 640,
-      "num_clubs": 5222,
-      "num_hearts": 2849.28,
+      "num_submissions": 110,
+      "num_students": 746,
+      "num_clubs": 5811,
+      "num_hearts": 3093.28,
       "versions": ["DFY"]
     }
   ]
