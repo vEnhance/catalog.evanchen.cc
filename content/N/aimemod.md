@@ -4,6 +4,7 @@ title = "Mod Arith 2: Computation"
 [extra]
 subject = "N"
 classification = "Number Theory"
+stub = true
 +++
 Super fun unit, would highly recommend all to do :D
 
