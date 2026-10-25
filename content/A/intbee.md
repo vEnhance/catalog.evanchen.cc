@@ -6,4 +6,8 @@ subject = "A"
 classification = "Algebra"
 stub = true
 +++
-(This is an automatically generated article for Integration Bee. Please add some content!)
+
+Get ready for some hard integrals. This unit makes you do a lot of
+IBP, some Feynman's trick, and learn about beta and the gamma function,
+and make sure you know how to use exponential form and the [Sums unit](@/A/sums.md).
+Good luck :) 
